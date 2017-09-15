@@ -1,0 +1,358 @@
+2017-03-08 11:57:04.260559 | L001 | Leaf Connect INIT
+2017-03-08 11:57:18.393317 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 11:57:18.394862 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 11:57:18.424024 | L010 | Attempting to Open Listener
+2017-03-08 11:57:20.442796 | L007 | Attempting to ParseCLOSE|CLOSE|END...CLOSE|CLOSE|END
+2017-03-08 11:57:20.448498 | L006 | Attempting to Close Socket
+2017-03-08 11:57:20.449472 | L007 | Successfully Closed Socket
+2017-03-08 11:57:49.153812 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 11:57:49.154800 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 11:57:49.156185 | L010 | Attempting to Open Listener
+2017-03-08 12:00:28.103772 | L006 | Attempting to Close Socket
+2017-03-08 12:00:28.104649 | L007 | Successfully Closed Socket
+2017-03-08 12:00:33.987782 | L007 | Attempting to ParseCLOSE|CLOSE|END...CLOSE|CLOSE|END
+2017-03-08 12:00:33.993646 | L006 | Attempting to Close Socket
+2017-03-08 12:00:33.996067 | L007 | Successfully Closed Socket
+2017-03-08 12:00:40.821146 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:00:40.822010 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:00:40.823092 | L010 | Attempting to Open Listener
+2017-03-08 12:00:41.874289 | L007 | Attempting to ParseCLOSE|CLOSE|END...CLOSE|CLOSE|END
+2017-03-08 12:00:41.875331 | L006 | Attempting to Close Socket
+2017-03-08 12:00:41.877690 | L007 | Successfully Closed Socket
+2017-03-08 12:00:45.206867 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:00:45.207525 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:00:45.208285 | L010 | Attempting to Open Listener
+2017-03-08 12:07:55.487913 | L007 | Attempting to ParseCLOSE|CLOSE|END...CLOSE|CLOSE|END
+2017-03-08 12:14:30.515646 | L001 | Leaf Connect INIT
+2017-03-08 12:14:54.186250 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:14:54.187300 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:14:54.188705 | L010 | Attempting to Open Listener
+2017-03-08 12:15:48.191355 | L006 | Attempting to Close Socket
+2017-03-08 12:15:48.192071 | L007 | Successfully Closed Socket
+2017-03-08 12:15:56.094338 | L007 | Attempting to Parse...
+2017-03-08 12:16:03.259909 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 12:16:03.260995 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 12:16:03.262164 | L010 | Attempting to Open Listener
+2017-03-08 12:16:08.781628 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:16:48.751090 | L001 | Leaf Connect INIT
+2017-03-08 12:17:01.373590 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:17:01.374249 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:17:01.375474 | L010 | Attempting to Open Listener
+2017-03-08 12:17:05.747857 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 12:19:27.616340 | L006 | Attempting to Close Socket
+2017-03-08 12:19:27.617621 | L007 | Successfully Closed Socket
+2017-03-08 12:19:38.776708 | L001 | Leaf Connect INIT
+2017-03-08 12:19:47.817793 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:19:47.819279 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:19:47.821728 | L010 | Attempting to Open Listener
+2017-03-08 12:19:50.760254 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 12:23:50.363272 | L006 | Attempting to Close Socket
+2017-03-08 12:23:50.364786 | L007 | Successfully Closed Socket
+2017-03-08 12:23:54.539665 | L001 | Leaf Connect INIT
+2017-03-08 12:24:04.277002 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:24:04.277553 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:24:04.278513 | L010 | Attempting to Open Listener
+2017-03-08 12:24:08.142603 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:24:08.147972 | L008 | attempting codeSaving
+2017-03-08 12:24:08.150263 | L007 | Attempting to Parse{'method': 'RUNCODE', 'message': "['1', '2', '3', ...997', '998', '999', '1000']", 'ticket': '434'}|END
+2017-03-08 12:24:08.151052 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:04.213869 | L001 | Leaf Connect INIT
+2017-03-08 12:26:18.123385 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 12:26:18.123898 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 12:26:18.124775 | L010 | Attempting to Open Listener
+2017-03-08 12:26:23.706469 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:23.712823 | L008 | attempting codeSaving
+2017-03-08 12:26:23.713835 | L007 | Attempting to Parse{'ticket': '435', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:23.714874 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:23.743334 | L010 | code run response 
+2017-03-08 12:26:32.946261 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:32.950024 | L008 | attempting codeSaving
+2017-03-08 12:26:32.983356 | L007 | Attempting to Parse{'ticket': '436', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:32.984280 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:33.011677 | L010 | code run response 
+2017-03-08 12:26:36.508475 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:36.510194 | L008 | attempting codeSaving
+2017-03-08 12:26:36.547764 | L007 | Attempting to Parse{'ticket': '437', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:36.549741 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:36.607450 | L010 | code run response 
+2017-03-08 12:26:40.858075 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:40.860202 | L008 | attempting codeSaving
+2017-03-08 12:26:40.865375 | L007 | Attempting to Parse{'ticket': '438', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:40.867632 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:40.921175 | L010 | code run response 
+2017-03-08 12:26:42.084844 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:42.085678 | L008 | attempting codeSaving
+2017-03-08 12:26:42.088627 | L007 | Attempting to Parse{'ticket': '439', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:42.089611 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:42.119352 | L010 | code run response 
+2017-03-08 12:26:43.118969 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:43.120568 | L008 | attempting codeSaving
+2017-03-08 12:26:43.155640 | L007 | Attempting to Parse{'ticket': '440', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:43.157205 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:43.199827 | L010 | code run response 
+2017-03-08 12:26:43.863494 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:43.872048 | L008 | attempting codeSaving
+2017-03-08 12:26:43.875085 | L007 | Attempting to Parse{'ticket': '441', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:43.878218 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:43.929833 | L010 | code run response 
+2017-03-08 12:26:44.420839 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:44.422854 | L008 | attempting codeSaving
+2017-03-08 12:26:44.428180 | L007 | Attempting to Parse{'ticket': '442', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:44.429893 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:44.479935 | L010 | code run response 
+2017-03-08 12:26:44.638547 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:44.640284 | L008 | attempting codeSaving
+2017-03-08 12:26:44.645738 | L007 | Attempting to Parse{'ticket': '443', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:44.647253 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:44.690124 | L010 | code run response 
+2017-03-08 12:26:44.805530 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:44.806476 | L008 | attempting codeSaving
+2017-03-08 12:26:44.809484 | L007 | Attempting to Parse{'ticket': '444', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:44.810556 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:44.840116 | L010 | code run response 
+2017-03-08 12:26:44.972723 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:44.973679 | L008 | attempting codeSaving
+2017-03-08 12:26:45.011482 | L007 | Attempting to Parse{'ticket': '445', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:45.013033 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:45.043035 | L010 | code run response 
+2017-03-08 12:26:45.136125 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:45.138064 | L008 | attempting codeSaving
+2017-03-08 12:26:45.175510 | L007 | Attempting to Parse{'ticket': '446', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:45.177220 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:45.210033 | L010 | code run response 
+2017-03-08 12:26:45.307082 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:45.308861 | L008 | attempting codeSaving
+2017-03-08 12:26:45.343597 | L007 | Attempting to Parse{'ticket': '447', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:45.345255 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:45.390634 | L010 | code run response 
+2017-03-08 12:26:45.475682 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:45.477810 | L008 | attempting codeSaving
+2017-03-08 12:26:45.480625 | L007 | Attempting to Parse{'ticket': '448', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:45.481830 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:45.508815 | L010 | code run response 
+2017-03-08 12:26:47.697243 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:47.698917 | L008 | attempting codeSaving
+2017-03-08 12:26:47.735358 | L007 | Attempting to Parse{'ticket': '449', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:47.736403 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:47.764774 | L010 | code run response 
+2017-03-08 12:26:47.867596 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:47.869327 | L008 | attempting codeSaving
+2017-03-08 12:26:47.907521 | L007 | Attempting to Parse{'ticket': '450', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:47.908777 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:47.941112 | L010 | code run response 
+2017-03-08 12:26:48.011137 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.012394 | L008 | attempting codeSaving
+2017-03-08 12:26:48.047321 | L007 | Attempting to Parse{'ticket': '451', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.048670 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.077237 | L010 | code run response 
+2017-03-08 12:26:48.137876 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.139107 | L008 | attempting codeSaving
+2017-03-08 12:26:48.175370 | L007 | Attempting to Parse{'ticket': '452', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.176372 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.206414 | L010 | code run response 
+2017-03-08 12:26:48.293601 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.295474 | L008 | attempting codeSaving
+2017-03-08 12:26:48.331424 | L007 | Attempting to Parse{'ticket': '453', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.333289 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.361347 | L010 | code run response 
+2017-03-08 12:26:48.436534 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.438687 | L008 | attempting codeSaving
+2017-03-08 12:26:48.475474 | L007 | Attempting to Parse{'ticket': '454', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.476903 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.508251 | L010 | code run response 
+2017-03-08 12:26:48.565713 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.567384 | L008 | attempting codeSaving
+2017-03-08 12:26:48.603528 | L007 | Attempting to Parse{'ticket': '455', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.605566 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.633777 | L010 | code run response 
+2017-03-08 12:26:48.688517 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.690384 | L008 | attempting codeSaving
+2017-03-08 12:26:48.727421 | L007 | Attempting to Parse{'ticket': '456', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.729002 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.758620 | L010 | code run response 
+2017-03-08 12:26:48.864507 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:48.867067 | L008 | attempting codeSaving
+2017-03-08 12:26:48.903566 | L007 | Attempting to Parse{'ticket': '457', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:48.905459 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:48.941290 | L010 | code run response 
+2017-03-08 12:26:49.017959 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:49.019287 | L008 | attempting codeSaving
+2017-03-08 12:26:49.055457 | L007 | Attempting to Parse{'ticket': '458', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:49.056910 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:49.090514 | L010 | code run response 
+2017-03-08 12:26:49.146121 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:49.147183 | L008 | attempting codeSaving
+2017-03-08 12:26:49.183392 | L007 | Attempting to Parse{'ticket': '459', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:49.184582 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:49.213265 | L010 | code run response 
+2017-03-08 12:26:49.270080 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:49.271808 | L008 | attempting codeSaving
+2017-03-08 12:26:49.307410 | L007 | Attempting to Parse{'ticket': '460', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:49.308825 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:49.337620 | L010 | code run response 
+2017-03-08 12:26:49.411202 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:26:49.415636 | L008 | attempting codeSaving
+2017-03-08 12:26:49.447392 | L007 | Attempting to Parse{'ticket': '461', 'method': 'RUNCODE', 'message': ..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 12:26:49.448601 | L009 | Attempting to RUNCODE
+2017-03-08 12:26:49.476403 | L010 | code run response 
+2017-03-08 12:27:01.414358 | L001 | Leaf Connect INIT
+2017-03-08 12:27:05.112913 | L001 | Leaf Connect INIT
+2017-03-08 12:27:15.218752 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 12:27:15.222151 | L010 | Attempting to Open Listener
+2017-03-08 12:27:16.233403 | L002 | Leaf Attempting to Connect to 127.0.0.1:5002
+2017-03-08 12:27:16.235076 | L010 | Attempting to Open Listener
+2017-03-08 12:27:25.255658 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 12:27:25.258180 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 12:27:25.260152 | L010 | Attempting to Open Listener
+2017-03-08 12:27:27.819655 | L002 | Leaf Attempting to Connect to 127.0.0.1:5002
+2017-03-08 12:27:27.822599 | L003 | Successfully Connected to 127.0.0.1:5002
+2017-03-08 12:27:27.825560 | L010 | Attempting to Open Listener
+2017-03-08 12:27:30.469455 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:27:30.471124 | L008 | attempting codeSaving
+2017-03-08 12:27:30.472217 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 12:27:30.473494 | L008 | attempting codeSaving
+2017-03-08 12:27:30.475696 | L007 | Attempting to Parse{'ticket': '463', 'method': 'RUNCODE', 'message': ...', '983', '986', '989', '992', '995', '998']"}|END
+2017-03-08 12:27:30.477003 | L009 | Attempting to RUNCODE
+2017-03-08 12:27:30.482447 | L008 | attempting codeSaving
+2017-03-08 12:27:30.496884 | L010 | code run response 
+2017-03-08 12:27:30.507330 | L007 | Attempting to Parse{'ticket': '462', 'method': 'RUNCODE', 'message': ..., '985', '988', '991', '994', '997', '1000']"}|END
+2017-03-08 12:27:30.508217 | L009 | Attempting to RUNCODE
+2017-03-08 12:27:30.522619 | L010 | code run response 
+2017-03-08 12:28:01.582579 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 12:28:01.901177 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 12:28:02.335040 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 13:58:33.401264 | L001 | Leaf Connect INIT
+2017-03-08 13:58:44.411008 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 13:58:44.413081 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 13:58:44.444989 | L010 | Attempting to Open Listener
+2017-03-08 14:01:04.644325 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-08 14:01:10.477258 | L001 | Leaf Connect INIT
+2017-03-08 14:01:19.389469 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 14:01:19.391578 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 14:01:19.394982 | L010 | Attempting to Open Listener
+2017-03-08 14:02:24.767086 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 14:02:24.771040 | L006 | Attempting to Close Socket
+2017-03-08 14:02:24.778552 | L007 | Successfully Closed Socket
+2017-03-08 14:02:25.693074 | L006 | Attempting to Close Socket
+2017-03-08 14:02:25.695346 | L007 | Successfully Closed Socket
+2017-03-08 14:02:38.308514 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-08 14:02:38.310267 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-08 14:02:38.313107 | L010 | Attempting to Open Listener
+2017-03-08 14:02:39.959049 | L007 | Attempting to Parse{'method': 'CODE', 'message': "['def a(values):#TE... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-08 14:02:39.962599 | L008 | attempting codeSaving
+2017-03-08 14:02:39.969748 | L007 | Attempting to Parse{'method': 'RUNCODE', 'ticket': '464', 'DataType':..., '995', '996', '997', '998', '999', '1000']"}|END
+2017-03-08 14:02:39.973216 | L009 | Attempting to RUNCODE
+2017-03-08 14:02:40.024803 | L010 | code run response 
+2017-03-08 14:03:24.631416 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 14:03:24.632639 | L006 | Attempting to Close Socket
+2017-03-08 14:03:24.662432 | L007 | Successfully Closed Socket
+2017-03-08 14:03:28.934036 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:03:28.935806 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:03:28.938653 | L010 | Attempting to Open Listener
+2017-03-08 14:04:24.302006 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-08 14:51:46.910567 | L001 | Leaf Connect INIT
+2017-03-08 14:51:59.428552 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:51:59.431572 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:51:59.434366 | L010 | Attempting to Open Listener
+2017-03-08 14:53:24.648587 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 14:53:24.652091 | L006 | Attempting to Close Socket
+2017-03-08 14:53:24.654243 | L007 | Successfully Closed Socket
+2017-03-08 14:53:54.880144 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:53:54.881737 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:53:54.884897 | L010 | Attempting to Open Listener
+2017-03-08 14:55:54.907630 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-08 14:56:57.316596 | L001 | Leaf Connect INIT
+2017-03-08 14:57:07.075076 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:57:07.076069 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:57:07.077653 | L010 | Attempting to Open Listener
+2017-03-08 14:57:57.330253 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 14:57:57.336510 | L006 | Attempting to Close Socket
+2017-03-08 14:57:57.341592 | L007 | Successfully Closed Socket
+2017-03-08 14:58:05.597461 | L001 | Leaf Connect INIT
+2017-03-08 14:58:14.314165 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:58:14.316330 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:58:14.319465 | L010 | Attempting to Open Listener
+2017-03-08 14:59:40.475631 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 14:59:40.481918 | L006 | Attempting to Close Socket
+2017-03-08 14:59:40.485052 | L007 | Successfully Closed Socket
+2017-03-08 14:59:50.183564 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 14:59:50.184601 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 14:59:50.186057 | L010 | Attempting to Open Listener
+2017-03-08 15:00:51.289089 | L001 | Leaf Connect INIT
+2017-03-08 15:01:03.955011 | L002 | Leaf Attempting to Connect to 127.0.0.1:5002
+2017-03-08 15:01:03.956915 | L003 | Successfully Connected to 127.0.0.1:5002
+2017-03-08 15:01:03.959396 | L010 | Attempting to Open Listener
+2017-03-08 15:01:07.528259 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 15:01:07.530127 | L008 | attempting codeSaving
+2017-03-08 15:01:07.533754 | L007 | Attempting to Parse{'ticket': '472', 'message': "['2', '4', '6', '8',...'1000']", 'DataType': '', 'method': 'RUNCODE'}|END
+2017-03-08 15:01:07.536679 | L009 | Attempting to RUNCODE
+2017-03-08 15:01:07.544686 | L010 | code run response 
+2017-03-08 23:04:37.698339 | L001 | Leaf Connect INIT
+2017-03-08 23:04:59.444609 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:04:59.446713 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:04:59.448709 | L010 | Attempting to Open Listener
+2017-03-08 23:05:33.025380 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:05:33.033982 | L006 | Attempting to Close Socket
+2017-03-08 23:05:33.039963 | L007 | Successfully Closed Socket
+2017-03-08 23:05:45.132744 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:05:45.136223 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:05:45.140269 | L010 | Attempting to Open Listener
+2017-03-08 23:06:04.095414 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:06:04.097664 | L006 | Attempting to Close Socket
+2017-03-08 23:06:04.100919 | L007 | Successfully Closed Socket
+2017-03-08 23:06:13.141348 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:06:13.143359 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:06:13.146284 | L010 | Attempting to Open Listener
+2017-03-08 23:06:17.354144 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 23:06:17.355785 | L008 | attempting codeSaving
+2017-03-08 23:10:13.071430 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:10:13.074868 | L006 | Attempting to Close Socket
+2017-03-08 23:10:13.078816 | L007 | Successfully Closed Socket
+2017-03-08 23:10:25.708385 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:10:25.710575 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:10:25.715088 | L010 | Attempting to Open Listener
+2017-03-08 23:11:12.111901 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:11:12.116518 | L006 | Attempting to Close Socket
+2017-03-08 23:11:12.121885 | L007 | Successfully Closed Socket
+2017-03-08 23:11:19.347872 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:11:19.349946 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:11:19.352021 | L010 | Attempting to Open Listener
+2017-03-08 23:11:41.967885 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:11:41.972307 | L006 | Attempting to Close Socket
+2017-03-08 23:11:41.976391 | L007 | Successfully Closed Socket
+2017-03-08 23:11:48.219909 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:11:48.222422 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:11:48.226373 | L010 | Attempting to Open Listener
+2017-03-08 23:12:13.114814 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-08 23:12:18.243436 | L006 | Attempting to Close Socket
+2017-03-08 23:12:18.245788 | L007 | Successfully Closed Socket
+2017-03-08 23:12:22.323417 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-08 23:12:22.324946 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-08 23:12:22.327995 | L010 | Attempting to Open Listener
+2017-03-08 23:12:25.781241 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 23:12:25.784194 | L008 | attempting codeSaving
+2017-03-08 23:12:25.786582 | L007 | Attempting to Parse{'DataType': '', 'ticket': '477', 'message': "['1'..., '998', '999', '1000']", 'method': 'RUNCODE'}|END
+2017-03-08 23:12:25.789341 | L009 | Attempting to RUNCODE
+2017-03-08 23:12:25.859469 | L010 | code run response 
+2017-03-08 23:12:37.280415 | L001 | Leaf Connect INIT
+2017-03-08 23:12:46.843925 | L002 | Leaf Attempting to Connect to 127.0.0.1:5003
+2017-03-08 23:12:46.847193 | L003 | Successfully Connected to 127.0.0.1:5003
+2017-03-08 23:12:46.850697 | L010 | Attempting to Open Listener
+2017-03-08 23:12:49.845284 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 23:12:49.847251 | L008 | attempting codeSaving
+2017-03-08 23:12:49.849891 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 23:12:49.851984 | L009 | Attempting to RUNCODE
+2017-03-08 23:12:49.855517 | L008 | attempting codeSaving
+2017-03-08 23:12:49.857584 | L007 | Attempting to Parse{'DataType': '', 'ticket': '479', 'message': "['2'..., '996', '998', '1000']", 'method': 'RUNCODE'}|END
+2017-03-08 23:12:49.859084 | L009 | Attempting to RUNCODE
+2017-03-08 23:12:49.865659 | L010 | code run response 
+2017-03-08 23:12:49.892370 | L010 | code run response 
+2017-03-08 23:12:55.391182 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-08 23:12:55.394259 | L006 | Attempting to Close Socket
+2017-03-08 23:12:55.401465 | L007 | Successfully Closed Socket
+2017-03-08 23:12:57.064361 | L007 | Attempting to Parse{'message': "['def a(values):#TEST 1', '\\ttemp = ...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-08 23:12:57.066221 | L008 | attempting codeSaving
+2017-03-08 23:12:57.069794 | L007 | Attempting to Parse{'DataType': '', 'ticket': '480', 'message': "['1'..., '998', '999', '1000']", 'method': 'RUNCODE'}|END
+2017-03-08 23:12:57.071186 | L009 | Attempting to RUNCODE
+2017-03-08 23:12:57.102323 | L010 | code run response 
+2017-03-08 23:12:59.300497 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END

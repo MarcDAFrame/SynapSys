@@ -1,0 +1,15 @@
+2017-03-02 18:20:05.259527 | E002 | Error connecting to network with netifaces 2
+2017-03-02 18:20:17.851539 | E002 | WHILE OPENING SOCKET [Errno -2] Name or service not known CPU NUM 0
+2017-03-02 18:22:58.758908 | E004 | Error while Attempting to close connection invalid command name ".140000387137320"
+2017-03-02 18:23:47.354357 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-02 18:24:45.778045 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-03-02 18:47:39.645404 | E004 | Error while Attempting to close connection invalid command name ".140625670971232"
+2017-03-02 18:48:44.811121 | E004 | Error while Attempting to close connection [Errno 104] Connection reset by peer
+2017-03-02 18:49:12.385727 | E005 | Files Do Not Exist file Or faceValues
+2017-03-02 18:50:41.650056 | E004 | Error while Attempting to close connection invalid command name ".140361805438424"
+2017-03-02 18:57:58.245267 | E004 | Error while Attempting to close connection invalid command name ".139684953091600"
+2017-03-02 18:58:34.152562 | E004 | Error while Attempting to close connection invalid command name ".139992025341568"
+2017-03-02 22:52:14.238250 | E004 | Error while Attempting to close connection invalid command name ".140536340537072"
+2017-03-02 22:52:39.616848 | E004 | Error while Attempting to close connection invalid command name ".140160009625440"
+2017-03-02 23:10:27.535975 | E004 | Error while Attempting to close connection invalid command name ".140373510328048"
+2017-03-02 23:12:42.914330 | E004 | Error while Attempting to close connection invalid command name ".140629946863232"

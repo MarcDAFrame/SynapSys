@@ -1,0 +1,45 @@
+2017-03-20 13:00:56.410312 | L001 | Leaf Connect INIT
+2017-03-20 13:01:26.091566 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-20 13:01:26.092497 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-20 13:01:26.093106 | L010 | Attempting to Open Listener
+2017-03-20 13:01:29.536366 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '530', 'message': "['... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-20 13:01:29.537666 | L008 | attempting codeSaving
+2017-03-20 13:01:29.539929 | L007 | Attempting to Parse{'method': 'RUNCODE', 'ticket': '531', 'message': ...497', '498', '499', '500'], 'DataType': 'int'}|END
+2017-03-20 13:01:29.543528 | L009 | Attempting to RUNCODE
+2017-03-20 13:02:43.650804 | L001 | Leaf Connect INIT
+2017-03-20 13:02:53.381202 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-20 13:02:53.382155 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-20 13:02:53.382818 | L010 | Attempting to Open Listener
+2017-03-20 13:02:55.778039 | L007 | Attempting to Parse{'ticket': '532', 'message': "['def a(values):#TES...(j))))', '\\treturn temp']", 'method': 'CODE'}|END
+2017-03-20 13:02:55.778741 | L008 | attempting codeSaving
+2017-03-20 13:02:55.781848 | L007 | Attempting to Parse{'ticket': '533', 'DataType': 'int', 'message': ['...7', '498', '499', '500'], 'method': 'RUNCODE'}|END
+2017-03-20 13:02:55.785721 | L009 | Attempting to RUNCODE
+2017-03-20 13:05:41.042371 | L006 | Attempting to Close Socket
+2017-03-20 13:05:41.042904 | L007 | Successfully Closed Socket
+2017-03-20 13:05:45.701175 | L001 | Leaf Connect INIT
+2017-03-20 13:05:55.535326 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-20 13:05:55.536406 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-20 13:05:55.537097 | L010 | Attempting to Open Listener
+2017-03-20 13:05:57.500946 | L007 | Attempting to Parse{'ticket': '534', 'method': 'CODE', 'message': "['... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-20 13:05:57.501643 | L008 | attempting codeSaving
+2017-03-20 13:05:57.509769 | L007 | Attempting to Parse{'DataType': 'int', 'ticket': '535', 'method': 'RU...4', '495', '496', '497', '498', '499', '500']}|END
+2017-03-20 13:05:57.514500 | L009 | Attempting to RUNCODE
+2017-03-20 13:05:57.545644 | L010 | code run response 
+2017-03-20 13:08:48.035100 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-20 13:11:37.902894 | L001 | Leaf Connect INIT
+2017-03-20 13:11:45.496055 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-20 13:11:45.496992 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-20 13:11:45.498019 | L010 | Attempting to Open Listener
+2017-03-20 13:11:47.110673 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '536', 'message': "['... i in range(2, int(j))))', '\\treturn temp']"}|END
+2017-03-20 13:11:47.111463 | L008 | attempting codeSaving
+2017-03-20 13:11:47.112427 | L007 | Attempting to Parse{'method': 'RUNCODE', 'DataType': 'int', 'message'... '497', '498', '499', '500'], 'ticket': '537'}|END
+2017-03-20 13:11:47.119835 | L009 | Attempting to RUNCODE
+2017-03-20 13:11:47.148110 | L010 | code run response 
+2017-03-20 22:16:05.270035 | L001 | Leaf Connect INIT
+2017-03-20 22:16:20.034145 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-20 22:16:20.035533 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-20 22:16:20.037885 | L010 | Attempting to Open Listener
+2017-03-20 22:16:22.889909 | L007 | Attempting to Parse{'ticket': '538', 'method': 'CODE', 'message': '[\...tr("Found {0} faces!".format(len(faces)))\']'}|END
+2017-03-20 22:16:22.891032 | L008 | attempting codeSaving
+2017-03-20 22:16:23.022657 | L007 | Attempting to Parse{'DataType': 'int', 'ticket': '539', 'method': 'RU...0 11 11 11 13 15 17 17 23 22 29 34 36 46 47']}|END
+2017-03-20 22:16:23.060626 | L009 | Attempting to RUNCODE

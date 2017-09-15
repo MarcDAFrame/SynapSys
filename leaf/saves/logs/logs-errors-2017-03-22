@@ -1,0 +1,30 @@
+2017-03-22 09:41:28.474723 | L001 | Leaf Connect INIT
+2017-03-22 09:41:35.898423 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-22 09:41:35.899203 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-22 09:41:35.900386 | L010 | Attempting to Open Listener
+2017-03-22 09:41:38.962890 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...8\')"]', 'method': 'CODE', 'ticket': '642'}|+=|END
+2017-03-22 09:41:38.967315 | L008 | attempting codeSaving
+2017-03-22 09:41:39.013963 | L007 | Attempting to Parse{'message': b'\x00\xe5\xe8\xeb\xea\xe5\xe7\xe6\xe5...', 'DataType': 'img', 'shape': (720, 1280)}|+=|END
+2017-03-22 09:41:39.043648 | L009 | Attempting to RUNCODE
+2017-03-22 09:41:39.525010 | L010 | code run response
+2017-03-22 10:07:56.210113 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...8\')"]', 'method': 'CODE', 'ticket': '644'}|+=|END
+2017-03-22 10:07:56.212238 | L008 | attempting codeSaving
+2017-03-22 10:07:56.255612 | L007 | Attempting to Parse{'message': b'\x00\xe5\xe8\xeb\xea\xe5\xe7\xe6\xe5...', 'DataType': 'img', 'shape': (720, 1280)}|+=|END
+2017-03-22 10:07:56.290012 | L009 | Attempting to RUNCODE
+2017-03-22 10:07:56.536266 | L010 | code run response
+2017-03-22 10:08:05.579936 | L007 | Attempting to ParseCLOSE|NOW|+=|END...CLOSE|NOW|+=|END
+2017-03-22 10:08:11.079269 | L001 | Leaf Connect INIT
+2017-03-22 10:08:19.855154 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-22 10:08:19.856138 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-22 10:08:19.857502 | L010 | Attempting to Open Listener
+2017-03-22 10:08:29.426342 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '646', 'message': '[\...loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|+=|END
+2017-03-22 10:08:29.428441 | L008 | attempting codeSaving
+2017-03-22 10:08:29.481937 | L007 | Attempting to Parse{'method': 'RUNCODE', 'DataType': 'img', 'ticket':...QKC5\'-(36DJSC9A>7729?B<344*(&&!*+.;?\x02'}|+=|END
+2017-03-22 10:08:29.509905 | L009 | Attempting to RUNCODE
+2017-03-22 10:08:29.855600 | L010 | code run response
+2017-03-22 10:11:53.012516 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '648', 'message': '[\...loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|+=|END
+2017-03-22 10:11:53.014199 | L008 | attempting codeSaving
+2017-03-22 10:11:53.050103 | L007 | Attempting to Parse{'method': 'RUNCODE', 'DataType': 'img', 'ticket':...QKC5\'-(36DJSC9A>7729?B<344*(&&!*+.;?\x02'}|+=|END
+2017-03-22 10:11:53.077088 | L009 | Attempting to RUNCODE
+2017-03-22 10:11:53.323013 | L010 | code run response
+2017-03-22 10:18:17.750908 | L007 | Attempting to ParseCLOSE|NOW|+=|END...CLOSE|NOW|+=|END

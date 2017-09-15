@@ -1,0 +1,10 @@
+2017-03-06 14:52:18.293432 | L001 | Leaf Connect INIT
+2017-03-06 14:52:34.120572 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-06 14:52:34.121407 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-06 14:52:34.122448 | L010 | Attempting to Open Listener
+2017-03-06 14:52:59.032158 | L007 | Attempting to ParseCODE|['def a(values):#TEST 1', '\ttemp = []', '\tf...for i in range(2, int(j))))', '\treturn temp']|END
+2017-03-06 14:52:59.033491 | L008 | attempting codeSaving
+2017-03-06 14:52:59.073448 | L007 | Attempting to ParseRUNCODE|422|['1', '2', '3', '4', '5', '6', '7', '8...4', '995', '996', '997', '998', '999', '1000']|END
+2017-03-06 14:52:59.073901 | L009 | Attempting to RUNCODE
+2017-03-06 14:52:59.109816 | L010 | code run response 
+2017-03-06 14:55:41.708461 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END

@@ -1,0 +1,53 @@
+2017-03-09 12:53:50.616974 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-09 12:53:50.618732 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 2
+2017-03-09 12:53:50.620499 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-09 12:53:50.622552 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 2
+2017-03-09 12:53:50.626785 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 1
+2017-03-09 12:53:50.656071 | L008 | received from twig 2 ['512', True, False, False, False, False, False, False, False, False, False, False, False, False, Fa lse, False, False, False, False, False, False]|END
+2017-03-09 12:53:50.656799 | L012 | Logging Data...
+2017-03-09 12:53:50.657404 | L00x | Time Elapsed0.05735206604003906
+2017-03-09 12:53:50.660271 | L010 | Attempting to Open Listener
+2017-03-09 12:53:51.553327 | L008 | received from twig 1 ['513', True, True, False, True, False, True, False, True, False, True, False, False, False, True, F lse, False, False, False, False, False, False]|END
+2017-03-09 12:53:51.554390 | L012 | Logging Data...
+2017-03-09 12:53:51.555156 | L00x | Time Elapsed0.955052375793457
+2017-03-09 12:53:51.559461 | L010 | Attempting to Open Listener
+2017-03-09 12:53:51.583019 | L008 | received from twig 0 ['511', True, False, True, False, True, False, True, False, False, False, True, False, True, False,  lse, False, False, False, False, False, False]|END
+2017-03-09 12:53:51.584006 | L012 | Logging Data...
+2017-03-09 12:53:51.584876 | L00x | Time Elapsed0.9847631454467773
+2017-03-09 12:53:51.587582 | L010 | Attempting to Open Listener
+2017-03-09 12:54:08.702558 | L006 | Client Closed
+2017-03-09 12:54:08.703274 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-09 12:54:08.703995 | L00x | Attempting to send message CLOSE|NOW...(More Data) 1
+2017-03-09 12:54:08.704597 | L00x | Attempting to send message CLOSE|NOW...(More Data) 2
+2017-03-09 12:54:08.705269 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-09 12:54:08.706379 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 1
+2017-03-09 12:54:08.707373 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 2
+2017-03-09 12:57:06.435947 | L005 | Client Open
+2017-03-09 12:57:08.443290 | L001 | COMPUTER ADDED | 1
+2017-03-09 12:57:12.262812 | L004 | Socket INIT CPU#0
+2017-03-09 12:57:28.308429 | L003 | Connection Open 0
+2017-03-09 12:57:28.314846 | L005 | Opening Listener
+2017-03-09 12:57:28.319860 | L007 | Attempting to open listener
+2017-03-09 12:57:28.323169 | L010 | Attempting to Open Listener
+2017-03-09 13:33:51.886734 | L006 | Client Closed
+2017-03-09 13:33:51.887588 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-09 13:33:51.888503 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-09 13:35:29.203203 | L005 | Client Open
+2017-03-09 13:35:42.440879 | L006 | Client Closed
+2017-03-09 13:38:18.119035 | L005 | Client Open
+2017-03-09 13:39:31.918972 | L006 | Client Closed
+2017-03-09 13:40:01.677772 | L005 | Client Open
+2017-03-09 13:40:03.521448 | L001 | COMPUTER ADDED | 1
+2017-03-09 13:40:40.225234 | L006 | Client Closed
+2017-03-09 13:40:41.377278 | L005 | Client Open
+2017-03-09 13:41:03.194914 | L006 | Client Closed
+2017-03-09 13:41:04.282921 | L005 | Client Open
+2017-03-09 13:41:28.229460 | L006 | Client Closed
+2017-03-09 13:42:00.786776 | L005 | Client Open
+2017-03-09 13:42:09.595644 | L006 | Client Closed
+2017-03-09 13:42:32.973295 | L005 | Client Open
+2017-03-09 13:42:42.311853 | L006 | Client Closed
+2017-03-09 20:09:52.350901 | L005 | Client Open
+2017-03-09 20:15:43.519406 | L006 | Client Closed
+2017-03-09 20:15:44.739668 | L005 | Client Open
+2017-03-09 21:52:48.586775 | L006 | Client Closed

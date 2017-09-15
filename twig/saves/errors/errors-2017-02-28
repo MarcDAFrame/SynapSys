@@ -1,0 +1,122 @@
+2017-02-28 09:02:05.693337 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:03:10.833229 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:03:32.689391 | E004 | Error while Attempting to close connection invalid command name ".139949729197304"
+2017-02-28 09:06:42.550857 | E002 | WHILE OPENING SOCKET [Errno 99] Cannot assign requested address CPU NUM 0
+2017-02-28 09:08:12.153070 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:08:49.148740 | E004 | Error while Attempting to close connection invalid command name ".140143318822024"
+2017-02-28 09:08:52.804294 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:09:24.438330 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:09:38.617505 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:12:03.448249 | E004 | Error while Attempting to close connection invalid command name ".140150469480800"
+2017-02-28 09:24:09.753358 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:24:52.543732 | E004 | Error while Attempting to close connection invalid command name ".139700090310104"
+2017-02-28 09:24:56.086273 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:25:06.706546 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:25:11.900027 | E004 | Error while Attempting to close connection invalid command name ".139848654176440"
+2017-02-28 09:25:31.882498 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:25:34.108590 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 09:25:59.900884 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:26:06.498189 | E004 | Error while Attempting to close connection invalid command name ".140453936710992"
+2017-02-28 09:26:57.947763 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:27:14.052567 | E004 | Error while Attempting to close connection invalid command name ".140190257827064"
+2017-02-28 09:27:24.263378 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:27:37.750896 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:28:00.150309 | E004 | Error while Attempting to close connection invalid command name ".139621699662008"
+2017-02-28 09:28:37.860512 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:29:13.887941 | E004 | Error while Attempting to close connection invalid command name ".140441392545240"
+2017-02-28 09:29:44.992050 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:29:49.513756 | E004 | Error while Attempting to close connection invalid command name ".140358804495832"
+2017-02-28 09:34:04.131099 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:34:09.749073 | E004 | Error while Attempting to close connection invalid command name ".140578240216648"
+2017-02-28 09:34:37.302659 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:34:54.289236 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:35:59.855476 | E004 | Error while Attempting to close connection invalid command name ".140014506582648"
+2017-02-28 09:36:16.815651 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:36:43.104695 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:36:44.781976 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 09:36:51.065497 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:37:07.994498 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-02-28 09:37:07.995544 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 09:37:14.054154 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:37:19.149349 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:37:23.585652 | E004 | Error while Attempting to close connection invalid command name ".140342028788120"
+2017-02-28 09:39:20.800795 | E003 | Error while attempting to recvall[Errno 107] Transport endpoint is not connected
+2017-02-28 09:39:20.804432 | E001 | Error while attempting to listen local variable 'packet' referenced before assignment
+2017-02-28 09:40:31.989747 | E004 | Error while Attempting to close connection invalid command name ".140013539220840"
+2017-02-28 09:40:40.360417 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 09:40:50.823056 | E003 | Error while attempting to recvall[Errno 107] Transport endpoint is not connected
+2017-02-28 09:47:26.324742 | E004 | Error while Attempting to close connection invalid command name ".140382107582984"
+2017-02-28 09:48:08.860905 | E004 | Error while Attempting to close connection invalid command name ".140314869763600"
+2017-02-28 09:51:28.642090 | E004 | Error while Attempting to close connection invalid command name ".139871359819112"
+2017-02-28 12:02:53.443991 | E002 | WHILE OPENING SOCKET [Errno 99] Cannot assign requested address CPU NUM 0
+2017-02-28 12:06:04.606852 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-28 12:07:20.681689 | E004 | Error while Attempting to close connection invalid command name ".139820066704520"
+2017-02-28 12:07:26.580038 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-02-28 12:08:34.252128 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-02-28 12:12:25.521381 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-28 12:13:52.714197 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:17:38.839699 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-02-28 12:25:53.396077 | E002 | Error connecting to network with netifaces 2
+2017-02-28 12:33:50.916791 | E002 | WHILE OPENING SOCKET [Errno 99] Cannot assign requested address CPU NUM 0
+2017-02-28 12:39:41.211674 | E004 | Error while Attempting to close connection [Errno 104] Connection reset by peer
+2017-02-28 12:39:42.973299 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-28 12:40:30.459046 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 12:40:30.959161 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-02-28 12:40:32.588078 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-02-28 12:40:33.284443 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 12:41:19.602692 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-02-28 12:41:19.604307 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 12:41:22.358309 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage1CLOSE|NOW
+2017-02-28 12:41:22.359412 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 12:46:36.183182 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:46:47.253981 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:49:20.518654 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:49:29.623003 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:49:33.746883 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:49:40.016171 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:49:48.795454 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:50:07.429728 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:50:57.016915 | E004 | Error while Attempting to close connection invalid command name ".139793274051720"
+2017-02-28 12:54:57.956713 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:55:00.474751 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:55:20.338691 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:55:36.061801 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:55:39.594883 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:55:40.404311 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-02-28 12:55:40.405549 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 12:55:40.562182 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-02-28 12:55:40.563459 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 12:55:40.704589 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-02-28 12:55:40.705852 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 12:55:41.588444 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 12:56:39.042698 | E004 | Error while Attempting to close connection invalid command name ".140575604580592"
+2017-02-28 13:05:01.115943 | E004 | Error while Attempting to close connection invalid command name ".140694825332408"
+2017-02-28 13:05:21.540324 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 13:05:31.770162 | E001 | Error while attempting to listen can't concat bytes to str
+2017-02-28 13:06:26.176362 | E001 | Error while attempting to listen can't concat bytes to str
+2017-02-28 13:07:38.756970 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 13:08:35.859668 | E004 | Error while Attempting to close connection invalid command name ".140295614153056"
+2017-02-28 13:10:02.581758 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-28 13:10:03.112267 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-28 13:10:03.546141 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-28 13:16:05.942318 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 13:16:06.501115 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-02-28 13:16:34.974812 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 13:16:37.099850 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-02-28 13:19:16.385334 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 13:19:17.715134 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 13:19:21.124976 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-02-28 13:20:02.758256 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-02-28 13:20:03.242755 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-02-28 13:20:10.059691 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage1CLOSE|NOW
+2017-02-28 13:20:10.061152 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 13:20:10.712763 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage2CLOSE|NOW
+2017-02-28 13:20:10.714111 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-28 13:21:00.436064 | E004 | Error while Attempting to close connection invalid command name ".140166046583888"
+2017-02-28 13:21:10.463522 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 13:27:23.181251 | E004 | Error while Attempting to close connection invalid command name ".140168144841920"
+2017-02-28 13:27:27.723398 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-28 13:28:59.808249 | E003 | Error while attempting to recvall[Errno 104] Connection reset by peer
+2017-02-28 13:29:19.849808 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-28 13:29:20.617860 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-28 13:30:52.738987 | E004 | Error while Attempting to close connection invalid command name ".140558920998080"

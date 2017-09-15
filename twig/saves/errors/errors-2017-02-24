@@ -1,0 +1,26 @@
+2017-02-24 08:49:36.987746 | E004 | Error while Attempting to close connection invalid command name ".140635971494464"
+2017-02-24 08:49:37.017033 | E004 | Error while logging data string index out of range
+2017-02-24 08:52:00.911520 | E004 | Insert Proper Files
+2017-02-24 08:52:19.613007 | E004 | Error while Attempting to close connection invalid command name ".140262336369104"
+2017-02-24 08:52:19.646567 | E004 | Error while logging data string index out of range
+2017-02-24 08:52:29.055578 | E004 | Insert Proper Files
+2017-02-24 09:20:00.808637 | E004 | Error while Attempting to close connection invalid command name ".140043298768040"
+2017-02-24 09:20:01.856213 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-24 12:40:55.542853 | E002 | Error connecting to network with netifaces 2
+2017-02-24 12:42:28.255111 | E002 | Error connecting to network with netifaces 2
+2017-02-24 12:42:39.453490 | E002 | WHILE OPENING SOCKET 2 CPU NUM 0
+2017-02-24 13:00:19.576598 | E002 | WHILE OPENING SOCKET 2 CPU NUM 0
+2017-02-24 13:02:18.980276 | E002 | WHILE OPENING SOCKET 2 CPU NUM 0
+2017-02-24 13:02:44.760467 | E002 | WHILE OPENING SOCKET 2 CPU NUM 0
+2017-02-24 13:04:50.615851 | E004 | Insert Proper Files
+2017-02-24 13:04:59.234148 | E004 | Error while Attempting to close connection invalid command name ".139929125553264"
+2017-02-24 13:04:59.237565 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-24 13:10:40.725487 | E002 | WHILE OPENING SOCKET [Errno 99] Cannot assign requested address CPU NUM 0
+2017-02-24 13:33:22.327545 | E004 | Error while Attempting to close connection invalid command name ".139970119570432"
+2017-02-24 13:33:22.328184 | E004 | Error while Attempting to close connection invalid command name ".139970119570600"
+2017-02-24 13:33:22.335537 | E004 | Error while logging data string index out of range
+2017-02-24 13:40:20.874136 | E004 | Error while Attempting to close connection invalid command name ".140325059318672"
+2017-02-24 13:40:20.875485 | E004 | Error while Attempting to close connection invalid command name ".140325059319680"
+2017-02-24 13:40:20.878040 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-24 13:40:20.881196 | E004 | Error while logging data string index out of range
+2017-02-24 13:41:58.760485 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer

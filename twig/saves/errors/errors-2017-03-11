@@ -1,0 +1,7 @@
+2017-03-11 09:46:44.585492 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-11 09:48:51.467624 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-11 09:50:30.694210 | E004 | Error while Attempting to close connection invalid command name ".140238211863720"
+2017-03-11 09:50:30.695332 | E004 | Error while Attempting to close connection invalid command name ".140238211864952"
+2017-03-11 09:50:39.654226 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-11 09:51:32.300096 | E004 | Error while Attempting to close connection invalid command name ".140491393729704"
+2017-03-11 09:51:32.305562 | E004 | Error while Attempting to close connection invalid command name ".140491393730712"

@@ -1,0 +1,45 @@
+2017-03-10 14:47:23.837116 | L001 | Leaf Connect INIT
+2017-03-10 14:47:33.800722 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:47:33.801236 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:47:33.802145 | L010 | Attempting to Open Listener
+2017-03-10 14:49:05.739852 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:49:11.968240 | L001 | Leaf Connect INIT
+2017-03-10 14:49:23.761014 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:49:23.761930 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:49:23.763283 | L010 | Attempting to Open Listener
+2017-03-10 14:51:57.847323 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-10 14:51:59.558487 | L006 | Attempting to Close Socket
+2017-03-10 14:51:59.559323 | L007 | Successfully Closed Socket
+2017-03-10 14:52:05.370535 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:52:05.371807 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:52:05.373280 | L010 | Attempting to Open Listener
+2017-03-10 14:52:29.431046 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:52:29.432622 | L006 | Attempting to Close Socket
+2017-03-10 14:52:29.434112 | L007 | Successfully Closed Socket
+2017-03-10 14:52:38.063790 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:52:38.064788 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:52:38.066613 | L010 | Attempting to Open Listener
+2017-03-10 14:52:54.087327 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:52:54.088567 | L006 | Attempting to Close Socket
+2017-03-10 14:52:54.090439 | L007 | Successfully Closed Socket
+2017-03-10 14:53:00.587811 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:53:00.588768 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:53:00.590083 | L010 | Attempting to Open Listener
+2017-03-10 14:53:45.839438 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:53:45.840748 | L006 | Attempting to Close Socket
+2017-03-10 14:53:45.842881 | L007 | Successfully Closed Socket
+2017-03-10 14:53:53.529167 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:53:53.530863 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:53:53.532773 | L010 | Attempting to Open Listener
+2017-03-10 14:54:05.942725 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:54:05.944181 | L006 | Attempting to Close Socket
+2017-03-10 14:54:05.946053 | L007 | Successfully Closed Socket
+2017-03-10 14:54:13.777862 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:54:13.779290 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:54:13.780959 | L010 | Attempting to Open Listener
+2017-03-10 14:54:32.897263 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-10 14:54:32.898834 | L006 | Attempting to Close Socket
+2017-03-10 14:54:32.900208 | L007 | Successfully Closed Socket
+2017-03-10 14:54:39.392993 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-10 14:54:39.394010 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-10 14:54:39.395006 | L010 | Attempting to Open Listener

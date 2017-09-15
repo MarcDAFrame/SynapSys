@@ -1,0 +1,9 @@
+2017-02-14 12:41:38.433651 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 12:42:01.394278 | E001 | NO CONNECTION WHEN ATTEMPTING TO sendMessage(cpuNum, message)
+2017-02-14 13:02:57.455985 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 13:04:59.261170 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 13:05:32.687201 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 13:05:34.367667 | E002 | [Errno 98] Address already in use CPU NUM 1
+2017-02-14 13:18:28.592238 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 13:18:30.381382 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-14 13:32:59.725909 | E002 | [Errno 98] Address already in use CPU NUM 0

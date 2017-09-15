@@ -1,0 +1,5 @@
+def a(values):#TEST 1
+	temp = []
+	for j in values:
+		temp.append(all(int(j) % i for i in range(2, int(j))))
+	return temp

@@ -1,0 +1,30 @@
+2017-03-30 10:57:09.916380 | L005 | Client Open
+2017-03-30 10:57:36.135481 | L001 | COMPUTER ADDED | 1
+2017-03-30 10:57:36.988616 | L004 | Socket INIT CPU#0
+2017-03-30 10:57:43.864607 | L003 | Connection Open 0
+2017-03-30 10:57:45.068714 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-30 10:57:47.985153 | L007 | Attempting to open listener
+2017-03-30 10:57:48.148435 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-30 10:57:48.163232 | L00x | Attempting to send message {'message': b'NNNNNN...(More Data) 0
+2017-03-30 10:57:48.180938 | L010 | Attempting to Open Listener
+2017-03-30 10:57:48.537646 | L008 | received from twig 0 {'message': '829 Found 0 faces!', 'ticket': '829'}
+2017-03-30 10:57:48.539924 | L012 | Logging Data...
+2017-03-30 10:57:57.483304 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-30 10:57:58.720639 | L007 | Attempting to open listener
+2017-03-30 10:57:58.737147 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-30 10:57:58.750797 | L00x | Attempting to send message {'message': b'QQQQQQ...(More Data) 0
+2017-03-30 10:57:58.766661 | L010 | Attempting to Open Listener
+2017-03-30 10:57:58.908414 | L008 | received from twig 0 {'message': '831 Found 0 faces!', 'ticket': '831'}
+2017-03-30 10:57:58.909292 | L012 | Logging Data...
+2017-03-30 10:58:39.473208 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-30 10:58:40.727132 | L007 | Attempting to open listener
+2017-03-30 10:58:40.742727 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-30 10:58:40.755240 | L00x | Attempting to send message {'message': b'\xad\x...(More Data) 0
+2017-03-30 10:58:40.769368 | L010 | Attempting to Open Listener
+2017-03-30 10:58:40.900181 | L008 | received from twig 0 {'message': '833 Found 0 faces!', 'ticket': '833'}
+2017-03-30 10:58:40.901121 | L012 | Logging Data...
+2017-03-30 11:03:46.321590 | L006 | Client Closed
+2017-03-30 11:03:46.322161 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-30 11:03:46.322636 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-30 11:08:17.909656 | L005 | Client Open
+2017-03-30 11:08:21.584917 | L006 | Client Closed

@@ -1,0 +1,9 @@
+2017-02-15 12:48:56.227327 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 12:50:59.388002 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 12:52:17.041478 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 12:54:13.302170 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 12:54:44.061801 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 12:56:13.466268 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 13:11:13.786118 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 13:13:37.962280 | E001 | Error while attempting to Open Socket 'LISTENB'
+2017-02-15 13:24:37.960181 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor

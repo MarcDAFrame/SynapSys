@@ -1,0 +1,32 @@
+2017-03-23 10:08:56.484854 | L001 | Leaf Connect INIT
+2017-03-23 10:09:08.699692 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-23 10:09:08.700777 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-23 10:09:08.703657 | L010 | Attempting to Open Listener
+2017-03-23 10:09:12.107689 | L007 | Attempting to Parse{'method': 'CODE', 'message': '[\'import cv2, sys,...ue\', dtype=\'uint8\')"]', 'ticket': '650'}|+=|END
+2017-03-23 10:09:36.267460 | L006 | Attempting to Close Socket
+2017-03-23 10:09:36.268526 | L007 | Successfully Closed Socket
+2017-03-23 10:09:44.265049 | L001 | Leaf Connect INIT
+2017-03-23 10:10:04.531707 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-23 10:10:04.533031 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-23 10:10:04.534718 | L010 | Attempting to Open Listener
+2017-03-23 10:10:11.178180 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '652'}|END
+2017-03-23 10:10:11.178786 | L008 | attempting codeSaving
+2017-03-23 10:10:11.226056 | L007 | Attempting to Parse{'ticket': '653', 'DataType': 'img', 'message': b'...2', 'method': 'RUNCODE', 'shape': (720, 1280)}|END
+2017-03-23 10:10:11.252775 | L009 | Attempting to RUNCODE
+2017-03-23 10:10:11.735110 | L010 | code run response
+2017-03-23 10:10:47.205448 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-23 10:12:04.863167 | L001 | Leaf Connect INIT
+2017-03-23 10:38:11.749810 | L001 | Leaf Connect INIT
+2017-03-23 10:38:22.934783 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-23 10:38:22.935825 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-23 10:38:22.937912 | L010 | Attempting to Open Listener
+2017-03-23 10:38:25.914584 | L007 | Attempting to Parse{'ticket': '654', 'method': 'CODE', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-23 10:38:25.918042 | L008 | attempting codeSaving
+2017-03-23 10:38:25.955813 | L007 | Attempting to Parse{'ticket': '655', 'shape': (720, 1280), 'DataType'...*#(\x1e.\'$\x1d &\'\x16\x1d&2\x162,/&\'+**#-'}|END
+2017-03-23 10:38:25.979177 | L009 | Attempting to RUNCODE
+2017-03-23 10:38:26.477103 | L010 | code run response
+2017-03-23 10:38:44.913644 | L007 | Attempting to Parse{'ticket': '656', 'method': 'CODE', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-23 10:38:44.914900 | L008 | attempting codeSaving
+2017-03-23 10:38:44.943407 | L007 | Attempting to Parse{'ticket': '657', 'shape': (720, 1280), 'DataType'...19\x1f+$" 2%\x1f\x1c!%$\x1a!!-\x183&,$%*)*#-'}|END
+2017-03-23 10:38:44.963795 | L009 | Attempting to RUNCODE
+2017-03-23 10:38:45.141081 | L010 | code run response

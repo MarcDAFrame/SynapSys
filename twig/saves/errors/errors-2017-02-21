@@ -1,0 +1,29 @@
+2017-02-21 14:50:49.477188 | E008 | Error opening listener 'twigConnect' object has no attribute 'threadDict'
+2017-02-21 14:50:57.867850 | E007 | Error while Attempting to close connection invalid command name ".140055670145712"
+2017-02-21 14:51:36.216809 | E001 | Error while attempting to listen 'twigConnect' object has no attribute 'mySocket'
+2017-02-21 14:51:43.723477 | E007 | Error while Attempting to close connection invalid command name ".140413600359144"
+2017-02-21 14:54:56.719201 | E004 | Insert Proper Files
+2017-02-21 14:56:05.879493 | E007 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-21 20:40:36.652302 | E007 | Error while Attempting to close connection invalid command name ".140288834990936"
+2017-02-21 20:40:57.447791 | E004 | Insert Proper Files
+2017-02-21 20:41:32.038425 | E007 | Error while Attempting to close connection invalid command name ".139900797006400"
+2017-02-21 20:42:16.585092 | E004 | Insert Proper Files
+2017-02-21 20:42:59.566997 | E007 | Error while Attempting to close connection invalid command name ".140410700485352"
+2017-02-21 21:11:55.313694 | E007 | Error while Attempting to close connection invalid command name ".140378678322008"
+2017-02-21 21:12:21.755445 | E002 | Error connecting to network with netifaces 2
+2017-02-21 21:12:24.071489 | E002 | 2 CPU NUM 0
+2017-02-21 21:13:33.995582 | E002 | Error connecting to network with netifaces 2
+2017-02-21 21:13:40.679757 | E002 | 2 CPU NUM 0
+2017-02-21 21:16:05.593026 | E007 | Error while Attempting to close connection invalid command name ".139896073396856"
+2017-02-21 21:16:31.497038 | E001 | Error while attempting to listen 'bool' object has no attribute 'recv'
+2017-02-21 21:16:49.952929 | E007 | Error while Attempting to close connection invalid command name ".139789571625816"
+2017-02-21 21:16:57.271069 | E001 | Error while attempting to listen 'twig' object has no attribute 'recv'
+2017-02-21 21:17:28.187460 | E007 | Error while Attempting to close connection invalid command name ".140531081098072"
+2017-02-21 21:17:42.828198 | E001 | Error while attempting to listen 'twig' object has no attribute 'recv'
+2017-02-21 21:20:37.106663 | E007 | Error while Attempting to close connection invalid command name ".139942481413008"
+2017-02-21 21:26:08.939086 | E007 | Error while Attempting to close connection invalid command name ".140099726140248"
+2017-02-21 21:26:14.367716 | E001 | Error while attempting to listen 'twig' object has no attribute 'connectionsList'
+2017-02-21 21:26:35.660586 | E007 | Error while Attempting to close connection invalid command name ".140201814889416"
+2017-02-21 21:26:41.349369 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-21 21:29:28.671341 | E007 | Error while Attempting to close connection invalid command name ".139774253164192"
+2017-02-21 21:29:29.687612 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer

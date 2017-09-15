@@ -1,0 +1,84 @@
+2017-03-26 12:25:50.429309 | E004 | Error while Attempting to close connection invalid command name ".139637217175648"
+2017-03-26 12:57:16.245749 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 12:57:26.748759 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 12:57:45.930624 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 12:57:54.181525 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 12:59:36.323356 | E004 | Error while Attempting to close connection invalid command name ".140167179159480"
+2017-03-26 13:13:33.984974 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 13:17:58.141717 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 13:17:58.143170 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 13:19:33.110435 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 13:19:33.111767 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 13:21:05.802412 | E004 | Error while Attempting to close connection invalid command name ".139981054937408"
+2017-03-26 13:22:18.296172 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 13:22:18.296778 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 13:23:07.486043 | E004 | Error while Attempting to close connection invalid command name ".140377636558888"
+2017-03-26 13:23:52.831153 | E004 | Error while Attempting to close connection invalid command name ".139884375394736"
+2017-03-26 13:24:36.412179 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 13:24:36.413994 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 13:24:38.182831 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 13:24:38.183724 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 13:28:17.223321 | E004 | Error while Attempting to close connection invalid command name ".140484740237688"
+2017-03-26 13:28:40.793160 | E004 | Error while Attempting to close connection invalid command name ".140024019749072"
+2017-03-26 13:30:11.250093 | E004 | Error while Attempting to close connection invalid command name ".140164253944016"
+2017-03-26 13:32:39.761439 | E004 | Error while Attempting to close connection invalid command name ".140292358932800"
+2017-03-26 13:32:54.249581 | E004 | Error while Attempting to close connection invalid command name ".140659946780544"
+2017-03-26 13:33:32.417347 | E004 | Error while Attempting to close connection invalid command name ".140491378382720"
+2017-03-26 13:34:30.064918 | E004 | Error while Attempting to close connection invalid command name ".140021353441096"
+2017-03-26 13:35:29.694193 | E004 | Error while Attempting to close connection invalid command name ".139689315252208"
+2017-03-26 13:36:30.175022 | E004 | Error while Attempting to close connection invalid command name ".139878103415160"
+2017-03-26 13:38:37.595434 | E004 | Error while Attempting to close connection invalid command name ".139883298421000"
+2017-03-26 13:45:48.448638 | E004 | Error while Attempting to close connection invalid command name ".140107417585592"
+2017-03-26 13:47:03.950235 | E004 | Error while Attempting to close connection invalid command name ".139816442558448"
+2017-03-26 13:47:22.260034 | E004 | Error while Attempting to close connection invalid command name ".139909509486968"
+2017-03-26 13:55:15.010765 | E004 | Error while Attempting to close connection invalid command name ".140240791857472"
+2017-03-26 13:59:06.128459 | E004 | Error while Attempting to close connection invalid command name ".139933514139800"
+2017-03-26 13:59:26.458360 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:00:47.347301 | E004 | Error while Attempting to close connection invalid command name ".140519929293008"
+2017-03-26 14:00:51.716241 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:01:28.771545 | E004 | Error while Attempting to close connection invalid command name ".139699278997432"
+2017-03-26 14:01:31.657036 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:03:53.007936 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:03:55.799380 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:03:56.565849 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:06.878514 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:25.166607 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:28.684816 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 14:04:28.686357 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 14:04:28.822709 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 14:04:28.824302 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 14:04:28.961132 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 14:04:28.962236 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 14:04:29.866282 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:33.263913 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:33.638390 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:33.833927 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:33.959837 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:04:33.979691 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:05:43.590586 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:05:59.001099 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:06:04.008782 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:11:26.474923 | E004 | Error while Attempting to close connection invalid command name ".139742918760432"
+2017-03-26 14:18:54.537820 | E004 | Error while Attempting to close connection invalid command name ".140427330107768"
+2017-03-26 14:19:02.542004 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:20:46.451246 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0{'method': 'CLOSE'}
+2017-03-26 14:20:46.452586 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-26 14:23:04.207290 | E004 | Error while Attempting to close connection invalid command name ".140374250649976"
+2017-03-26 14:23:08.015628 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:24:35.698148 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:24:39.117394 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:24:53.617950 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:24:58.854063 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:25:08.710404 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:28:11.367018 | E004 | Error while Attempting to close connection invalid command name ".140387241789592"
+2017-03-26 14:28:16.655751 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:29:34.421157 | E004 | Error while Attempting to close connection invalid command name ".139731802585240"
+2017-03-26 14:30:11.925911 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-26 14:30:12.756042 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-26 14:34:41.998595 | E004 | Error while Attempting to close connection invalid command name ".140455736399968"
+2017-03-26 14:34:45.320850 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-26 14:35:03.278191 | E004 | Error while Attempting to close connection invalid command name ".139685736548224"
+2017-03-26 14:35:26.727673 | E004 | Error while Attempting to close connection invalid command name ".140647555221432"
+2017-03-26 14:36:02.330313 | E004 | Error while Attempting to close connection invalid command name ".140132111472736"
+2017-03-26 14:36:28.165212 | E004 | Error while Attempting to close connection invalid command name ".140480005392368"
+2017-03-26 14:36:31.406719 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0

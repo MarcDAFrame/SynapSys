@@ -1,0 +1,8 @@
+2017-02-13 22:39:27.368678 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-13 22:39:29.127577 | E002 | [Errno 98] Address already in use CPU NUM 1
+2017-02-13 22:40:15.354262 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-13 22:42:53.130642 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-13 22:43:25.019574 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-13 22:43:25.778612 | E002 | [Errno 98] Address already in use CPU NUM 1
+2017-02-13 22:43:26.571604 | E002 | [Errno 98] Address already in use CPU NUM 2
+2017-02-13 22:45:30.820568 | E002 | [Errno 98] Address already in use CPU NUM 3

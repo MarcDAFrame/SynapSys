@@ -1,0 +1,15 @@
+2017-02-25 11:45:47.106841 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-25 11:46:34.379891 | E001 | Error while attempting to listen recv() takes at least 1 argument (0 given)
+2017-02-25 12:39:27.132644 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-25 12:39:47.062671 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-25 14:13:32.817972 | E001 | Error while attempting to listen name 'struct' is not defined
+2017-02-25 14:14:44.282028 | E001 | Error while attempting to listen name 'struct' is not defined
+2017-02-25 14:43:12.254480 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-25 14:46:02.308933 | E001 | Error while attempting to listen name 'mglen' is not defined
+2017-02-25 14:52:52.945631 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-25 14:52:55.496724 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-25 14:56:21.237233 | E001 | Error while attempting to listen empty separator
+2017-02-25 15:14:37.215195 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-25 15:16:34.670975 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-25 15:23:06.859992 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-25 16:24:30.951625 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor

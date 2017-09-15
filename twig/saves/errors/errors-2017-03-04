@@ -1,0 +1,26 @@
+2017-03-04 11:01:46.071558 | E004 | Error while Attempting to close connection invalid command name ".140264144745192"
+2017-03-04 11:11:14.370119 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-03-04 11:11:15.600341 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-03-04 11:11:15.601275 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-04 11:11:19.259026 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-03-04 11:11:19.260504 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-03-04 11:21:56.040395 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-04 11:45:20.750975 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-04 11:45:47.346172 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-04 11:45:53.992918 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-04 11:45:54.705250 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-04 11:46:41.126045 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-04 11:46:42.202433 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-04 11:47:00.271372 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-04 11:47:11.117294 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-04 11:47:13.005957 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-04 12:50:35.339803 | E004 | Error while Attempting to close connection invalid command name ".139797730472792"
+2017-03-04 12:52:48.129774 | E004 | Error while Attempting to close connection invalid command name ".140497877807456"
+2017-03-04 12:52:48.140433 | E004 | Error while Attempting to close connection invalid command name ".140497877808688"
+2017-03-04 12:52:48.150548 | E004 | Error while Attempting to close connection invalid command name ".140497877809696"
+2017-03-04 13:04:01.986212 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-04 13:04:02.349330 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-04 13:04:02.616858 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-04 13:32:00.191029 | E004 | Error while Attempting to close connection invalid command name ".139787289608600"
+2017-03-04 13:32:00.204150 | E004 | Error while Attempting to close connection invalid command name ".139787289609608"
+2017-03-04 13:32:00.216404 | E004 | Error while Attempting to close connection invalid command name ".139787289610616"

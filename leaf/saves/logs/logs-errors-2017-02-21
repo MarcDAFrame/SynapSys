@@ -1,0 +1,153 @@
+2017-02-21 14:50:39.721975 | L001 | Leaf Connect INIT
+2017-02-21 14:50:49.471754 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-21 14:50:49.472600 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-21 14:50:49.473838 | L004 | Successfully Opened Listener
+2017-02-21 14:50:57.864090 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 14:51:21.672978 | L001 | Leaf Connect INIT
+2017-02-21 14:51:36.202701 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-21 14:51:36.203724 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-21 14:51:36.205110 | L004 | Successfully Opened Listener
+2017-02-21 14:51:43.718657 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 14:51:43.725422 | L007 | Attempting to Parse
+2017-02-21 14:51:43.726167 | L006 | Attempting to Close Socket
+2017-02-21 14:51:43.740233 | L007 | Successfully Closed Socket
+2017-02-21 14:54:35.538333 | L001 | Leaf Connect INIT
+2017-02-21 14:54:45.429554 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-21 14:54:45.430870 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-21 14:54:45.432506 | L004 | Successfully Opened Listener
+2017-02-21 14:55:12.872508 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 14:55:12.878199 | L007 | Attempting to Parse
+2017-02-21 14:55:12.882000 | L008 | attempting codeSaving
+2017-02-21 14:55:13.874087 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 14:55:13.875935 | L007 | Attempting to Parse
+2017-02-21 14:55:13.877293 | L009 | Attempting to RUNCODE
+2017-02-21 14:55:13.903329 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 14:55:49.413560 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 14:55:49.415242 | L007 | Attempting to Parse
+2017-02-21 14:55:49.416037 | L008 | attempting codeSaving
+2017-02-21 14:55:50.415426 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 14:55:50.417264 | L007 | Attempting to Parse
+2017-02-21 14:55:50.419557 | L009 | Attempting to RUNCODE
+2017-02-21 14:55:50.422006 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 14:55:56.882661 | L006 | Attempting to Close Socket
+2017-02-21 14:55:56.883632 | L007 | Successfully Closed Socket
+2017-02-21 14:56:02.576539 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 20:34:45.858133 | L001 | Leaf Connect INIT
+2017-02-21 20:35:05.272580 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 20:35:05.273751 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 20:35:05.275534 | L004 | Successfully Opened Listener
+2017-02-21 20:35:10.497383 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 20:35:10.498561 | L007 | Attempting to Parse
+2017-02-21 20:35:10.503410 | L008 | attempting codeSaving
+2017-02-21 20:35:11.499053 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 20:35:11.501357 | L007 | Attempting to Parse
+2017-02-21 20:35:11.502468 | L009 | Attempting to RUNCODE
+2017-02-21 20:35:11.505924 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 20:40:36.625640 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 20:40:38.376315 | L001 | Leaf Connect INIT
+2017-02-21 20:40:54.294728 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 20:40:54.296294 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 20:40:54.298171 | L004 | Successfully Opened Listener
+2017-02-21 20:41:02.298666 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 20:41:02.304774 | L007 | Attempting to Parse
+2017-02-21 20:41:02.308767 | L008 | attempting codeSaving
+2017-02-21 20:41:03.299808 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 20:41:03.301918 | L007 | Attempting to Parse
+2017-02-21 20:41:03.303622 | L009 | Attempting to RUNCODE
+2017-02-21 20:41:03.307481 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 20:41:32.038117 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 20:41:59.507752 | L001 | Leaf Connect INIT
+2017-02-21 20:42:15.006725 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 20:42:15.008422 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 20:42:15.010724 | L004 | Successfully Opened Listener
+2017-02-21 20:42:22.281886 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 20:42:22.282976 | L007 | Attempting to Parse
+2017-02-21 20:42:22.284454 | L008 | attempting codeSaving
+2017-02-21 20:42:23.283684 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 20:42:23.285451 | L007 | Attempting to Parse
+2017-02-21 20:42:23.287912 | L009 | Attempting to RUNCODE
+2017-02-21 20:42:23.291763 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 20:42:59.566803 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 20:42:59.581348 | L007 | Attempting to Parse
+2017-02-21 20:42:59.582584 | L006 | Attempting to Close Socket
+2017-02-21 20:42:59.583853 | L007 | Successfully Closed Socket
+2017-02-21 20:43:04.659737 | L001 | Leaf Connect INIT
+2017-02-21 20:43:20.276636 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 20:43:20.277483 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 20:43:20.278699 | L004 | Successfully Opened Listener
+2017-02-21 20:43:25.408532 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 20:43:25.415451 | L007 | Attempting to Parse
+2017-02-21 20:43:25.419432 | L008 | attempting codeSaving
+2017-02-21 20:43:26.409850 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 20:43:26.411941 | L007 | Attempting to Parse
+2017-02-21 20:43:26.412882 | L009 | Attempting to RUNCODE
+2017-02-21 20:43:26.414690 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 21:13:47.608984 | L001 | Leaf Connect INIT
+2017-02-21 21:13:53.965721 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:13:53.968242 | L004 | Successfully Opened Listener
+2017-02-21 21:15:39.235254 | L001 | Leaf Connect INIT
+2017-02-21 21:15:52.854306 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:15:52.855493 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:15:52.856946 | L004 | Successfully Opened Listener
+2017-02-21 21:16:05.586512 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 21:16:05.595700 | L007 | Attempting to Parse
+2017-02-21 21:16:05.599427 | L006 | Attempting to Close Socket
+2017-02-21 21:16:05.652307 | L007 | Successfully Closed Socket
+2017-02-21 21:16:31.479061 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:16:31.480898 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:16:31.483712 | L004 | Successfully Opened Listener
+2017-02-21 21:16:49.948651 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 21:16:49.953167 | L007 | Attempting to Parse
+2017-02-21 21:16:49.954472 | L006 | Attempting to Close Socket
+2017-02-21 21:16:49.957195 | L007 | Successfully Closed Socket
+2017-02-21 21:16:57.254392 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:16:57.255792 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:16:57.258303 | L004 | Successfully Opened Listener
+2017-02-21 21:17:28.178523 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 21:17:28.184209 | L007 | Attempting to Parse
+2017-02-21 21:17:28.186045 | L006 | Attempting to Close Socket
+2017-02-21 21:17:28.187891 | L007 | Successfully Closed Socket
+2017-02-21 21:17:42.814914 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:17:42.816942 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:17:42.819450 | L004 | Successfully Opened Listener
+2017-02-21 21:20:37.101614 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 21:24:50.536947 | L001 | Leaf Connect INIT
+2017-02-21 21:24:58.642112 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:24:58.643731 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:24:58.646442 | L004 | Successfully Opened Listener
+2017-02-21 21:25:07.446874 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 21:25:07.451302 | L007 | Attempting to Parse
+2017-02-21 21:25:07.455475 | L008 | attempting codeSaving
+2017-02-21 21:25:08.448581 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 21:25:08.451035 | L007 | Attempting to Parse
+2017-02-21 21:25:08.453688 | L009 | Attempting to RUNCODE
+2017-02-21 21:25:08.455653 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 21:26:08.938549 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-21 21:26:08.953708 | L007 | Attempting to Parse
+2017-02-21 21:26:08.963070 | L006 | Attempting to Close Socket
+2017-02-21 21:26:08.968787 | L007 | Successfully Closed Socket
+2017-02-21 21:26:14.346506 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-21 21:26:14.348396 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-21 21:26:14.351774 | L004 | Successfully Opened Listener
+2017-02-21 21:26:35.663443 | L005 | Message From Connected Twig: CLOSE|NOWCLOSE|NOW
+2017-02-21 21:26:35.665220 | L007 | Attempting to Parse
+2017-02-21 21:26:35.666232 | L006 | Attempting to Close Socket
+2017-02-21 21:26:35.668132 | L007 | Successfully Closed Socket
+2017-02-21 21:26:47.842733 | L002 | Leaf Attempting to Connect to 192.168.2.31:5001
+2017-02-21 21:26:47.844414 | L003 | Successfully Connected to 192.168.2.31:5001
+2017-02-21 21:26:47.846339 | L004 | Successfully Opened Listener
+2017-02-21 21:27:01.054348 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 21:27:01.057834 | L007 | Attempting to Parse
+2017-02-21 21:27:01.060734 | L008 | attempting codeSaving
+2017-02-21 21:27:02.055806 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 21:27:02.058023 | L007 | Attempting to Parse
+2017-02-21 21:27:02.060157 | L009 | Attempting to RUNCODE
+2017-02-21 21:27:02.061483 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 21:27:08.454180 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-21 21:27:08.455966 | L007 | Attempting to Parse
+2017-02-21 21:27:08.457947 | L008 | attempting codeSaving
+2017-02-21 21:27:09.456221 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-21 21:27:09.458867 | L007 | Attempting to Parse
+2017-02-21 21:27:09.460671 | L009 | Attempting to RUNCODE
+2017-02-21 21:27:09.462834 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-21 21:29:28.672032 | L005 | Message From Connected Twig: CLOSE|NOW

@@ -1,0 +1,44 @@
+2017-03-22 09:41:16.299051 | L005 | Client Open
+2017-03-22 09:41:18.349751 | L001 | COMPUTER ADDED | 1
+2017-03-22 09:41:31.415618 | L004 | Socket INIT CPU#0
+2017-03-22 09:41:35.899444 | L003 | Connection Open 0
+2017-03-22 09:41:35.903997 | L005 | Opening Listener
+2017-03-22 09:41:35.905352 | L007 | Attempting to open listener
+2017-03-22 09:41:35.906444 | L010 | Attempting to Open Listener
+2017-03-22 09:41:37.360057 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-22 09:41:38.961373 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-22 09:41:38.976694 | L00x | Attempting to send message {'message': b'\x00\x...(More Data) 0
+2017-03-22 09:41:39.526820 | L008 | received from twig 0 643 Found 2 faces!|END 643 Found 2 faces!|END
+2017-03-22 09:41:39.527810 | L012 | Logging Data...
+2017-03-22 09:41:39.550957 | L010 | Attempting to Open Listener
+2017-03-22 10:07:56.170927 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-22 10:07:56.209248 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-22 10:07:56.221687 | L00x | Attempting to send message {'message': b'\x00\x...(More Data) 0
+2017-03-22 10:07:56.537067 | L008 | received from twig 0 645 Found 2 faces!|END 645 Found 2 faces!|END
+2017-03-22 10:07:56.537743 | L012 | Logging Data...
+2017-03-22 10:07:56.538744 | L010 | Attempting to Open Listener
+2017-03-22 10:08:05.578583 | L006 | Client Closed
+2017-03-22 10:08:05.579167 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-22 10:08:05.579803 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-22 10:08:09.706212 | L005 | Client Open
+2017-03-22 10:08:12.829454 | L001 | COMPUTER ADDED | 1
+2017-03-22 10:08:13.820979 | L004 | Socket INIT CPU#0
+2017-03-22 10:08:19.856407 | L003 | Connection Open 0
+2017-03-22 10:08:19.858249 | L005 | Opening Listener
+2017-03-22 10:08:19.861665 | L007 | Attempting to open listener
+2017-03-22 10:08:19.862738 | L010 | Attempting to Open Listener
+2017-03-22 10:08:29.262474 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-22 10:08:29.425663 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-22 10:08:29.440632 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-22 10:08:29.856566 | L008 | received from twig 0 647 Found 2 faces!|END 647 Found 2 faces!|END
+2017-03-22 10:08:29.858837 | L012 | Logging Data...
+2017-03-22 10:08:29.859992 | L010 | Attempting to Open Listener
+2017-03-22 10:11:52.978192 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-22 10:11:53.011672 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-22 10:11:53.020183 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-22 10:11:53.323679 | L008 | received from twig 0 649 Found 2 faces!|END 649 Found 2 faces!|END
+2017-03-22 10:11:53.325789 | L012 | Logging Data...
+2017-03-22 10:11:53.328194 | L010 | Attempting to Open Listener
+2017-03-22 10:18:17.749881 | L006 | Client Closed
+2017-03-22 10:18:17.750374 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-22 10:18:17.750800 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0

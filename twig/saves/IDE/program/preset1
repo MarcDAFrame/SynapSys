@@ -1,0 +1,25 @@
+#preset1
+#start() - starts the stream	
+#startCounter()
+#endCounter()
+#recordTime(intVar) - records the time  
+#getCPUList - gets list of computers connected
+#sendToLeafs - sends to all leafs from the CPU List
+CPUList = getCPUList(twigConnect.getConnectionList())
+codeList = getValuesFromFile('file')
+valueList = getValuesFromFile('values')
+for j,i in enumerate(cpuLIST):
+	sendToLeafs(twigConnect, CPUList, i, {'method' : 'CODE', 'message' : str(codeList))
+	sendToLeafs(twigConnect, CPUList, i, {'method' : 'RUNCODE', 'message' : valueList[j], 'DataType' : 'int'})
+
+
+
+
+
+
+
+
+
+
+
+

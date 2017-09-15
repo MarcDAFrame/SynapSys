@@ -1,0 +1,47 @@
+2017-02-10 08:50:03.183674 | L001 | Leaf Connect INIT
+2017-02-10 08:58:19.551036 | L001 | Leaf Connect INIT
+2017-02-10 08:59:45.286433 | L001 | Leaf Connect INIT
+2017-02-10 08:59:47.598311 | L001 | Leaf Attempting to Connect to :
+2017-02-10 09:01:47.498177 | L001 | Leaf Connect INIT
+2017-02-10 09:02:02.932525 | L001 | Leaf Connect INIT
+2017-02-10 09:02:15.305789 | L001 | Leaf Connect INIT
+2017-02-10 09:02:31.313445 | L001 | Leaf Connect INIT
+2017-02-10 09:02:39.477107 | L001 | Leaf Connect INIT
+2017-02-10 09:03:06.665803 | L001 | Leaf Connect INIT
+2017-02-10 09:03:11.009180 | L001 | Leaf Attempting to Connect to 1:1
+2017-02-10 09:03:34.109403 | L001 | Leaf Connect INIT
+2017-02-10 09:03:59.115167 | L001 | Leaf Connect INIT
+2017-02-10 09:04:02.321162 | L001 | Leaf Attempting to Connect to 1:1
+2017-02-10 09:54:38.672414 | L001 | Leaf Connect INIT
+2017-02-10 09:54:42.975855 | L002 | Leaf Attempting to Connect to 1:1
+2017-02-10 12:23:59.975831 | L001 | Leaf Connect INIT
+2017-02-10 12:36:00.615590 | L001 | Leaf Connect INIT
+2017-02-10 12:41:17.005185 | L001 | Leaf Connect INIT
+2017-02-10 12:41:43.860529 | L001 | Leaf Connect INIT
+2017-02-10 12:41:58.150382 | L001 | Leaf Connect INIT
+2017-02-10 12:42:11.493303 | L001 | Leaf Connect INIT
+2017-02-10 12:42:23.241008 | L001 | Leaf Connect INIT
+2017-02-10 12:43:58.312762 | L001 | Leaf Connect INIT
+2017-02-10 12:44:10.477191 | L001 | Leaf Connect INIT
+2017-02-10 12:44:51.504001 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:44:51.505201 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:45:53.033384 | L001 | Leaf Connect INIT
+2017-02-10 12:46:02.838175 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:46:02.839169 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:48:24.777621 | L001 | Leaf Connect INIT
+2017-02-10 12:48:37.699797 | L001 | Leaf Connect INIT
+2017-02-10 12:49:10.072972 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:49:10.074588 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:49:48.021222 | L001 | Leaf Connect INIT
+2017-02-10 12:50:04.026131 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:50:04.027413 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:51:27.592515 | L001 | Leaf Connect INIT
+2017-02-10 12:51:33.077086 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:51:33.078016 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:51:51.383271 | L001 | Leaf Connect INIT
+2017-02-10 12:51:58.381207 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:51:58.382154 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:52:37.654050 | L001 | Leaf Connect INIT
+2017-02-10 12:52:46.106716 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-10 12:52:46.108169 | L003 | successfully Connected to 10.9.34.183:5000
+2017-02-10 12:52:47.625398 | L003 | successfully Opened Listener

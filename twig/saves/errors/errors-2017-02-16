@@ -1,0 +1,20 @@
+2017-02-16 12:56:43.205132 | E005 | Files Do Not Exist temp.py Or values
+2017-02-16 13:02:46.112997 | E006 | No Connections When Attempting to Start Twig
+2017-02-16 13:03:05.639360 | E005 | Files Do Not Exist temp.py Or values
+2017-02-16 13:07:12.436358 | E005 | Files Do Not Exist temp.py Or values
+2017-02-16 13:08:11.878959 | E007 | Error while Attempting to close connection invalid command name ".140302794920232"
+2017-02-16 13:08:17.191286 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-16 13:08:25.003336 | E004 | Insert Proper Files
+2017-02-16 13:08:38.884300 | E005 | Files Do Not Exist temp.py Or values
+2017-02-16 13:08:43.432837 | E007 | Error while Attempting to close connection invalid command name ".140691477775920"
+2017-02-16 13:09:26.418006 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-16 13:09:32.266725 | E005 | Files Do Not Exist file Or temp
+2017-02-16 13:09:50.793396 | E007 | Error while Attempting to close connection invalid command name ".140277332976248"
+2017-02-16 13:09:55.172298 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-16 13:10:01.393260 | E002 | [Errno 98] Address already in use CPU NUM 1
+2017-02-16 13:10:38.164283 | E007 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-16 13:14:03.765805 | E007 | Error while Attempting to close connection [Errno 104] Connection reset by peer
+2017-02-16 13:15:33.553039 | E007 | Error while Attempting to close connection invalid command name ".140673234375232"
+2017-02-16 13:26:14.004821 | E004 | Insert Proper Files
+2017-02-16 13:27:30.123918 | E007 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-02-16 13:30:10.531461 | E007 | Error while Attempting to close connection invalid command name ".140576039875416"

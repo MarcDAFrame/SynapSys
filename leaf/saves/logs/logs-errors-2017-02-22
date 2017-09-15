@@ -1,0 +1,66 @@
+2017-02-22 11:31:53.745187 | L001 | Leaf Connect INIT
+2017-02-22 11:32:06.274615 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:32:06.275631 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:32:06.278128 | L004 | Successfully Opened Listener
+2017-02-22 11:32:13.765466 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-22 11:32:13.769731 | L007 | Attempting to Parse
+2017-02-22 11:32:13.775733 | L008 | attempting codeSaving
+2017-02-22 11:32:14.767265 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-22 11:32:14.769116 | L007 | Attempting to Parse
+2017-02-22 11:32:14.770602 | L009 | Attempting to RUNCODE
+2017-02-22 11:32:14.774180 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-22 11:32:31.014353 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:32:31.024420 | L007 | Attempting to Parse
+2017-02-22 11:32:31.030571 | L006 | Attempting to Close Socket
+2017-02-22 11:32:31.037443 | L007 | Successfully Closed Socket
+2017-02-22 11:32:40.120352 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:32:40.121462 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:32:40.125088 | L004 | Successfully Opened Listener
+2017-02-22 11:32:46.243015 | L005 | Message From Connected Twig: CODE|['def a(values):', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-22 11:32:46.246444 | L007 | Attempting to Parse
+2017-02-22 11:32:46.248678 | L008 | attempting codeSaving
+2017-02-22 11:32:47.244128 | L005 | Message From Connected Twig: RUNCODE|['3', '6', '7', '8', '11', '4', '29', '352', '351']
+2017-02-22 11:32:47.245867 | L007 | Attempting to Parse
+2017-02-22 11:32:47.248190 | L009 | Attempting to RUNCODE
+2017-02-22 11:32:47.250771 | L010 | code run response [True, False, True, False, True, False, True, False, False]
+2017-02-22 11:52:23.000095 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:55:09.611406 | L001 | Leaf Connect INIT
+2017-02-22 11:55:19.821732 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:55:19.823085 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:55:19.825344 | L004 | Successfully Opened Listener
+2017-02-22 11:55:55.269652 | L005 | Message From Connected Twig: CLOSE|NOWCLOSE|NOW
+2017-02-22 11:55:55.270649 | L007 | Attempting to Parse
+2017-02-22 11:55:55.289671 | L006 | Attempting to Close Socket
+2017-02-22 11:55:55.296204 | L007 | Successfully Closed Socket
+2017-02-22 11:56:01.876825 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:56:01.877879 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:56:01.879411 | L004 | Successfully Opened Listener
+2017-02-22 11:56:53.479271 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:56:53.483223 | L007 | Attempting to Parse
+2017-02-22 11:56:53.495166 | L006 | Attempting to Close Socket
+2017-02-22 11:56:53.496490 | L007 | Successfully Closed Socket
+2017-02-22 11:56:59.892765 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:56:59.893944 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:56:59.895911 | L004 | Successfully Opened Listener
+2017-02-22 11:57:57.335044 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:57:57.347814 | L007 | Attempting to Parse
+2017-02-22 11:57:57.349326 | L006 | Attempting to Close Socket
+2017-02-22 11:57:57.350586 | L007 | Successfully Closed Socket
+2017-02-22 11:58:01.820284 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:58:01.821305 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:58:01.822446 | L004 | Successfully Opened Listener
+2017-02-22 11:58:16.750147 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:58:16.752243 | L007 | Attempting to Parse
+2017-02-22 11:58:16.753268 | L006 | Attempting to Close Socket
+2017-02-22 11:58:16.754271 | L007 | Successfully Closed Socket
+2017-02-22 11:58:55.436772 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:58:55.437757 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:58:55.439213 | L004 | Successfully Opened Listener
+2017-02-22 11:59:19.383851 | L005 | Message From Connected Twig: CLOSE|NOW
+2017-02-22 11:59:19.385140 | L007 | Attempting to Parse
+2017-02-22 11:59:19.386685 | L006 | Attempting to Close Socket
+2017-02-22 11:59:19.405249 | L007 | Successfully Closed Socket
+2017-02-22 11:59:30.324235 | L002 | Leaf Attempting to Connect to 10.9.34.183:5000
+2017-02-22 11:59:30.325472 | L003 | Successfully Connected to 10.9.34.183:5000
+2017-02-22 11:59:30.326850 | L004 | Successfully Opened Listener
+2017-02-22 13:27:04.378355 | L001 | Leaf Connect INIT

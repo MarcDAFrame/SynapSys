@@ -1,0 +1,38 @@
+2017-03-24 09:25:50.458944 | L001 | Leaf Connect INIT
+2017-03-24 09:26:12.378545 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-24 09:26:12.379710 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-24 09:26:12.381321 | L010 | Attempting to Open Listener
+2017-03-24 09:26:16.667905 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'ticket': '658', 'method': 'CODE'}|END
+2017-03-24 09:26:16.668993 | L008 | attempting codeSaving
+2017-03-24 09:26:16.749048 | L007 | Attempting to Parse{'shape': (720, 1280), 'DataType': 'img', 'message...#\x1a ', 'ticket': '659', 'method': 'RUNCODE'}|END
+2017-03-24 09:26:16.781849 | L009 | Attempting to RUNCODE
+2017-03-24 09:26:17.031221 | L010 | code run response
+2017-03-24 09:26:50.491590 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-24 09:26:50.492743 | L006 | Attempting to Close Socket
+2017-03-24 09:26:50.493893 | L007 | Successfully Closed Socket
+2017-03-24 09:29:40.219931 | L001 | Leaf Connect INIT
+2017-03-24 09:29:51.123359 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-24 09:29:51.124402 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-24 09:29:51.126109 | L010 | Attempting to Open Listener
+2017-03-24 09:29:56.585850 | L007 | Attempting to Parse{'ticket': '660', 'message': '[\'import cv2, sys, ...alue\', dtype=\'uint8\')"]', 'method': 'CODE'}|END
+2017-03-24 09:29:56.586540 | L008 | attempting codeSaving
+2017-03-24 09:29:56.684132 | L007 | Attempting to Parse{'ticket': '661', 'shape': (720, 1280), 'message':...x1a ', 'method': 'RUNCODE', 'DataType': 'img'}|END
+2017-03-24 09:29:56.715685 | L009 | Attempting to RUNCODE
+2017-03-24 09:29:56.894730 | L010 | code run response
+2017-03-24 09:30:18.348836 | L007 | Attempting to ParseCLOSE|NOW|END{'method': 'CLOSE'}|END...CLOSE|NOW|END{'method': 'CLOSE'}|END
+2017-03-24 09:38:39.063209 | L001 | Leaf Connect INIT
+2017-03-24 09:38:46.985869 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-24 09:38:46.988686 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-24 09:38:46.992196 | L010 | Attempting to Open Listener
+2017-03-24 09:39:29.759465 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-24 09:39:29.766669 | L006 | Attempting to Close Socket
+2017-03-24 09:39:29.770989 | L007 | Successfully Closed Socket
+2017-03-24 09:39:46.359608 | L006 | Attempting to Close Socket
+2017-03-24 09:39:46.360359 | L007 | Successfully Closed Socket
+2017-03-24 09:39:51.655027 | L001 | Leaf Connect INIT
+2017-03-24 09:40:06.926181 | L001 | Leaf Connect INIT
+2017-03-24 09:40:27.980798 | L001 | Leaf Connect INIT
+2017-03-24 09:40:35.061521 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-24 09:40:35.062955 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-24 09:40:35.088677 | L010 | Attempting to Open Listener
+2017-03-24 09:42:28.565697 | L007 | Attempting to ParseCLOSE|NOW|END{'method': 'CLOSE'}|END...CLOSE|NOW|END{'method': 'CLOSE'}|END

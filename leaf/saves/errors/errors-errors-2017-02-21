@@ -1,0 +1,12 @@
+2017-02-21 14:51:43.741930 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 20:35:11.533947 | E003 | Error while attempting to send message to twig 'socket' object has no attribute 'sendMessage'
+2017-02-21 20:41:03.308245 | E003 | Error while attempting to send message to twig a bytes-like object is required, not 'list'
+2017-02-21 20:42:23.293976 | E003 | Error while attempting to send message to twig a bytes-like object is required, not 'str'
+2017-02-21 20:42:59.584969 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 21:13:53.966834 | E001 | Error while attempting to Open Socket [Errno 101] Network is unreachable
+2017-02-21 21:13:53.975573 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-21 21:16:05.687053 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 21:16:49.958912 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 21:17:28.190765 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 21:26:08.972824 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-21 21:26:35.669698 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor

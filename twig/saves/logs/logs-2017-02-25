@@ -1,0 +1,1119 @@
+2017-02-25 11:45:14.284117 | L005 | Client Open
+2017-02-25 11:45:15.550593 | L001 | COMPUTER ADDED | 1
+2017-02-25 11:45:16.198348 | L004 | Socket INIT CPU#0
+2017-02-25 11:45:37.759581 | L003 | Connection Open 0
+2017-02-25 11:45:37.761696 | L005 | Opening Listener
+2017-02-25 11:45:37.764664 | L007 | Attempting to open listener
+2017-02-25 11:45:37.767917 | L010 | Successfully Opened Listener
+2017-02-25 11:45:39.773950 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 11:45:47.093187 | L008 | received from twig 0 
+2017-02-25 11:45:47.094547 | L012 | Logging Data...
+2017-02-25 11:46:33.086156 | L004 | Socket INIT CPU#0
+2017-02-25 11:46:34.375414 | L003 | Connection Open 0
+2017-02-25 11:46:34.379683 | L005 | Opening Listener
+2017-02-25 11:46:34.383959 | L007 | Attempting to open listener
+2017-02-25 11:46:34.389735 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.016759 | L008 | received from twig 0 
+2017-02-25 11:46:43.025386 | L012 | Logging Data...
+2017-02-25 11:46:43.032297 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.033505 | L008 | received from twig 0 
+2017-02-25 11:46:43.034560 | L012 | Logging Data...
+2017-02-25 11:46:43.036985 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.038200 | L008 | received from twig 0 
+2017-02-25 11:46:43.045177 | L012 | Logging Data...
+2017-02-25 11:46:43.055392 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.057221 | L008 | received from twig 0 
+2017-02-25 11:46:43.058652 | L012 | Logging Data...
+2017-02-25 11:46:43.063297 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.067021 | L008 | received from twig 0 
+2017-02-25 11:46:43.068825 | L012 | Logging Data...
+2017-02-25 11:46:43.073010 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.078015 | L008 | received from twig 0 
+2017-02-25 11:46:43.079739 | L012 | Logging Data...
+2017-02-25 11:46:43.085139 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.087066 | L008 | received from twig 0 
+2017-02-25 11:46:43.089017 | L012 | Logging Data...
+2017-02-25 11:46:43.092532 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.095292 | L008 | received from twig 0 
+2017-02-25 11:46:43.096203 | L012 | Logging Data...
+2017-02-25 11:46:43.099967 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.101328 | L008 | received from twig 0 
+2017-02-25 11:46:43.102782 | L012 | Logging Data...
+2017-02-25 11:46:43.104747 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.105625 | L008 | received from twig 0 
+2017-02-25 11:46:43.106493 | L012 | Logging Data...
+2017-02-25 11:46:43.112750 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.113542 | L008 | received from twig 0 
+2017-02-25 11:46:43.116796 | L012 | Logging Data...
+2017-02-25 11:46:43.121210 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.122975 | L008 | received from twig 0 
+2017-02-25 11:46:43.129376 | L012 | Logging Data...
+2017-02-25 11:46:43.131408 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.132252 | L008 | received from twig 0 
+2017-02-25 11:46:43.137105 | L012 | Logging Data...
+2017-02-25 11:46:43.138771 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.139632 | L008 | received from twig 0 
+2017-02-25 11:46:43.140786 | L012 | Logging Data...
+2017-02-25 11:46:43.147021 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.148171 | L008 | received from twig 0 
+2017-02-25 11:46:43.149232 | L012 | Logging Data...
+2017-02-25 11:46:43.151463 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.152987 | L008 | received from twig 0 
+2017-02-25 11:46:43.154109 | L012 | Logging Data...
+2017-02-25 11:46:43.156357 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.161330 | L008 | received from twig 0 
+2017-02-25 11:46:43.162489 | L012 | Logging Data...
+2017-02-25 11:46:43.165564 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.166730 | L008 | received from twig 0 
+2017-02-25 11:46:43.167862 | L012 | Logging Data...
+2017-02-25 11:46:43.169655 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.170689 | L008 | received from twig 0 
+2017-02-25 11:46:43.171632 | L012 | Logging Data...
+2017-02-25 11:46:43.174598 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.176027 | L008 | received from twig 0 
+2017-02-25 11:46:43.178650 | L012 | Logging Data...
+2017-02-25 11:46:43.180730 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.181855 | L008 | received from twig 0 
+2017-02-25 11:46:43.183650 | L012 | Logging Data...
+2017-02-25 11:46:43.185478 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.186393 | L008 | received from twig 0 
+2017-02-25 11:46:43.187243 | L012 | Logging Data...
+2017-02-25 11:46:43.189005 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.190063 | L008 | received from twig 0 
+2017-02-25 11:46:43.190957 | L012 | Logging Data...
+2017-02-25 11:46:43.192838 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.194573 | L008 | received from twig 0 
+2017-02-25 11:46:43.196359 | L012 | Logging Data...
+2017-02-25 11:46:43.198939 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.200086 | L008 | received from twig 0 
+2017-02-25 11:46:43.201047 | L012 | Logging Data...
+2017-02-25 11:46:43.203299 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.204160 | L008 | received from twig 0 
+2017-02-25 11:46:43.205337 | L012 | Logging Data...
+2017-02-25 11:46:43.207318 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.208464 | L008 | received from twig 0 
+2017-02-25 11:46:43.211116 | L012 | Logging Data...
+2017-02-25 11:46:43.213066 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.214079 | L008 | received from twig 0 
+2017-02-25 11:46:43.215749 | L012 | Logging Data...
+2017-02-25 11:46:43.217640 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.218557 | L008 | received from twig 0 
+2017-02-25 11:46:43.219422 | L012 | Logging Data...
+2017-02-25 11:46:43.221421 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.222426 | L008 | received from twig 0 
+2017-02-25 11:46:43.223326 | L012 | Logging Data...
+2017-02-25 11:46:43.225436 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.227786 | L008 | received from twig 0 
+2017-02-25 11:46:43.228964 | L012 | Logging Data...
+2017-02-25 11:46:43.230743 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.231637 | L008 | received from twig 0 
+2017-02-25 11:46:43.232563 | L012 | Logging Data...
+2017-02-25 11:46:43.234349 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.235333 | L008 | received from twig 0 
+2017-02-25 11:46:43.236378 | L012 | Logging Data...
+2017-02-25 11:46:43.238154 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.239162 | L008 | received from twig 0 
+2017-02-25 11:46:43.240079 | L012 | Logging Data...
+2017-02-25 11:46:43.241704 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.244915 | L008 | received from twig 0 
+2017-02-25 11:46:43.247219 | L012 | Logging Data...
+2017-02-25 11:46:43.249097 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.249846 | L008 | received from twig 0 
+2017-02-25 11:46:43.253201 | L012 | Logging Data...
+2017-02-25 11:46:43.255185 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.256168 | L008 | received from twig 0 
+2017-02-25 11:46:43.257122 | L012 | Logging Data...
+2017-02-25 11:46:43.261604 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.262787 | L008 | received from twig 0 
+2017-02-25 11:46:43.263794 | L012 | Logging Data...
+2017-02-25 11:46:43.265619 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.266507 | L008 | received from twig 0 
+2017-02-25 11:46:43.267533 | L012 | Logging Data...
+2017-02-25 11:46:43.269437 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.270337 | L008 | received from twig 0 
+2017-02-25 11:46:43.271404 | L012 | Logging Data...
+2017-02-25 11:46:43.273310 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.274347 | L008 | received from twig 0 
+2017-02-25 11:46:43.275371 | L012 | Logging Data...
+2017-02-25 11:46:43.280900 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.281944 | L008 | received from twig 0 
+2017-02-25 11:46:43.282975 | L012 | Logging Data...
+2017-02-25 11:46:43.284686 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.285766 | L008 | received from twig 0 
+2017-02-25 11:46:43.287183 | L012 | Logging Data...
+2017-02-25 11:46:43.289245 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.290234 | L008 | received from twig 0 
+2017-02-25 11:46:43.291206 | L012 | Logging Data...
+2017-02-25 11:46:43.295970 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.297433 | L008 | received from twig 0 
+2017-02-25 11:46:43.298502 | L012 | Logging Data...
+2017-02-25 11:46:43.301137 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.302290 | L008 | received from twig 0 
+2017-02-25 11:46:43.303403 | L012 | Logging Data...
+2017-02-25 11:46:43.305399 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.306300 | L008 | received from twig 0 
+2017-02-25 11:46:43.307069 | L012 | Logging Data...
+2017-02-25 11:46:43.308482 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.309293 | L008 | received from twig 0 
+2017-02-25 11:46:43.310137 | L012 | Logging Data...
+2017-02-25 11:46:43.313198 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.314386 | L008 | received from twig 0 
+2017-02-25 11:46:43.315543 | L012 | Logging Data...
+2017-02-25 11:46:43.317522 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.318386 | L008 | received from twig 0 
+2017-02-25 11:46:43.319291 | L012 | Logging Data...
+2017-02-25 11:46:43.320981 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.322025 | L008 | received from twig 0 
+2017-02-25 11:46:43.322926 | L012 | Logging Data...
+2017-02-25 11:46:43.324657 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.325716 | L008 | received from twig 0 
+2017-02-25 11:46:43.326654 | L012 | Logging Data...
+2017-02-25 11:46:43.330556 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.331621 | L008 | received from twig 0 
+2017-02-25 11:46:43.332647 | L012 | Logging Data...
+2017-02-25 11:46:43.334355 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.335323 | L008 | received from twig 0 
+2017-02-25 11:46:43.336275 | L012 | Logging Data...
+2017-02-25 11:46:43.341610 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.343686 | L008 | received from twig 0 
+2017-02-25 11:46:43.346794 | L012 | Logging Data...
+2017-02-25 11:46:43.349052 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.350511 | L008 | received from twig 0 
+2017-02-25 11:46:43.352010 | L012 | Logging Data...
+2017-02-25 11:46:43.354950 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.356296 | L008 | received from twig 0 
+2017-02-25 11:46:43.357688 | L012 | Logging Data...
+2017-02-25 11:46:43.361951 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.363339 | L008 | received from twig 0 
+2017-02-25 11:46:43.364661 | L012 | Logging Data...
+2017-02-25 11:46:43.367957 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.369332 | L008 | received from twig 0 
+2017-02-25 11:46:43.370664 | L012 | Logging Data...
+2017-02-25 11:46:43.372995 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.374469 | L008 | received from twig 0 
+2017-02-25 11:46:43.377322 | L012 | Logging Data...
+2017-02-25 11:46:43.380998 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.382361 | L008 | received from twig 0 
+2017-02-25 11:46:43.383571 | L012 | Logging Data...
+2017-02-25 11:46:43.386074 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.387554 | L008 | received from twig 0 
+2017-02-25 11:46:43.388927 | L012 | Logging Data...
+2017-02-25 11:46:43.391263 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.395454 | L008 | received from twig 0 
+2017-02-25 11:46:43.397058 | L012 | Logging Data...
+2017-02-25 11:46:43.399643 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.401278 | L008 | received from twig 0 
+2017-02-25 11:46:43.402840 | L012 | Logging Data...
+2017-02-25 11:46:43.405457 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.406960 | L008 | received from twig 0 
+2017-02-25 11:46:43.412912 | L012 | Logging Data...
+2017-02-25 11:46:43.415724 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.418038 | L008 | received from twig 0 
+2017-02-25 11:46:43.419362 | L012 | Logging Data...
+2017-02-25 11:46:43.421589 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.423080 | L008 | received from twig 0 
+2017-02-25 11:46:43.426281 | L012 | Logging Data...
+2017-02-25 11:46:43.429473 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.430893 | L008 | received from twig 0 
+2017-02-25 11:46:43.432614 | L012 | Logging Data...
+2017-02-25 11:46:43.435076 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.436325 | L008 | received from twig 0 
+2017-02-25 11:46:43.437688 | L012 | Logging Data...
+2017-02-25 11:46:43.439503 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.440654 | L008 | received from twig 0 
+2017-02-25 11:46:43.444592 | L012 | Logging Data...
+2017-02-25 11:46:43.447018 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.447951 | L008 | received from twig 0 
+2017-02-25 11:46:43.453119 | L012 | Logging Data...
+2017-02-25 11:46:43.455471 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.456651 | L008 | received from twig 0 
+2017-02-25 11:46:43.458199 | L012 | Logging Data...
+2017-02-25 11:46:43.462196 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.463737 | L008 | received from twig 0 
+2017-02-25 11:46:43.465096 | L012 | Logging Data...
+2017-02-25 11:46:43.467129 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.468960 | L008 | received from twig 0 
+2017-02-25 11:46:43.470401 | L012 | Logging Data...
+2017-02-25 11:46:43.472638 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.473908 | L008 | received from twig 0 
+2017-02-25 11:46:43.477300 | L012 | Logging Data...
+2017-02-25 11:46:43.479867 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.481196 | L008 | received from twig 0 
+2017-02-25 11:46:43.482467 | L012 | Logging Data...
+2017-02-25 11:46:43.484752 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.486404 | L008 | received from twig 0 
+2017-02-25 11:46:43.488085 | L012 | Logging Data...
+2017-02-25 11:46:43.490343 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.494170 | L008 | received from twig 0 
+2017-02-25 11:46:43.495563 | L012 | Logging Data...
+2017-02-25 11:46:43.497780 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.499070 | L008 | received from twig 0 
+2017-02-25 11:46:43.500262 | L012 | Logging Data...
+2017-02-25 11:46:43.502993 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.504906 | L008 | received from twig 0 
+2017-02-25 11:46:43.506222 | L012 | Logging Data...
+2017-02-25 11:46:43.511333 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.513339 | L008 | received from twig 0 
+2017-02-25 11:46:43.514567 | L012 | Logging Data...
+2017-02-25 11:46:43.516885 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.518597 | L008 | received from twig 0 
+2017-02-25 11:46:43.519804 | L012 | Logging Data...
+2017-02-25 11:46:43.523075 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.527785 | L008 | received from twig 0 
+2017-02-25 11:46:43.529194 | L012 | Logging Data...
+2017-02-25 11:46:43.531472 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.532993 | L008 | received from twig 0 
+2017-02-25 11:46:43.534115 | L012 | Logging Data...
+2017-02-25 11:46:43.536201 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.537488 | L008 | received from twig 0 
+2017-02-25 11:46:43.538741 | L012 | Logging Data...
+2017-02-25 11:46:43.543590 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.545032 | L008 | received from twig 0 
+2017-02-25 11:46:43.546267 | L012 | Logging Data...
+2017-02-25 11:46:43.548356 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.549673 | L008 | received from twig 0 
+2017-02-25 11:46:43.550852 | L012 | Logging Data...
+2017-02-25 11:46:43.553098 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.554348 | L008 | received from twig 0 
+2017-02-25 11:46:43.555553 | L012 | Logging Data...
+2017-02-25 11:46:43.558335 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.560708 | L008 | received from twig 0 
+2017-02-25 11:46:43.561924 | L012 | Logging Data...
+2017-02-25 11:46:43.568239 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.569660 | L008 | received from twig 0 
+2017-02-25 11:46:43.571016 | L012 | Logging Data...
+2017-02-25 11:46:43.576334 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.577722 | L008 | received from twig 0 
+2017-02-25 11:46:43.579057 | L012 | Logging Data...
+2017-02-25 11:46:43.581290 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.582478 | L008 | received from twig 0 
+2017-02-25 11:46:43.583879 | L012 | Logging Data...
+2017-02-25 11:46:43.586396 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.588150 | L008 | received from twig 0 
+2017-02-25 11:46:43.591836 | L012 | Logging Data...
+2017-02-25 11:46:43.594698 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.596336 | L008 | received from twig 0 
+2017-02-25 11:46:43.597750 | L012 | Logging Data...
+2017-02-25 11:46:43.600057 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.601488 | L008 | received from twig 0 
+2017-02-25 11:46:43.602691 | L012 | Logging Data...
+2017-02-25 11:46:43.607166 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.610400 | L008 | received from twig 0 
+2017-02-25 11:46:43.611841 | L012 | Logging Data...
+2017-02-25 11:46:43.614234 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.615764 | L008 | received from twig 0 
+2017-02-25 11:46:43.617161 | L012 | Logging Data...
+2017-02-25 11:46:43.620119 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.623112 | L008 | received from twig 0 
+2017-02-25 11:46:43.625442 | L012 | Logging Data...
+2017-02-25 11:46:43.628896 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.630466 | L008 | received from twig 0 
+2017-02-25 11:46:43.631570 | L012 | Logging Data...
+2017-02-25 11:46:43.634167 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.635680 | L008 | received from twig 0 
+2017-02-25 11:46:43.636967 | L012 | Logging Data...
+2017-02-25 11:46:43.641606 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.642955 | L008 | received from twig 0 
+2017-02-25 11:46:43.644927 | L012 | Logging Data...
+2017-02-25 11:46:43.647313 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.648740 | L008 | received from twig 0 
+2017-02-25 11:46:43.650092 | L012 | Logging Data...
+2017-02-25 11:46:43.658623 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.661791 | L008 | received from twig 0 
+2017-02-25 11:46:43.663501 | L012 | Logging Data...
+2017-02-25 11:46:43.666428 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.668068 | L008 | received from twig 0 
+2017-02-25 11:46:43.669957 | L012 | Logging Data...
+2017-02-25 11:46:43.690996 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.695905 | L008 | received from twig 0 
+2017-02-25 11:46:43.698118 | L012 | Logging Data...
+2017-02-25 11:46:43.702651 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.705635 | L008 | received from twig 0 
+2017-02-25 11:46:43.706935 | L012 | Logging Data...
+2017-02-25 11:46:43.713198 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.715804 | L008 | received from twig 0 
+2017-02-25 11:46:43.717189 | L012 | Logging Data...
+2017-02-25 11:46:43.720087 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.721536 | L008 | received from twig 0 
+2017-02-25 11:46:43.722840 | L012 | Logging Data...
+2017-02-25 11:46:43.727986 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.730261 | L008 | received from twig 0 
+2017-02-25 11:46:43.731989 | L012 | Logging Data...
+2017-02-25 11:46:43.734864 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.736706 | L008 | received from twig 0 
+2017-02-25 11:46:43.740196 | L012 | Logging Data...
+2017-02-25 11:46:43.745326 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.747869 | L008 | received from twig 0 
+2017-02-25 11:46:43.749714 | L012 | Logging Data...
+2017-02-25 11:46:43.752756 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.754489 | L008 | received from twig 0 
+2017-02-25 11:46:43.756349 | L012 | Logging Data...
+2017-02-25 11:46:43.763009 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.768851 | L008 | received from twig 0 
+2017-02-25 11:46:43.771204 | L012 | Logging Data...
+2017-02-25 11:46:43.774216 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.776706 | L008 | received from twig 0 
+2017-02-25 11:46:43.781194 | L012 | Logging Data...
+2017-02-25 11:46:43.784581 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.787104 | L008 | received from twig 0 
+2017-02-25 11:46:43.788314 | L012 | Logging Data...
+2017-02-25 11:46:43.790565 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.793281 | L008 | received from twig 0 
+2017-02-25 11:46:43.795813 | L012 | Logging Data...
+2017-02-25 11:46:43.798248 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.799575 | L008 | received from twig 0 
+2017-02-25 11:46:43.800842 | L012 | Logging Data...
+2017-02-25 11:46:43.804335 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.805699 | L008 | received from twig 0 
+2017-02-25 11:46:43.806930 | L012 | Logging Data...
+2017-02-25 11:46:43.809056 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.810184 | L008 | received from twig 0 
+2017-02-25 11:46:43.811842 | L012 | Logging Data...
+2017-02-25 11:46:43.815308 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.816660 | L008 | received from twig 0 
+2017-02-25 11:46:43.817782 | L012 | Logging Data...
+2017-02-25 11:46:43.819846 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.821722 | L008 | received from twig 0 
+2017-02-25 11:46:43.822986 | L012 | Logging Data...
+2017-02-25 11:46:43.825113 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.826427 | L008 | received from twig 0 
+2017-02-25 11:46:43.827692 | L012 | Logging Data...
+2017-02-25 11:46:43.830771 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.832040 | L008 | received from twig 0 
+2017-02-25 11:46:43.833643 | L012 | Logging Data...
+2017-02-25 11:46:43.836060 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.837668 | L008 | received from twig 0 
+2017-02-25 11:46:43.839304 | L012 | Logging Data...
+2017-02-25 11:46:43.841477 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.843030 | L008 | received from twig 0 
+2017-02-25 11:46:43.845143 | L012 | Logging Data...
+2017-02-25 11:46:43.847318 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.848663 | L008 | received from twig 0 
+2017-02-25 11:46:43.850003 | L012 | Logging Data...
+2017-02-25 11:46:43.851985 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.853210 | L008 | received from twig 0 
+2017-02-25 11:46:43.854477 | L012 | Logging Data...
+2017-02-25 11:46:43.857394 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.860075 | L008 | received from twig 0 
+2017-02-25 11:46:43.861678 | L012 | Logging Data...
+2017-02-25 11:46:43.864034 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.866409 | L008 | received from twig 0 
+2017-02-25 11:46:43.867730 | L012 | Logging Data...
+2017-02-25 11:46:43.870038 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.871450 | L008 | received from twig 0 
+2017-02-25 11:46:43.874440 | L012 | Logging Data...
+2017-02-25 11:46:43.878899 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.880265 | L008 | received from twig 0 
+2017-02-25 11:46:43.881735 | L012 | Logging Data...
+2017-02-25 11:46:43.883960 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.885243 | L008 | received from twig 0 
+2017-02-25 11:46:43.886891 | L012 | Logging Data...
+2017-02-25 11:46:43.889408 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.892166 | L008 | received from twig 0 
+2017-02-25 11:46:43.894028 | L012 | Logging Data...
+2017-02-25 11:46:43.897927 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.899253 | L008 | received from twig 0 
+2017-02-25 11:46:43.900630 | L012 | Logging Data...
+2017-02-25 11:46:43.903038 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.904735 | L008 | received from twig 0 
+2017-02-25 11:46:43.906817 | L012 | Logging Data...
+2017-02-25 11:46:43.911077 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.912701 | L008 | received from twig 0 
+2017-02-25 11:46:43.914058 | L012 | Logging Data...
+2017-02-25 11:46:43.916245 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.918497 | L008 | received from twig 0 
+2017-02-25 11:46:43.920246 | L012 | Logging Data...
+2017-02-25 11:46:43.922450 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.926001 | L008 | received from twig 0 
+2017-02-25 11:46:43.927393 | L012 | Logging Data...
+2017-02-25 11:46:43.930619 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.932385 | L008 | received from twig 0 
+2017-02-25 11:46:43.933996 | L012 | Logging Data...
+2017-02-25 11:46:43.936379 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.938029 | L008 | received from twig 0 
+2017-02-25 11:46:43.939565 | L012 | Logging Data...
+2017-02-25 11:46:43.944379 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.945998 | L008 | received from twig 0 
+2017-02-25 11:46:43.947599 | L012 | Logging Data...
+2017-02-25 11:46:43.950245 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.951796 | L008 | received from twig 0 
+2017-02-25 11:46:43.953352 | L012 | Logging Data...
+2017-02-25 11:46:43.955881 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.959878 | L008 | received from twig 0 
+2017-02-25 11:46:43.961855 | L012 | Logging Data...
+2017-02-25 11:46:43.964449 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.966020 | L008 | received from twig 0 
+2017-02-25 11:46:43.967406 | L012 | Logging Data...
+2017-02-25 11:46:43.970239 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.976147 | L008 | received from twig 0 
+2017-02-25 11:46:43.977776 | L012 | Logging Data...
+2017-02-25 11:46:43.980455 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.982222 | L008 | received from twig 0 
+2017-02-25 11:46:43.983732 | L012 | Logging Data...
+2017-02-25 11:46:43.986812 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.988390 | L008 | received from twig 0 
+2017-02-25 11:46:43.991524 | L012 | Logging Data...
+2017-02-25 11:46:43.995092 | L010 | Successfully Opened Listener
+2017-02-25 11:46:43.996711 | L008 | received from twig 0 
+2017-02-25 11:46:43.998289 | L012 | Logging Data...
+2017-02-25 11:46:44.000962 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.002753 | L008 | received from twig 0 
+2017-02-25 11:46:44.004202 | L012 | Logging Data...
+2017-02-25 11:46:44.006695 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.009955 | L008 | received from twig 0 
+2017-02-25 11:46:44.012018 | L012 | Logging Data...
+2017-02-25 11:46:44.015135 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.017189 | L008 | received from twig 0 
+2017-02-25 11:46:44.019297 | L012 | Logging Data...
+2017-02-25 11:46:44.022378 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.025343 | L008 | received from twig 0 
+2017-02-25 11:46:44.027816 | L012 | Logging Data...
+2017-02-25 11:46:44.030135 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.032455 | L008 | received from twig 0 
+2017-02-25 11:46:44.034228 | L012 | Logging Data...
+2017-02-25 11:46:44.036980 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.039196 | L008 | received from twig 0 
+2017-02-25 11:46:44.043137 | L012 | Logging Data...
+2017-02-25 11:46:44.046679 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.048132 | L008 | received from twig 0 
+2017-02-25 11:46:44.049489 | L012 | Logging Data...
+2017-02-25 11:46:44.051797 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.053128 | L008 | received from twig 0 
+2017-02-25 11:46:44.054701 | L012 | Logging Data...
+2017-02-25 11:46:44.060709 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.062549 | L008 | received from twig 0 
+2017-02-25 11:46:44.064019 | L012 | Logging Data...
+2017-02-25 11:46:44.066525 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.068169 | L008 | received from twig 0 
+2017-02-25 11:46:44.069805 | L012 | Logging Data...
+2017-02-25 11:46:44.075079 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.076769 | L008 | received from twig 0 
+2017-02-25 11:46:44.078808 | L012 | Logging Data...
+2017-02-25 11:46:44.081349 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.082973 | L008 | received from twig 0 
+2017-02-25 11:46:44.086583 | L012 | Logging Data...
+2017-02-25 11:46:44.093149 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.096474 | L008 | received from twig 0 
+2017-02-25 11:46:44.098828 | L012 | Logging Data...
+2017-02-25 11:46:44.103568 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.108531 | L008 | received from twig 0 
+2017-02-25 11:46:44.110454 | L012 | Logging Data...
+2017-02-25 11:46:44.113882 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.115666 | L008 | received from twig 0 
+2017-02-25 11:46:44.117352 | L012 | Logging Data...
+2017-02-25 11:46:44.120000 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.123756 | L008 | received from twig 0 
+2017-02-25 11:46:44.125573 | L012 | Logging Data...
+2017-02-25 11:46:44.128658 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.130995 | L008 | received from twig 0 
+2017-02-25 11:46:44.132849 | L012 | Logging Data...
+2017-02-25 11:46:44.135935 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.137620 | L008 | received from twig 0 
+2017-02-25 11:46:44.139775 | L012 | Logging Data...
+2017-02-25 11:46:44.144034 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.145591 | L008 | received from twig 0 
+2017-02-25 11:46:44.147712 | L012 | Logging Data...
+2017-02-25 11:46:44.150575 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.152362 | L008 | received from twig 0 
+2017-02-25 11:46:44.154331 | L012 | Logging Data...
+2017-02-25 11:46:44.158824 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.160392 | L008 | received from twig 0 
+2017-02-25 11:46:44.162112 | L012 | Logging Data...
+2017-02-25 11:46:44.165818 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.167468 | L008 | received from twig 0 
+2017-02-25 11:46:44.169200 | L012 | Logging Data...
+2017-02-25 11:46:44.174583 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.176712 | L008 | received from twig 0 
+2017-02-25 11:46:44.178200 | L012 | Logging Data...
+2017-02-25 11:46:44.181178 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.183188 | L008 | received from twig 0 
+2017-02-25 11:46:44.184676 | L012 | Logging Data...
+2017-02-25 11:46:44.187882 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.191131 | L008 | received from twig 0 
+2017-02-25 11:46:44.193005 | L012 | Logging Data...
+2017-02-25 11:46:44.195837 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.197561 | L008 | received from twig 0 
+2017-02-25 11:46:44.199317 | L012 | Logging Data...
+2017-02-25 11:46:44.202548 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.206009 | L008 | received from twig 0 
+2017-02-25 11:46:44.207914 | L012 | Logging Data...
+2017-02-25 11:46:44.210826 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.212543 | L008 | received from twig 0 
+2017-02-25 11:46:44.214491 | L012 | Logging Data...
+2017-02-25 11:46:44.218230 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.220090 | L008 | received from twig 0 
+2017-02-25 11:46:44.223947 | L012 | Logging Data...
+2017-02-25 11:46:44.227144 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.228853 | L008 | received from twig 0 
+2017-02-25 11:46:44.230959 | L012 | Logging Data...
+2017-02-25 11:46:44.233984 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.235684 | L008 | received from twig 0 
+2017-02-25 11:46:44.237182 | L012 | Logging Data...
+2017-02-25 11:46:44.241453 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.243092 | L008 | received from twig 0 
+2017-02-25 11:46:44.244634 | L012 | Logging Data...
+2017-02-25 11:46:44.247671 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.250855 | L008 | received from twig 0 
+2017-02-25 11:46:44.252610 | L012 | Logging Data...
+2017-02-25 11:46:44.255517 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.258684 | L008 | received from twig 0 
+2017-02-25 11:46:44.260407 | L012 | Logging Data...
+2017-02-25 11:46:44.263037 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.264853 | L008 | received from twig 0 
+2017-02-25 11:46:44.266431 | L012 | Logging Data...
+2017-02-25 11:46:44.269751 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.271376 | L008 | received from twig 0 
+2017-02-25 11:46:44.274218 | L012 | Logging Data...
+2017-02-25 11:46:44.278459 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.281088 | L008 | received from twig 0 
+2017-02-25 11:46:44.283185 | L012 | Logging Data...
+2017-02-25 11:46:44.286287 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.291445 | L008 | received from twig 0 
+2017-02-25 11:46:44.293133 | L012 | Logging Data...
+2017-02-25 11:46:44.295821 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.297758 | L008 | received from twig 0 
+2017-02-25 11:46:44.299282 | L012 | Logging Data...
+2017-02-25 11:46:44.302384 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.305946 | L008 | received from twig 0 
+2017-02-25 11:46:44.308524 | L012 | Logging Data...
+2017-02-25 11:46:44.313374 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.315865 | L008 | received from twig 0 
+2017-02-25 11:46:44.318238 | L012 | Logging Data...
+2017-02-25 11:46:44.323809 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.326077 | L008 | received from twig 0 
+2017-02-25 11:46:44.327478 | L012 | Logging Data...
+2017-02-25 11:46:44.329744 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.331305 | L008 | received from twig 0 
+2017-02-25 11:46:44.332808 | L012 | Logging Data...
+2017-02-25 11:46:44.335616 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.337285 | L008 | received from twig 0 
+2017-02-25 11:46:44.339575 | L012 | Logging Data...
+2017-02-25 11:46:44.342098 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.343741 | L008 | received from twig 0 
+2017-02-25 11:46:44.345646 | L012 | Logging Data...
+2017-02-25 11:46:44.349369 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.350999 | L008 | received from twig 0 
+2017-02-25 11:46:44.354153 | L012 | Logging Data...
+2017-02-25 11:46:44.359116 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.360770 | L008 | received from twig 0 
+2017-02-25 11:46:44.363413 | L012 | Logging Data...
+2017-02-25 11:46:44.366191 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.368267 | L008 | received from twig 0 
+2017-02-25 11:46:44.369927 | L012 | Logging Data...
+2017-02-25 11:46:44.374095 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.377098 | L008 | received from twig 0 
+2017-02-25 11:46:44.379379 | L012 | Logging Data...
+2017-02-25 11:46:44.382311 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.384154 | L008 | received from twig 0 
+2017-02-25 11:46:44.386113 | L012 | Logging Data...
+2017-02-25 11:46:44.391659 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.393395 | L008 | received from twig 0 
+2017-02-25 11:46:44.395231 | L012 | Logging Data...
+2017-02-25 11:46:44.397941 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.403101 | L008 | received from twig 0 
+2017-02-25 11:46:44.406789 | L012 | Logging Data...
+2017-02-25 11:46:44.411224 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.413931 | L008 | received from twig 0 
+2017-02-25 11:46:44.415754 | L012 | Logging Data...
+2017-02-25 11:46:44.418769 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.420884 | L008 | received from twig 0 
+2017-02-25 11:46:44.423882 | L012 | Logging Data...
+2017-02-25 11:46:44.426850 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.428822 | L008 | received from twig 0 
+2017-02-25 11:46:44.430644 | L012 | Logging Data...
+2017-02-25 11:46:44.433704 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.435740 | L008 | received from twig 0 
+2017-02-25 11:46:44.439218 | L012 | Logging Data...
+2017-02-25 11:46:44.444742 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.447348 | L008 | received from twig 0 
+2017-02-25 11:46:44.449891 | L012 | Logging Data...
+2017-02-25 11:46:44.453759 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.457375 | L008 | received from twig 0 
+2017-02-25 11:46:44.460011 | L012 | Logging Data...
+2017-02-25 11:46:44.462908 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.465072 | L008 | received from twig 0 
+2017-02-25 11:46:44.467234 | L012 | Logging Data...
+2017-02-25 11:46:44.470860 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.474565 | L008 | received from twig 0 
+2017-02-25 11:46:44.477084 | L012 | Logging Data...
+2017-02-25 11:46:44.480030 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.481870 | L008 | received from twig 0 
+2017-02-25 11:46:44.483532 | L012 | Logging Data...
+2017-02-25 11:46:44.486537 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.489391 | L008 | received from twig 0 
+2017-02-25 11:46:44.491639 | L012 | Logging Data...
+2017-02-25 11:46:44.495140 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.497316 | L008 | received from twig 0 
+2017-02-25 11:46:44.499338 | L012 | Logging Data...
+2017-02-25 11:46:44.502059 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.503709 | L008 | received from twig 0 
+2017-02-25 11:46:44.507259 | L012 | Logging Data...
+2017-02-25 11:46:44.510755 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.512866 | L008 | received from twig 0 
+2017-02-25 11:46:44.514824 | L012 | Logging Data...
+2017-02-25 11:46:44.517860 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.519759 | L008 | received from twig 0 
+2017-02-25 11:46:44.521726 | L012 | Logging Data...
+2017-02-25 11:46:44.526163 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.528054 | L008 | received from twig 0 
+2017-02-25 11:46:44.529878 | L012 | Logging Data...
+2017-02-25 11:46:44.532866 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.534841 | L008 | received from twig 0 
+2017-02-25 11:46:44.538023 | L012 | Logging Data...
+2017-02-25 11:46:44.541743 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.543730 | L008 | received from twig 0 
+2017-02-25 11:46:44.545639 | L012 | Logging Data...
+2017-02-25 11:46:44.548614 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.550458 | L008 | received from twig 0 
+2017-02-25 11:46:44.552143 | L012 | Logging Data...
+2017-02-25 11:46:44.557545 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.559666 | L008 | received from twig 0 
+2017-02-25 11:46:44.561999 | L012 | Logging Data...
+2017-02-25 11:46:44.565131 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.567130 | L008 | received from twig 0 
+2017-02-25 11:46:44.569017 | L012 | Logging Data...
+2017-02-25 11:46:44.574136 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.576272 | L008 | received from twig 0 
+2017-02-25 11:46:44.578675 | L012 | Logging Data...
+2017-02-25 11:46:44.582033 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.584238 | L008 | received from twig 0 
+2017-02-25 11:46:44.586403 | L012 | Logging Data...
+2017-02-25 11:46:44.591560 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.593611 | L008 | received from twig 0 
+2017-02-25 11:46:44.596685 | L012 | Logging Data...
+2017-02-25 11:46:44.600178 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.603234 | L008 | received from twig 0 
+2017-02-25 11:46:44.607090 | L012 | Logging Data...
+2017-02-25 11:46:44.611304 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.614048 | L008 | received from twig 0 
+2017-02-25 11:46:44.616737 | L012 | Logging Data...
+2017-02-25 11:46:44.622362 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.625193 | L008 | received from twig 0 
+2017-02-25 11:46:44.627905 | L012 | Logging Data...
+2017-02-25 11:46:44.632062 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.634888 | L008 | received from twig 0 
+2017-02-25 11:46:44.638403 | L012 | Logging Data...
+2017-02-25 11:46:44.643087 | L010 | Successfully Opened Listener
+2017-02-25 11:46:44.645746 | L008 | received from twig 0 
+2017-02-25 11:46:44.647779 | L012 | Logging Data...
+2017-02-25 11:46:44.651063 | L010 | Successfully Opened Listener
+2017-02-25 11:49:24.462095 | L005 | Client Open
+2017-02-25 11:49:25.830123 | L001 | COMPUTER ADDED | 1
+2017-02-25 11:49:26.694633 | L004 | Socket INIT CPU#0
+2017-02-25 11:49:39.831385 | L003 | Connection Open 0
+2017-02-25 11:49:39.838765 | L005 | Opening Listener
+2017-02-25 11:49:39.841936 | L007 | Attempting to open listener
+2017-02-25 11:49:39.843849 | L010 | Successfully Opened Listener
+2017-02-25 11:49:49.840169 | L008 | received from twig 0 
+2017-02-25 11:50:07.805901 | L004 | Socket INIT CPU#0
+2017-02-25 12:29:38.693773 | L006 | Client Closed
+2017-02-25 12:29:40.708835 | L005 | Client Open
+2017-02-25 12:29:42.460328 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:29:43.315880 | L004 | Socket INIT CPU#0
+2017-02-25 12:29:55.613227 | L003 | Connection Open 0
+2017-02-25 12:29:55.620142 | L005 | Opening Listener
+2017-02-25 12:29:55.628182 | L007 | Attempting to open listener
+2017-02-25 12:29:55.633841 | L010 | Successfully Opened Listener
+2017-02-25 12:30:29.987696 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:30:29.991139 | L002 | Stream Started
+2017-02-25 12:32:26.974721 | L008 | received from twig 0 
+2017-02-25 12:32:28.478381 | L006 | Client Closed
+2017-02-25 12:32:29.735372 | L005 | Client Open
+2017-02-25 12:32:32.138532 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:32:32.707053 | L004 | Socket INIT CPU#0
+2017-02-25 12:32:43.123945 | L003 | Connection Open 0
+2017-02-25 12:32:43.134352 | L005 | Opening Listener
+2017-02-25 12:32:43.139607 | L007 | Attempting to open listener
+2017-02-25 12:32:43.143032 | L010 | Successfully Opened Listener
+2017-02-25 12:32:50.194791 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:32:59.290155 | L001 | COMPUTER ADDED | 2
+2017-02-25 12:33:01.938690 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 12:33:01.942431 | L002 | Stream Started
+2017-02-25 12:33:39.543806 | L006 | Client Closed
+2017-02-25 12:33:46.414584 | L005 | Client Open
+2017-02-25 12:33:47.593978 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:33:48.249988 | L004 | Socket INIT CPU#0
+2017-02-25 12:33:50.857824 | L001 | COMPUTER ADDED | 2
+2017-02-25 12:33:57.602588 | L004 | Socket INIT CPU#0
+2017-02-25 12:33:59.099528 | L003 | Connection Open 0
+2017-02-25 12:33:59.109774 | L005 | Opening Listener
+2017-02-25 12:33:59.118058 | L007 | Attempting to open listener
+2017-02-25 12:33:59.122334 | L010 | Successfully Opened Listener
+2017-02-25 12:34:04.265913 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 12:34:04.269741 | L002 | Stream Started
+2017-02-25 12:34:32.227354 | L008 | received from twig 0 
+2017-02-25 12:34:37.489547 | L006 | Client Closed
+2017-02-25 12:34:39.338312 | L005 | Client Open
+2017-02-25 12:34:40.977404 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:34:41.505590 | L004 | Socket INIT CPU#0
+2017-02-25 12:34:42.747294 | L003 | Connection Open 0
+2017-02-25 12:34:42.757621 | L005 | Opening Listener
+2017-02-25 12:34:42.775821 | L007 | Attempting to open listener
+2017-02-25 12:34:42.802468 | L010 | Successfully Opened Listener
+2017-02-25 12:34:47.225549 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:34:47.229616 | L002 | Stream Started
+2017-02-25 12:35:14.108183 | L006 | Client Closed
+2017-02-25 12:35:16.352391 | L005 | Client Open
+2017-02-25 12:35:18.065593 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:35:18.617450 | L004 | Socket INIT CPU#0
+2017-02-25 12:35:22.337381 | L004 | Socket INIT CPU#0
+2017-02-25 12:35:39.385526 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:35:39.389452 | L002 | Stream Started
+2017-02-25 12:35:50.234640 | L003 | Connection Open 0
+2017-02-25 12:35:50.243249 | L005 | Opening Listener
+2017-02-25 12:35:50.249190 | L007 | Attempting to open listener
+2017-02-25 12:35:50.253201 | L010 | Successfully Opened Listener
+2017-02-25 12:35:53.177443 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:35:53.181275 | L002 | Stream Started
+2017-02-25 12:36:47.282152 | L008 | received from twig 0 
+2017-02-25 12:36:49.476384 | L006 | Client Closed
+2017-02-25 12:36:50.712061 | L005 | Client Open
+2017-02-25 12:36:52.128922 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:36:52.945217 | L004 | Socket INIT CPU#0
+2017-02-25 12:36:53.825910 | L003 | Connection Open 0
+2017-02-25 12:36:53.836264 | L005 | Opening Listener
+2017-02-25 12:36:53.840620 | L007 | Attempting to open listener
+2017-02-25 12:36:53.844566 | L010 | Successfully Opened Listener
+2017-02-25 12:36:57.856640 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:36:57.861168 | L002 | Stream Started
+2017-02-25 12:37:18.540893 | L006 | Client Closed
+2017-02-25 12:37:21.884878 | L005 | Client Open
+2017-02-25 12:37:22.985321 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:37:24.209360 | L004 | Socket INIT CPU#0
+2017-02-25 12:37:26.833197 | L004 | Socket INIT CPU#0
+2017-02-25 12:37:29.666562 | L003 | Connection Open 0
+2017-02-25 12:37:29.673372 | L005 | Opening Listener
+2017-02-25 12:37:29.694928 | L007 | Attempting to open listener
+2017-02-25 12:37:29.727797 | L010 | Successfully Opened Listener
+2017-02-25 12:37:36.872669 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:37:36.876613 | L002 | Stream Started
+2017-02-25 12:37:36.881145 | L008 | received from twig 0 
+2017-02-25 12:39:26.985944 | L006 | Client Closed
+2017-02-25 12:39:30.781561 | L005 | Client Open
+2017-02-25 12:39:31.888064 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:39:32.744065 | L004 | Socket INIT CPU#0
+2017-02-25 12:39:34.017376 | L003 | Connection Open 0
+2017-02-25 12:39:34.026958 | L005 | Opening Listener
+2017-02-25 12:39:34.033136 | L007 | Attempting to open listener
+2017-02-25 12:39:34.036806 | L010 | Successfully Opened Listener
+2017-02-25 12:39:37.663707 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:39:37.668124 | L002 | Stream Started
+2017-02-25 12:39:47.040908 | L006 | Client Closed
+2017-02-25 12:39:50.713817 | L005 | Client Open
+2017-02-25 12:39:51.935628 | L001 | COMPUTER ADDED | 1
+2017-02-25 12:39:52.711716 | L004 | Socket INIT CPU#0
+2017-02-25 12:39:57.889705 | L003 | Connection Open 0
+2017-02-25 12:39:57.899638 | L005 | Opening Listener
+2017-02-25 12:39:57.905211 | L007 | Attempting to open listener
+2017-02-25 12:39:57.908933 | L010 | Successfully Opened Listener
+2017-02-25 12:39:59.231947 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 12:39:59.239016 | L002 | Stream Started
+2017-02-25 12:41:25.990699 | L008 | received from twig 0 
+2017-02-25 12:41:29.010959 | L006 | Client Closed
+2017-02-25 14:13:05.081057 | L005 | Client Open
+2017-02-25 14:13:21.622570 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:13:22.119258 | L004 | Socket INIT CPU#0
+2017-02-25 14:13:28.424999 | L003 | Connection Open 0
+2017-02-25 14:13:28.429739 | L005 | Opening Listener
+2017-02-25 14:13:28.435222 | L007 | Attempting to open listener
+2017-02-25 14:13:28.437340 | L010 | Successfully Opened Listener
+2017-02-25 14:13:32.237642 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:13:32.241844 | L002 | Stream Started
+2017-02-25 14:14:22.943215 | L006 | Client Closed
+2017-02-25 14:14:25.737427 | L005 | Client Open
+2017-02-25 14:14:36.322438 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:14:36.955079 | L004 | Socket INIT CPU#0
+2017-02-25 14:14:39.539321 | L003 | Connection Open 0
+2017-02-25 14:14:39.544129 | L005 | Opening Listener
+2017-02-25 14:14:39.546638 | L007 | Attempting to open listener
+2017-02-25 14:14:39.552808 | L010 | Successfully Opened Listener
+2017-02-25 14:14:43.738435 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:14:43.743276 | L002 | Stream Started
+2017-02-25 14:15:07.109552 | L006 | Client Closed
+2017-02-25 14:15:21.602116 | L005 | Client Open
+2017-02-25 14:15:36.639159 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:15:37.239723 | L004 | Socket INIT CPU#0
+2017-02-25 14:15:44.305785 | L003 | Connection Open 0
+2017-02-25 14:15:44.316075 | L005 | Opening Listener
+2017-02-25 14:15:44.322452 | L007 | Attempting to open listener
+2017-02-25 14:15:44.327047 | L010 | Successfully Opened Listener
+2017-02-25 14:15:49.695035 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:15:49.699752 | L002 | Stream Started
+2017-02-25 14:16:43.776566 | L006 | Client Closed
+2017-02-25 14:17:17.645587 | L008 | received from twig 0 
+2017-02-25 14:17:26.019879 | L005 | Client Open
+2017-02-25 14:17:27.163697 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:17:28.076067 | L004 | Socket INIT CPU#0
+2017-02-25 14:17:33.734379 | L003 | Connection Open 0
+2017-02-25 14:17:33.746663 | L005 | Opening Listener
+2017-02-25 14:17:33.753651 | L007 | Attempting to open listener
+2017-02-25 14:17:33.760284 | L010 | Successfully Opened Listener
+2017-02-25 14:17:39.443290 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:17:39.451291 | L002 | Stream Started
+2017-02-25 14:18:12.576654 | L006 | Client Closed
+2017-02-25 14:18:18.766751 | L005 | Client Open
+2017-02-25 14:18:20.250752 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:18:21.034837 | L004 | Socket INIT CPU#0
+2017-02-25 14:18:23.770102 | L001 | COMPUTER ADDED | 2
+2017-02-25 14:18:24.658627 | L004 | Socket INIT CPU#1
+2017-02-25 14:18:27.012540 | L003 | Connection Open 1
+2017-02-25 14:18:27.023127 | L005 | Opening Listener
+2017-02-25 14:18:27.029511 | L007 | Attempting to open listener
+2017-02-25 14:18:27.033165 | L010 | Successfully Opened Listener
+2017-02-25 14:18:31.826032 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 14:18:31.834661 | L002 | Stream Started
+2017-02-25 14:19:19.329684 | L008 | received from twig 1 
+2017-02-25 14:19:26.225721 | L004 | Socket INIT CPU#0
+2017-02-25 14:19:27.307536 | L003 | Connection Open 0
+2017-02-25 14:19:27.316949 | L005 | Opening Listener
+2017-02-25 14:19:27.324162 | L007 | Attempting to open listener
+2017-02-25 14:19:27.332633 | L010 | Successfully Opened Listener
+2017-02-25 14:19:29.464798 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 14:19:29.469055 | L002 | Stream Started
+2017-02-25 14:20:05.875057 | L008 | received from twig 0 
+2017-02-25 14:20:11.984146 | L004 | Socket INIT CPU#0
+2017-02-25 14:20:13.923357 | L003 | Connection Open 0
+2017-02-25 14:20:13.931015 | L005 | Opening Listener
+2017-02-25 14:20:13.934509 | L007 | Attempting to open listener
+2017-02-25 14:20:13.938108 | L010 | Successfully Opened Listener
+2017-02-25 14:20:16.959989 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 14:20:16.967940 | L002 | Stream Started
+2017-02-25 14:21:21.767345 | L006 | Client Closed
+2017-02-25 14:21:31.923021 | L005 | Client Open
+2017-02-25 14:21:35.455254 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:21:36.326315 | L004 | Socket INIT CPU#0
+2017-02-25 14:21:37.518950 | L001 | COMPUTER ADDED | 2
+2017-02-25 14:21:38.063104 | L004 | Socket INIT CPU#1
+2017-02-25 14:21:43.945431 | L003 | Connection Open 1
+2017-02-25 14:21:43.957290 | L005 | Opening Listener
+2017-02-25 14:21:43.962594 | L007 | Attempting to open listener
+2017-02-25 14:21:43.969380 | L010 | Successfully Opened Listener
+2017-02-25 14:21:47.950817 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 14:21:47.955185 | L002 | Stream Started
+2017-02-25 14:22:27.125359 | L008 | received from twig 1 
+2017-02-25 14:22:27.969699 | L006 | Client Closed
+2017-02-25 14:22:35.916605 | L005 | Client Open
+2017-02-25 14:22:44.678573 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:22:45.390540 | L004 | Socket INIT CPU#0
+2017-02-25 14:22:50.224729 | L003 | Connection Open 0
+2017-02-25 14:22:50.228830 | L005 | Opening Listener
+2017-02-25 14:22:50.235793 | L007 | Attempting to open listener
+2017-02-25 14:22:50.238572 | L010 | Successfully Opened Listener
+2017-02-25 14:22:52.190827 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:22:52.195766 | L002 | Stream Started
+2017-02-25 14:24:46.893533 | L008 | received from twig 0 
+2017-02-25 14:24:57.598437 | L004 | Socket INIT CPU#0
+2017-02-25 14:24:58.679995 | L003 | Connection Open 0
+2017-02-25 14:24:58.693821 | L005 | Opening Listener
+2017-02-25 14:24:58.699374 | L007 | Attempting to open listener
+2017-02-25 14:24:58.702997 | L010 | Successfully Opened Listener
+2017-02-25 14:24:59.989782 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:24:59.993980 | L002 | Stream Started
+2017-02-25 14:26:04.055894 | L008 | received from twig 0 
+2017-02-25 14:26:14.406730 | L004 | Socket INIT CPU#0
+2017-02-25 14:26:15.552942 | L003 | Connection Open 0
+2017-02-25 14:26:15.563464 | L005 | Opening Listener
+2017-02-25 14:26:15.569847 | L007 | Attempting to open listener
+2017-02-25 14:26:15.578344 | L010 | Successfully Opened Listener
+2017-02-25 14:26:17.294045 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:26:17.299806 | L002 | Stream Started
+2017-02-25 14:27:26.544826 | L008 | received from twig 0 
+2017-02-25 14:27:31.342539 | L004 | Socket INIT CPU#0
+2017-02-25 14:27:38.376980 | L003 | Connection Open 0
+2017-02-25 14:27:38.387068 | L005 | Opening Listener
+2017-02-25 14:27:38.394211 | L007 | Attempting to open listener
+2017-02-25 14:27:38.399614 | L010 | Successfully Opened Listener
+2017-02-25 14:27:41.054243 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:27:41.058213 | L002 | Stream Started
+2017-02-25 14:39:34.858787 | L008 | received from twig 0 
+2017-02-25 14:39:47.823002 | L004 | Socket INIT CPU#0
+2017-02-25 14:39:48.793982 | L003 | Connection Open 0
+2017-02-25 14:39:48.805553 | L005 | Opening Listener
+2017-02-25 14:39:48.811228 | L007 | Attempting to open listener
+2017-02-25 14:39:48.815141 | L010 | Successfully Opened Listener
+2017-02-25 14:39:51.919599 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:39:51.924279 | L002 | Stream Started
+2017-02-25 14:41:07.620937 | L008 | received from twig 0 
+2017-02-25 14:41:11.912899 | L004 | Socket INIT CPU#0
+2017-02-25 14:41:12.200816 | L004 | Socket INIT CPU#0
+2017-02-25 14:41:13.928825 | L004 | Socket INIT CPU#0
+2017-02-25 14:41:16.681364 | L004 | Socket INIT CPU#0
+2017-02-25 14:41:22.508029 | L003 | Connection Open 0
+2017-02-25 14:41:22.514586 | L005 | Opening Listener
+2017-02-25 14:41:22.520447 | L007 | Attempting to open listener
+2017-02-25 14:41:22.522783 | L010 | Successfully Opened Listener
+2017-02-25 14:41:25.728794 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:41:25.733823 | L002 | Stream Started
+2017-02-25 14:42:43.463738 | L008 | received from twig 0 
+2017-02-25 14:42:57.818137 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:42:57.826211 | L002 | Stream Started
+2017-02-25 14:43:06.666612 | L004 | Socket INIT CPU#0
+2017-02-25 14:43:09.666352 | L004 | Socket INIT CPU#0
+2017-02-25 14:43:10.818610 | L001 | COMPUTER ADDED | 2
+2017-02-25 14:43:12.103053 | L006 | Client Closed
+2017-02-25 14:43:15.066601 | L005 | Client Open
+2017-02-25 14:43:17.002867 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:43:17.618803 | L004 | Socket INIT CPU#0
+2017-02-25 14:43:20.043904 | L003 | Connection Open 0
+2017-02-25 14:43:20.048800 | L005 | Opening Listener
+2017-02-25 14:43:20.053122 | L007 | Attempting to open listener
+2017-02-25 14:43:20.057516 | L010 | Successfully Opened Listener
+2017-02-25 14:43:23.819029 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:43:23.826934 | L002 | Stream Started
+2017-02-25 14:45:51.427906 | L008 | received from twig 0 
+2017-02-25 14:45:55.357737 | L004 | Socket INIT CPU#0
+2017-02-25 14:46:00.959811 | L003 | Connection Open 0
+2017-02-25 14:46:00.964829 | L005 | Opening Listener
+2017-02-25 14:46:00.987049 | L007 | Attempting to open listener
+2017-02-25 14:46:01.030594 | L010 | Successfully Opened Listener
+2017-02-25 14:46:02.293437 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:46:02.301892 | L002 | Stream Started
+2017-02-25 14:46:21.398081 | L004 | Socket INIT CPU#0
+2017-02-25 14:46:22.245386 | L004 | Socket INIT CPU#0
+2017-02-25 14:46:23.381312 | L004 | Socket INIT CPU#0
+2017-02-25 14:46:28.157630 | L006 | Client Closed
+2017-02-25 14:46:33.666144 | L005 | Client Open
+2017-02-25 14:46:34.644099 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:46:35.124139 | L004 | Socket INIT CPU#0
+2017-02-25 14:46:42.046875 | L003 | Connection Open 0
+2017-02-25 14:46:42.057970 | L005 | Opening Listener
+2017-02-25 14:46:42.063042 | L007 | Attempting to open listener
+2017-02-25 14:46:42.068681 | L010 | Successfully Opened Listener
+2017-02-25 14:46:48.531813 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:46:48.538911 | L002 | Stream Started
+2017-02-25 14:49:33.930200 | L008 | received from twig 0 
+2017-02-25 14:49:35.791600 | L006 | Client Closed
+2017-02-25 14:49:48.180276 | L005 | Client Open
+2017-02-25 14:50:48.358573 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:50:48.942991 | L004 | Socket INIT CPU#0
+2017-02-25 14:50:56.321013 | L003 | Connection Open 0
+2017-02-25 14:50:56.333355 | L005 | Opening Listener
+2017-02-25 14:50:56.339412 | L007 | Attempting to open listener
+2017-02-25 14:50:56.345563 | L010 | Successfully Opened Listener
+2017-02-25 14:51:01.566609 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:51:01.571100 | L002 | Stream Started
+2017-02-25 14:52:15.325065 | L008 | received from twig 0 
+2017-02-25 14:52:27.517320 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:52:27.523611 | L002 | Stream Started
+2017-02-25 14:52:33.989696 | L001 | COMPUTER ADDED | 2
+2017-02-25 14:52:34.541847 | L004 | Socket INIT CPU#1
+2017-02-25 14:52:35.998025 | L004 | Socket INIT CPU#0
+2017-02-25 14:52:37.045774 | L004 | Socket INIT CPU#0
+2017-02-25 14:52:44.863280 | L003 | Connection Open 1
+2017-02-25 14:52:44.867911 | L005 | Opening Listener
+2017-02-25 14:52:44.872369 | L007 | Attempting to open listener
+2017-02-25 14:52:44.876750 | L010 | Successfully Opened Listener
+2017-02-25 14:52:48.157150 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-25 14:52:48.161109 | L002 | Stream Started
+2017-02-25 14:52:52.945182 | L008 | received from twig 1 
+2017-02-25 14:52:53.805572 | L004 | Socket INIT CPU#0
+2017-02-25 14:52:55.382086 | L006 | Client Closed
+2017-02-25 14:52:56.662700 | L005 | Client Open
+2017-02-25 14:52:57.853980 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:52:58.341859 | L004 | Socket INIT CPU#0
+2017-02-25 14:53:01.223344 | L003 | Connection Open 0
+2017-02-25 14:53:01.235616 | L005 | Opening Listener
+2017-02-25 14:53:01.241289 | L007 | Attempting to open listener
+2017-02-25 14:53:01.250575 | L010 | Successfully Opened Listener
+2017-02-25 14:53:08.357635 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:53:08.362676 | L002 | Stream Started
+2017-02-25 14:55:52.840926 | L006 | Client Closed
+2017-02-25 14:56:00.924748 | L005 | Client Open
+2017-02-25 14:56:02.868540 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:56:03.516985 | L004 | Socket INIT CPU#0
+2017-02-25 14:56:09.974486 | L003 | Connection Open 0
+2017-02-25 14:56:09.981091 | L005 | Opening Listener
+2017-02-25 14:56:09.988119 | L007 | Attempting to open listener
+2017-02-25 14:56:09.992138 | L010 | Successfully Opened Listener
+2017-02-25 14:56:21.220825 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 14:56:21.228739 | L002 | Stream Started
+2017-02-25 14:59:45.426197 | L008 | received from twig 0 
+2017-02-25 14:59:47.571783 | L006 | Client Closed
+2017-02-25 14:59:49.190129 | L005 | Client Open
+2017-02-25 14:59:54.268657 | L001 | COMPUTER ADDED | 1
+2017-02-25 14:59:55.396650 | L004 | Socket INIT CPU#0
+2017-02-25 15:00:03.654220 | L003 | Connection Open 0
+2017-02-25 15:00:03.660039 | L005 | Opening Listener
+2017-02-25 15:00:03.704835 | L007 | Attempting to open listener
+2017-02-25 15:00:03.789797 | L010 | Successfully Opened Listener
+2017-02-25 15:00:20.501175 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:00:20.509560 | L002 | Stream Started
+2017-02-25 15:09:03.860427 | L008 | received from twig 0 
+2017-02-25 15:09:15.081636 | L004 | Socket INIT CPU#0
+2017-02-25 15:09:16.396047 | L003 | Connection Open 0
+2017-02-25 15:09:16.404048 | L005 | Opening Listener
+2017-02-25 15:09:16.408603 | L007 | Attempting to open listener
+2017-02-25 15:09:16.412073 | L010 | Successfully Opened Listener
+2017-02-25 15:09:18.881631 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:09:18.890564 | L002 | Stream Started
+2017-02-25 15:10:25.359555 | L008 | received from twig 0 
+2017-02-25 15:11:06.371358 | L004 | Socket INIT CPU#0
+2017-02-25 15:11:07.549113 | L003 | Connection Open 0
+2017-02-25 15:11:07.556946 | L005 | Opening Listener
+2017-02-25 15:11:07.562273 | L007 | Attempting to open listener
+2017-02-25 15:11:07.564907 | L010 | Successfully Opened Listener
+2017-02-25 15:11:15.043172 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:11:15.048359 | L002 | Stream Started
+2017-02-25 15:12:32.107840 | L004 | Socket INIT CPU#0
+2017-02-25 15:12:40.062322 | L003 | Connection Open 0
+2017-02-25 15:12:40.073763 | L005 | Opening Listener
+2017-02-25 15:12:40.077795 | L007 | Attempting to open listener
+2017-02-25 15:12:40.082853 | L010 | Successfully Opened Listener
+2017-02-25 15:12:42.715617 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:12:42.721620 | L002 | Stream Started
+2017-02-25 15:13:07.043985 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:13:07.050401 | L002 | Stream Started
+2017-02-25 15:14:37.213766 | L008 | received from twig 0 
+2017-02-25 15:14:41.157076 | L004 | Socket INIT CPU#0
+2017-02-25 15:15:10.391802 | L003 | Connection Open 0
+2017-02-25 15:15:10.399504 | L005 | Opening Listener
+2017-02-25 15:15:10.405289 | L007 | Attempting to open listener
+2017-02-25 15:15:10.408152 | L010 | Successfully Opened Listener
+2017-02-25 15:15:14.861939 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:15:14.867346 | L002 | Stream Started
+2017-02-25 15:16:35.829578 | L006 | Client Closed
+2017-02-25 15:16:37.866715 | L005 | Client Open
+2017-02-25 15:16:40.598348 | L001 | COMPUTER ADDED | 1
+2017-02-25 15:16:41.222302 | L004 | Socket INIT CPU#0
+2017-02-25 15:16:49.050235 | L003 | Connection Open 0
+2017-02-25 15:16:49.057336 | L005 | Opening Listener
+2017-02-25 15:16:49.065604 | L007 | Attempting to open listener
+2017-02-25 15:16:49.070118 | L010 | Successfully Opened Listener
+2017-02-25 15:16:57.983033 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:16:57.986862 | L002 | Stream Started
+2017-02-25 15:19:32.740478 | L008 | received from twig 0 
+2017-02-25 15:19:39.801774 | L004 | Socket INIT CPU#0
+2017-02-25 15:19:52.812953 | L003 | Connection Open 0
+2017-02-25 15:19:52.825608 | L005 | Opening Listener
+2017-02-25 15:19:52.833072 | L007 | Attempting to open listener
+2017-02-25 15:19:52.837808 | L010 | Successfully Opened Listener
+2017-02-25 15:19:54.568964 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:19:54.573738 | L002 | Stream Started
+2017-02-25 15:20:42.624231 | L004 | Socket INIT CPU#0
+2017-02-25 15:20:43.476622 | L003 | Connection Open 0
+2017-02-25 15:20:43.489892 | L005 | Opening Listener
+2017-02-25 15:20:43.498549 | L007 | Attempting to open listener
+2017-02-25 15:20:43.508348 | L010 | Successfully Opened Listener
+2017-02-25 15:20:48.615846 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:20:48.621426 | L002 | Stream Started
+2017-02-25 15:22:22.519849 | L008 | received from twig 0 
+2017-02-25 15:22:28.685039 | L004 | Socket INIT CPU#0
+2017-02-25 15:22:34.376325 | L003 | Connection Open 0
+2017-02-25 15:22:34.385526 | L005 | Opening Listener
+2017-02-25 15:22:34.395642 | L007 | Attempting to open listener
+2017-02-25 15:22:34.400848 | L010 | Successfully Opened Listener
+2017-02-25 15:22:37.133540 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:22:37.143438 | L002 | Stream Started
+2017-02-25 15:22:55.991402 | L008 | received from twig 0 
+2017-02-25 15:23:08.717578 | L004 | Socket INIT CPU#0
+2017-02-25 15:23:09.768384 | L003 | Connection Open 0
+2017-02-25 15:23:09.781178 | L005 | Opening Listener
+2017-02-25 15:23:09.788343 | L007 | Attempting to open listener
+2017-02-25 15:23:09.795853 | L010 | Successfully Opened Listener
+2017-02-25 15:23:12.548631 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-25 15:23:12.552549 | L002 | Stream Started
+2017-02-25 15:23:13.569321 | L008 | received from twig 0 ['t#46', True, True, True, True, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False]
+2017-02-25 15:23:13.573260 | L012 | Logging Data...
+2017-02-25 15:23:13.580325 | L010 | Successfully Opened Listener
+2017-02-25 16:24:30.905155 | L006 | Client Closed
+2017-02-25 16:24:30.940070 | L008 | received from twig 0 

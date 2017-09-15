@@ -1,0 +1,8 @@
+2017-02-26 19:48:57.176488 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-26 19:48:59.721239 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-26 19:49:02.167267 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-02-26 19:49:04.209387 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-02-26 19:49:12.511610 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-26 19:55:36.000104 | E004 | Error while Attempting to close connection invalid command name ".140299791787568"
+2017-02-26 20:23:06.117195 | E006 | No Connections When Attempting to Start Twig
+2017-02-26 20:23:08.825991 | E004 | Insert Proper Files

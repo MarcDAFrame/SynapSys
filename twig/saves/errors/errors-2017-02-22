@@ -1,0 +1,19 @@
+2017-02-22 11:32:09.468927 | E004 | Insert Proper Files
+2017-02-22 11:32:14.783122 | E004 | Error while logging data module 'TOOLKIT.TOOLKIT' has no attribute 'utils'
+2017-02-22 11:32:31.014683 | E007 | Error while Attempting to close connection invalid command name ".140391284794144"
+2017-02-22 11:32:31.039932 | E004 | Error while logging data module 'TOOLKIT.TOOLKIT' has no attribute 'utils'
+2017-02-22 11:32:41.337242 | E004 | Insert Proper Files
+2017-02-22 11:52:23.000308 | E007 | Error while Attempting to close connection invalid command name ".139679918994096"
+2017-02-22 11:52:24.047123 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-22 11:55:55.268718 | E004 | Error while Attempting to close connection invalid command name ".140489286190472"
+2017-02-22 11:55:55.298125 | E004 | Error while logging data string index out of range
+2017-02-22 11:56:06.463848 | E004 | Insert Proper Files
+2017-02-22 11:56:53.479430 | E004 | Error while Attempting to close connection invalid command name ".139829050664216"
+2017-02-22 11:56:53.496470 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-22 11:57:57.335060 | E004 | Error while Attempting to close connection invalid command name ".140500623832512"
+2017-02-22 11:57:57.350577 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-22 11:58:16.750291 | E004 | Error while Attempting to close connection invalid command name ".140619098449120"
+2017-02-22 11:58:16.756003 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-22 11:59:19.384187 | E004 | Error while Attempting to close connection invalid command name ".140613762229584"
+2017-02-22 11:59:19.405239 | E001 | Error while attempting to listen [Errno 104] Connection reset by peer
+2017-02-22 12:00:08.205544 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0

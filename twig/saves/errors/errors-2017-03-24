@@ -1,0 +1,9 @@
+2017-03-24 09:30:18.348160 | E004 | Error while Attempting to close connection invalid command name ".140694577229104"
+2017-03-24 09:38:46.997387 | E008 | Error opening listener name 'pool' is not defined
+2017-03-24 09:39:41.391095 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-24 09:39:53.378925 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-24 09:39:58.539261 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-24 09:40:09.533898 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-24 09:40:19.569889 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-24 09:40:35.145775 | E008 | Error opening listener listener() missing 1 required positional argument: 'num'
+2017-03-24 09:42:28.561979 | E004 | Error while Attempting to close connection invalid command name ".139946349445584"

@@ -1,0 +1,54 @@
+2017-03-07 18:47:41.505779 | L00x | Attempting to send message CODE|['def a(values)...(More Data) 2
+2017-03-07 18:46:33.509856 | L00x | Attempting to send message RUNCODE|427|['3', '6...(More Data) 2
+2017-03-07 18:46:33.520171 | L008 | received from twig 2 ['427', True, False, False, False, False, False, False, False, False, False, False, False, False, Fa lse, False, False, False, False, False, False]|END
+2017-03-07 18:46:33.520942 | L012 | Logging Data...
+2017-03-07 18:46:33.521649 | L00x | Time Elapsed0.02225208282470703
+2017-03-07 18:46:33.522553 | L010 | Attempting to Open Listener
+2017-03-07 18:46:33.544983 | L008 | received from twig 0 ['426', True, False, True, False, True, False, True, False, False, False, True, False, True, False,  False, False, False, True, False, True, False]|END
+2017-03-07 18:46:33.545708 | L012 | Logging Data...
+2017-03-07 18:46:33.546283 | L00x | Time Elapsed0.04688882827758789
+2017-03-07 18:46:33.547118 | L010 | Attempting to Open Listener
+2017-03-07 18:46:33.547646 | L008 | received from twig 1 ['426', True, True, False, True, False, True, False, True, False, True, False, False, False, True, F alse, True, False, False, False, False, False]|END
+2017-03-07 18:46:33.549152 | L012 | Logging Data...
+2017-03-07 18:46:33.550016 | L00x | Time Elapsed0.05055522918701172
+2017-03-07 18:46:33.550948 | L010 | Attempting to Open Listener
+2017-03-07 18:47:41.495941 | L005 | Attempting to Start Twig with a CPU COUNT of 3
+2017-03-07 18:47:41.497378 | L002 | Stream Started
+2017-03-07 18:47:41.505601 | L00x | Attempting to send message CODE|['def a(values)...(More Data) 1
+2017-03-07 18:47:41.506755 | L00x | Attempting to send message RUNCODE|428|['1', '4...(More Data) 0
+2017-03-07 18:47:41.507454 | L00x | Attempting to send message RUNCODE|429|['2', '5...(More Data) 1
+2017-03-07 18:47:41.543403 | L008 | received from twig 0 ['428', True, False, True, False, True, False, True, False, False, False, True, False, True, False,  False, False, False, True, False, True, False]|END
+2017-03-07 18:47:41.544323 | L012 | Logging Data...
+2017-03-07 18:47:41.544918 | L00x | Time Elapsed0.04672741889953613
+2017-03-07 18:47:41.545745 | L010 | Attempting to Open Listener
+2017-03-07 18:47:41.546557 | L008 | received from twig 1 ['429', True, True, False, True, False, True, False, True, False, True, False, False, False, True, F alse, True, False, False, False, False, False]|END
+2017-03-07 18:47:41.547209 | L012 | Logging Data...
+2017-03-07 18:47:41.547771 | L00x | Time Elapsed0.04958033561706543
+2017-03-07 18:47:41.548578 | L010 | Attempting to Open Listener
+2017-03-07 19:40:12.747936 | L005 | Client Open
+2017-03-07 19:40:15.372269 | L001 | COMPUTER ADDED | 1
+2017-03-07 19:40:15.699199 | L001 | COMPUTER ADDED | 2
+2017-03-07 19:40:15.859644 | L001 | COMPUTER ADDED | 3
+2017-03-07 19:40:16.947165 | L004 | Socket INIT CPU#0
+2017-03-07 19:40:25.562365 | L006 | Client Closed
+2017-03-07 19:40:25.563049 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-07 19:40:27.535354 | L005 | Client Open
+2017-03-07 19:40:29.174496 | L001 | COMPUTER ADDED | 1
+2017-03-07 19:40:30.095667 | L004 | Socket INIT CPU#0
+2017-03-07 19:40:31.868841 | L006 | Client Closed
+2017-03-07 19:40:31.869671 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-07 19:40:33.916724 | L005 | Client Open
+2017-03-07 19:40:36.336355 | L001 | COMPUTER ADDED | 1
+2017-03-07 19:40:37.643568 | L004 | Socket INIT CPU#0
+2017-03-07 19:40:47.065936 | L003 | Connection Open 0
+2017-03-07 19:40:47.068548 | L005 | Opening Listener
+2017-03-07 19:40:47.071590 | L007 | Attempting to open listener
+2017-03-07 19:40:47.073059 | L010 | Attempting to Open Listener
+2017-03-07 19:40:52.300137 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-07 19:40:52.301948 | L002 | Stream Started
+2017-03-07 19:40:52.336018 | L00x | Attempting to send message CODE|['def a(values)...(More Data) 0
+2017-03-07 19:40:52.356449 | L00x | Attempting to send message RUNCODE|430|['1', '2...(More Data) 0
+2017-03-07 19:40:52.409894 | L008 | received from twig 0 ['430', True, True, True, False, True, False, True, False, False, False, True, False, True, False, F alse, False, False, True, False, False, False]|END
+2017-03-07 19:40:52.410764 | L012 | Logging Data...
+2017-03-07 19:40:52.411463 | L00x | Time Elapsed0.07784771919250488
+2017-03-07 19:40:52.412533 | L010 | Attempting to Open Listener

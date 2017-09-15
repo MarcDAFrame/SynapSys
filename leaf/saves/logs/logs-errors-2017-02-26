@@ -1,0 +1,17 @@
+2017-02-26 19:47:57.709302 | L001 | Leaf Connect INIT
+2017-02-26 19:48:22.182535 | L002 | Leaf Attempting to Connect to 196.168.2.31:5000
+2017-02-26 19:48:48.729320 | L001 | Leaf Connect INIT
+2017-02-26 19:49:12.494954 | L002 | Leaf Attempting to Connect to 192.168.2.31:5000
+2017-02-26 19:49:12.495853 | L003 | Successfully Connected to 192.168.2.31:5000
+2017-02-26 19:49:12.497036 | L004 | Successfully Opened Listener
+2017-02-26 19:49:17.205653 | L005 | Message From Connected Twig: 00\x00\x00\x92'|CODE|['def a(values):#TEST 1', '\ttemp = []', '\tfor j in values:', '\t\ttemp.append(all(int(j) % i for i in range(2, int(j))))', '\treturn temp']
+2017-02-26 19:49:17.206923 | L007 | Attempting to Parse
+2017-02-26 19:49:17.213076 | L008 | attempting codeSaving
+2017-02-26 19:49:18.206296 | L005 | Message From Connected Twig: 00\x00\x02]'|RUNCODE|t#47|[['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96', '97', '98', '99']]
+2017-02-26 19:49:18.207042 | L007 | Attempting to Parse
+2017-02-26 19:49:18.208952 | L009 | Attempting to RUNCODE
+2017-02-26 19:49:18.211871 | L010 | code run response ['t#47', True, True, True, True, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False]
+2017-02-26 19:55:35.999605 | L005 | Message From Connected Twig: 00\x00\x00\t'|CLOSE|NOW
+2017-02-26 19:55:36.001075 | L007 | Attempting to Parse
+2017-02-26 19:55:36.002254 | L006 | Attempting to Close Socket
+2017-02-26 19:55:36.003497 | L007 | Successfully Closed Socket

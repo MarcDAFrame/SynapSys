@@ -1,0 +1,28 @@
+2017-02-28 09:26:06.522303 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:27:14.080670 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:28:00.174800 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:29:13.892491 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:29:49.539022 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:34:09.752912 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:34:48.413309 | E001 | Error while attempting to Open Socket [Errno 111] Connection refused
+2017-02-28 09:34:48.420449 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:35:59.861773 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:36:14.029792 | E001 | Error while attempting to Open Socket [Errno 111] Connection refused
+2017-02-28 09:36:14.032183 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 09:36:37.099584 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:37:07.333496 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:37:23.599097 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 09:47:26.330107 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 12:54:47.403605 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 12:55:55.252645 | E001 | Error while attempting to Open Socket [Errno 111] Connection refused
+2017-02-28 12:55:55.259340 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 12:56:39.052467 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:00:23.832756 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:05:01.121893 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:06:07.969374 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:07:16.460054 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:08:35.872609 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:09:00.833337 | E001 | Error while attempting to Open Socket [Errno 111] Connection refused
+2017-02-28 13:09:00.840842 | E001 | Error while attempting to listen [Errno 107] Transport endpoint is not connected
+2017-02-28 13:10:02.159843 | E001 | Error while attempting to listen [Errno 9] Bad file descriptor
+2017-02-28 13:28:38.448984 | E001 | Error while attempting to listen unpack requires a bytes object of length 4

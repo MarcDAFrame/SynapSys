@@ -1,0 +1,818 @@
+2017-03-26 12:18:42.404206 | L005 | Client Open
+2017-03-26 12:18:45.396964 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:18:46.101517 | L004 | Socket INIT CPU#0
+2017-03-26 12:18:50.739536 | L003 | Connection Open 0
+2017-03-26 12:18:50.745346 | L005 | Opening Listener
+2017-03-26 12:18:50.748908 | L007 | Attempting to open listener
+2017-03-26 12:18:50.754181 | L010 | Attempting to Open Listener
+2017-03-26 12:18:52.544622 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:19:20.819228 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:19:20.821458 | L008 | received from twig 0 None None
+2017-03-26 12:19:22.134620 | L006 | Client Closed
+2017-03-26 12:19:27.099852 | L005 | Client Open
+2017-03-26 12:19:28.303642 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:19:28.884559 | L004 | Socket INIT CPU#0
+2017-03-26 12:19:30.130611 | L003 | Connection Open 0
+2017-03-26 12:19:30.136745 | L005 | Opening Listener
+2017-03-26 12:19:30.141026 | L007 | Attempting to open listener
+2017-03-26 12:19:30.144623 | L010 | Attempting to Open Listener
+2017-03-26 12:19:31.741817 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:20:01.869502 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:20:01.897756 | L008 | received from twig 0 None None
+2017-03-26 12:20:05.235929 | L006 | Client Closed
+2017-03-26 12:20:06.893885 | L005 | Client Open
+2017-03-26 12:20:08.158909 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:20:09.049440 | L004 | Socket INIT CPU#0
+2017-03-26 12:20:11.636305 | L003 | Connection Open 0
+2017-03-26 12:20:11.639990 | L005 | Opening Listener
+2017-03-26 12:20:11.643181 | L007 | Attempting to open listener
+2017-03-26 12:20:11.645410 | L010 | Attempting to Open Listener
+2017-03-26 12:20:13.300450 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:20:25.232922 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:20:25.236557 | L008 | received from twig 0 None None
+2017-03-26 12:20:29.525741 | L006 | Client Closed
+2017-03-26 12:20:30.532956 | L005 | Client Open
+2017-03-26 12:20:32.552159 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:20:33.153160 | L004 | Socket INIT CPU#0
+2017-03-26 12:20:34.163717 | L003 | Connection Open 0
+2017-03-26 12:20:34.171436 | L005 | Opening Listener
+2017-03-26 12:20:34.174415 | L007 | Attempting to open listener
+2017-03-26 12:20:34.176624 | L010 | Attempting to Open Listener
+2017-03-26 12:20:35.442894 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:20:36.970369 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:20:36.985009 | L00x | Attempting to send message {'message': b'\x0e\x...(More Data) 0
+2017-03-26 12:20:37.461576 | L008 | received from twig 0 663 Found 0 faces!|+=|END 663 Found 0 faces!|+=|END
+2017-03-26 12:20:37.462560 | L012 | Logging Data...
+2017-03-26 12:20:37.463674 | L010 | Attempting to Open Listener
+2017-03-26 12:21:49.159472 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:21:50.400564 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:21:50.416061 | L00x | Attempting to send message {'message': b'+++,,,...(More Data) 0
+2017-03-26 12:21:50.610806 | L008 | received from twig 0 665 Found 0 faces!|+=|END 665 Found 0 faces!|+=|END
+2017-03-26 12:21:50.765171 | L012 | Logging Data...
+2017-03-26 12:21:50.767391 | L010 | Attempting to Open Listener
+2017-03-26 12:25:08.000871 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:25:08.002709 | L008 | received from twig 0 None None
+2017-03-26 12:25:10.045152 | L006 | Client Closed
+2017-03-26 12:25:11.235009 | L005 | Client Open
+2017-03-26 12:25:12.826360 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:25:13.493365 | L004 | Socket INIT CPU#0
+2017-03-26 12:25:15.164606 | L003 | Connection Open 0
+2017-03-26 12:25:15.171990 | L005 | Opening Listener
+2017-03-26 12:25:15.174431 | L007 | Attempting to open listener
+2017-03-26 12:25:15.178085 | L010 | Attempting to Open Listener
+2017-03-26 12:25:16.842352 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:25:26.481942 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:25:26.490247 | L008 | received from twig 0 None None
+2017-03-26 12:25:29.377262 | L006 | Client Closed
+2017-03-26 12:25:30.472040 | L005 | Client Open
+2017-03-26 12:25:32.641281 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:25:33.295676 | L004 | Socket INIT CPU#0
+2017-03-26 12:25:34.418589 | L003 | Connection Open 0
+2017-03-26 12:25:34.424352 | L005 | Opening Listener
+2017-03-26 12:25:34.426366 | L007 | Attempting to open listener
+2017-03-26 12:25:34.427910 | L010 | Attempting to Open Listener
+2017-03-26 12:25:35.493468 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:25:36.850501 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:36.860979 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:37.036656 | L008 | received from twig 0 667 Found 0 faces!|+=|END 667 Found 0 faces!|+=|END
+2017-03-26 12:25:37.954909 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:37.990503 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:39.080569 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:39.090430 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:40.172685 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:40.183538 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:41.243368 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:41.253541 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:42.340502 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:42.353252 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:43.440821 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:43.450627 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:44.537259 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:44.547111 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:45.639363 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:45.647823 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:46.729214 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:46.740552 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:47.830161 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:47.840693 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:48.928441 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:48.957158 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:50.040685 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 12:25:50.050182 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 12:25:50.383621 | LOG | stopTwig
+2017-03-26 12:25:50.386983 | LOG | stopTwig
+2017-03-26 12:25:50.390333 | L012 | Logging Data...
+2017-03-26 12:25:50.390969 | LOG | stopTwig
+2017-03-26 12:25:50.423144 | L006 | Client Closed
+2017-03-26 12:25:50.423906 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 12:25:50.425641 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:56:29.447777 | L005 | Client Open
+2017-03-26 12:56:30.682454 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:56:31.253139 | L004 | Socket INIT CPU#0
+2017-03-26 12:56:33.817978 | L003 | Connection Open 0
+2017-03-26 12:56:36.661602 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:56:57.942448 | LOG | stopTwig
+2017-03-26 12:57:00.402477 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 12:57:01.454801 | L006 | Client Closed
+2017-03-26 12:57:14.311352 | L005 | Client Open
+2017-03-26 12:57:15.597724 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:57:16.243733 | L004 | Socket INIT CPU#0
+2017-03-26 12:57:21.520782 | L006 | Client Closed
+2017-03-26 12:57:24.920966 | L005 | Client Open
+2017-03-26 12:57:26.255483 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:57:26.745669 | L004 | Socket INIT CPU#0
+2017-03-26 12:57:28.723820 | L006 | Client Closed
+2017-03-26 12:57:43.870858 | L005 | Client Open
+2017-03-26 12:57:45.375141 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:57:45.927834 | L004 | Socket INIT CPU#0
+2017-03-26 12:57:48.055674 | L006 | Client Closed
+2017-03-26 12:57:52.453164 | L005 | Client Open
+2017-03-26 12:57:53.531522 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:57:54.180185 | L004 | Socket INIT CPU#0
+2017-03-26 12:57:56.062303 | L006 | Client Closed
+2017-03-26 12:59:11.828164 | L005 | Client Open
+2017-03-26 12:59:13.137378 | L001 | COMPUTER ADDED | 1
+2017-03-26 12:59:13.696308 | L004 | Socket INIT CPU#0
+2017-03-26 12:59:18.523329 | L003 | Connection Open 0
+2017-03-26 12:59:20.041977 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 12:59:21.419845 | L00x | Attempting to send message {'ticket': '692', 'm...(More Data) 0
+2017-03-26 12:59:21.430199 | L00x | Attempting to send message {'ticket': '693', 's...(More Data) 0
+2017-03-26 12:59:36.317608 | L006 | Client Closed
+2017-03-26 12:59:36.318972 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 12:59:36.322285 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:01:17.594577 | L005 | Client Open
+2017-03-26 13:01:18.758121 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:01:19.258619 | L004 | Socket INIT CPU#0
+2017-03-26 13:01:23.202771 | L003 | Connection Open 0
+2017-03-26 13:01:25.025130 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:01:26.416174 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:01:26.425799 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 13:02:23.421381 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:02:26.845323 | L006 | Client Closed
+2017-03-26 13:02:28.205459 | L005 | Client Open
+2017-03-26 13:02:29.307991 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:02:29.878895 | L004 | Socket INIT CPU#0
+2017-03-26 13:02:31.405275 | L003 | Connection Open 0
+2017-03-26 13:02:33.690986 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:02:35.094300 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:02:35.108081 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:03:22.993233 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:03:25.207682 | L006 | Client Closed
+2017-03-26 13:03:26.178569 | L005 | Client Open
+2017-03-26 13:03:27.627714 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:03:30.765708 | L004 | Socket INIT CPU#0
+2017-03-26 13:03:33.265185 | L003 | Connection Open 0
+2017-03-26 13:03:35.381624 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:03:36.784699 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:03:36.796399 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:05:08.362696 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:05:09.809703 | L006 | Client Closed
+2017-03-26 13:05:13.068923 | L005 | Client Open
+2017-03-26 13:05:14.175864 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:05:14.765578 | L004 | Socket INIT CPU#0
+2017-03-26 13:05:15.862985 | L003 | Connection Open 0
+2017-03-26 13:05:16.913847 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:05:18.255492 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:05:18.271957 | L00x | Attempting to send message {'message': b'\x13\x...(More Data) 0
+2017-03-26 13:06:40.449795 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:06:41.676359 | L006 | Client Closed
+2017-03-26 13:06:42.817186 | L005 | Client Open
+2017-03-26 13:06:43.989132 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:06:44.881203 | L004 | Socket INIT CPU#0
+2017-03-26 13:06:47.137287 | L003 | Connection Open 0
+2017-03-26 13:06:48.628634 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:06:50.033256 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:06:50.044425 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 13:09:41.809543 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:09:44.211570 | L006 | Client Closed
+2017-03-26 13:11:12.170989 | L005 | Client Open
+2017-03-26 13:11:13.693741 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:11:14.949280 | L004 | Socket INIT CPU#0
+2017-03-26 13:11:16.180002 | L003 | Connection Open 0
+2017-03-26 13:11:17.457478 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:11:18.858861 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:11:18.869737 | L00x | Attempting to send message {'ticket': '705', 's...(More Data) 0
+2017-03-26 13:12:05.670665 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:12:06.806533 | L006 | Client Closed
+2017-03-26 13:12:08.096073 | L005 | Client Open
+2017-03-26 13:12:09.528816 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:12:10.288733 | L004 | Socket INIT CPU#0
+2017-03-26 13:12:12.220706 | L003 | Connection Open 0
+2017-03-26 13:12:13.325829 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:12:14.733007 | L00x | Attempting to send message {'ticket': '706', 'm...(More Data) 0
+2017-03-26 13:12:14.744765 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:12:36.308826 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:12:37.666869 | L006 | Client Closed
+2017-03-26 13:12:39.273458 | L005 | Client Open
+2017-03-26 13:12:40.399575 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:12:41.075789 | L004 | Socket INIT CPU#0
+2017-03-26 13:12:43.495621 | L003 | Connection Open 0
+2017-03-26 13:12:45.260841 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:12:46.652691 | L00x | Attempting to send message {'ticket': '708', 'm...(More Data) 0
+2017-03-26 13:12:46.665500 | L00x | Attempting to send message {'ticket': '709', 'm...(More Data) 0
+2017-03-26 13:13:07.513984 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:13:08.516907 | L006 | Client Closed
+2017-03-26 13:13:14.078658 | L005 | Client Open
+2017-03-26 13:13:15.384030 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:13:15.911516 | L004 | Socket INIT CPU#0
+2017-03-26 13:13:17.066992 | L003 | Connection Open 0
+2017-03-26 13:13:18.273490 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:13:29.757867 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:13:30.872945 | L006 | Client Closed
+2017-03-26 13:13:31.807700 | L005 | Client Open
+2017-03-26 13:13:33.317276 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:13:33.981369 | L004 | Socket INIT CPU#0
+2017-03-26 13:13:36.544643 | L006 | Client Closed
+2017-03-26 13:13:45.068229 | L005 | Client Open
+2017-03-26 13:14:44.605856 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:14:45.241073 | L004 | Socket INIT CPU#0
+2017-03-26 13:14:52.059899 | L003 | Connection Open 0
+2017-03-26 13:15:09.852524 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:15:11.253416 | L00x | Attempting to send message {'ticket': '710', 'm...(More Data) 0
+2017-03-26 13:15:11.266237 | L00x | Attempting to send message {'ticket': '711', 'D...(More Data) 0
+2017-03-26 13:16:23.945374 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:16:27.336932 | L006 | Client Closed
+2017-03-26 13:16:28.403805 | L005 | Client Open
+2017-03-26 13:16:29.582459 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:16:30.501827 | L004 | Socket INIT CPU#0
+2017-03-26 13:16:35.379688 | L003 | Connection Open 0
+2017-03-26 13:16:36.274100 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:16:36.435113 | L007 | Attempting to open listener
+2017-03-26 13:16:37.668356 | L00x | Attempting to send message {'ticket': '712', 'm...(More Data) 0
+2017-03-26 13:16:37.680660 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:17:58.138092 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:17:58.183091 | L006 | Client Closed
+2017-03-26 13:17:59.847767 | L005 | Client Open
+2017-03-26 13:18:01.388148 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:18:02.032856 | L004 | Socket INIT CPU#0
+2017-03-26 13:18:03.851641 | L003 | Connection Open 0
+2017-03-26 13:18:04.791808 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:18:04.960198 | L007 | Attempting to open listener
+2017-03-26 13:18:06.195298 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:18:06.205251 | L00x | Attempting to send message {'message': b'\x1e\x...(More Data) 0
+2017-03-26 13:19:33.106465 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:19:33.151058 | L006 | Client Closed
+2017-03-26 13:19:34.393841 | L005 | Client Open
+2017-03-26 13:19:44.419705 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:19:45.571022 | L004 | Socket INIT CPU#0
+2017-03-26 13:19:50.005531 | L003 | Connection Open 0
+2017-03-26 13:19:51.746343 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:19:51.897890 | L007 | Attempting to open listener
+2017-03-26 13:19:53.127784 | L00x | Attempting to send message {'ticket': '716', 'm...(More Data) 0
+2017-03-26 13:19:53.138963 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:21:05.793863 | L006 | Client Closed
+2017-03-26 13:21:05.795390 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:21:05.797766 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:21:09.669156 | L005 | Client Open
+2017-03-26 13:21:11.107168 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:21:11.646641 | L004 | Socket INIT CPU#0
+2017-03-26 13:21:16.005748 | L003 | Connection Open 0
+2017-03-26 13:21:17.190216 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:21:17.312109 | L007 | Attempting to open listener
+2017-03-26 13:21:18.544602 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:21:18.557835 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 13:22:18.291990 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:22:18.333337 | L006 | Client Closed
+2017-03-26 13:22:21.081891 | L005 | Client Open
+2017-03-26 13:22:22.530213 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:22:23.368854 | L004 | Socket INIT CPU#0
+2017-03-26 13:22:24.839943 | L003 | Connection Open 0
+2017-03-26 13:22:26.753709 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:22:26.884722 | L007 | Attempting to open listener
+2017-03-26 13:22:26.901599 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:22:26.912684 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:23:07.479210 | L006 | Client Closed
+2017-03-26 13:23:07.480352 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:23:07.484768 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:23:08.417282 | L005 | Client Open
+2017-03-26 13:23:09.567933 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:23:10.266243 | L004 | Socket INIT CPU#0
+2017-03-26 13:23:11.869719 | L003 | Connection Open 0
+2017-03-26 13:23:13.040237 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:23:13.179782 | L007 | Attempting to open listener
+2017-03-26 13:23:13.196656 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:23:13.207505 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:23:52.826687 | L006 | Client Closed
+2017-03-26 13:23:52.827635 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:23:52.828937 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:23:55.084945 | L005 | Client Open
+2017-03-26 13:23:56.289700 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:23:56.911746 | L004 | Socket INIT CPU#0
+2017-03-26 13:23:58.039492 | L003 | Connection Open 0
+2017-03-26 13:24:00.116805 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:24:00.270327 | L007 | Attempting to open listener
+2017-03-26 13:24:00.288465 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:24:00.302117 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:24:22.721712 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:24:22.782065 | L006 | Client Closed
+2017-03-26 13:24:23.544623 | L005 | Client Open
+2017-03-26 13:24:26.166829 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:24:26.761910 | L004 | Socket INIT CPU#0
+2017-03-26 13:24:28.369244 | L003 | Connection Open 0
+2017-03-26 13:24:29.394794 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:24:29.541074 | L007 | Attempting to open listener
+2017-03-26 13:24:29.558239 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:24:29.568123 | L00x | Attempting to send message {'ticket': '727', 'm...(More Data) 0
+2017-03-26 13:24:36.409093 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:24:50.553064 | L006 | Client Closed
+2017-03-26 13:27:38.181474 | L005 | Client Open
+2017-03-26 13:27:39.885859 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:27:40.544991 | L004 | Socket INIT CPU#0
+2017-03-26 13:27:41.604596 | L003 | Connection Open 0
+2017-03-26 13:27:42.584652 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:27:42.716180 | L007 | Attempting to open listener
+2017-03-26 13:27:42.732324 | L00x | Attempting to send message {'ticket': '728', 'm...(More Data) 0
+2017-03-26 13:27:42.746325 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:28:17.216726 | L006 | Client Closed
+2017-03-26 13:28:17.218825 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:28:17.220983 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:28:18.564514 | L005 | Client Open
+2017-03-26 13:28:19.826528 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:28:20.681445 | L004 | Socket INIT CPU#0
+2017-03-26 13:28:22.721333 | L003 | Connection Open 0
+2017-03-26 13:28:24.124545 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:28:24.274817 | L007 | Attempting to open listener
+2017-03-26 13:28:24.291844 | L00x | Attempting to send message {'ticket': '730', 'm...(More Data) 0
+2017-03-26 13:28:24.304002 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 13:28:40.787742 | L006 | Client Closed
+2017-03-26 13:28:40.789424 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:28:40.790807 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:29:54.555741 | L005 | Client Open
+2017-03-26 13:29:55.835535 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:29:56.577933 | L004 | Socket INIT CPU#0
+2017-03-26 13:29:58.452598 | L003 | Connection Open 0
+2017-03-26 13:30:00.143190 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:30:00.312422 | L007 | Attempting to open listener
+2017-03-26 13:30:00.329651 | L00x | Attempting to send message {'ticket': '732', 'm...(More Data) 0
+2017-03-26 13:30:00.341089 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:30:11.245482 | L006 | Client Closed
+2017-03-26 13:30:11.247591 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:30:11.249005 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:31:16.512136 | L005 | Client Open
+2017-03-26 13:31:17.593001 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:31:18.102944 | L004 | Socket INIT CPU#0
+2017-03-26 13:31:19.299781 | L003 | Connection Open 0
+2017-03-26 13:31:20.272326 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:31:20.429498 | L007 | Attempting to open listener
+2017-03-26 13:31:20.447882 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:31:20.463006 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:32:39.750256 | L006 | Client Closed
+2017-03-26 13:32:39.752928 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:32:39.757624 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:32:40.569305 | L005 | Client Open
+2017-03-26 13:32:41.937760 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:32:42.549046 | L004 | Socket INIT CPU#0
+2017-03-26 13:32:44.904143 | L003 | Connection Open 0
+2017-03-26 13:32:46.085831 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:32:46.265340 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:32:46.280049 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:32:46.314204 | L007 | Attempting to open listener
+2017-03-26 13:32:54.238795 | L006 | Client Closed
+2017-03-26 13:32:54.242189 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:32:54.245258 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:33:19.052052 | L005 | Client Open
+2017-03-26 13:33:20.407863 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:33:21.212755 | L004 | Socket INIT CPU#0
+2017-03-26 13:33:22.365954 | L003 | Connection Open 0
+2017-03-26 13:33:23.644563 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:33:23.793368 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:33:23.807139 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:33:23.842047 | L007 | Attempting to open listener
+2017-03-26 13:33:32.408674 | L006 | Client Closed
+2017-03-26 13:33:32.411968 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:33:32.413960 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:34:07.879609 | L005 | Client Open
+2017-03-26 13:34:09.510959 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:34:10.221307 | L004 | Socket INIT CPU#0
+2017-03-26 13:34:11.646860 | L003 | Connection Open 0
+2017-03-26 13:34:14.571761 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:34:14.751220 | L00x | Attempting to send message {'ticket': '740', 'm...(More Data) 0
+2017-03-26 13:34:14.766881 | L00x | Attempting to send message {'ticket': '741', 's...(More Data) 0
+2017-03-26 13:34:14.802570 | L007 | Attempting to open listener
+2017-03-26 13:34:30.049963 | L006 | Client Closed
+2017-03-26 13:34:30.053851 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:34:30.056434 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:34:46.042874 | L005 | Client Open
+2017-03-26 13:34:47.131380 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:34:47.834907 | L004 | Socket INIT CPU#0
+2017-03-26 13:34:49.630254 | L003 | Connection Open 0
+2017-03-26 13:34:50.679850 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:34:50.839781 | L007 | Attempting to open listener
+2017-03-26 13:34:50.856453 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:34:50.869751 | L00x | Attempting to send message {'ticket': '743', 's...(More Data) 0
+2017-03-26 13:34:58.329239 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:34:58.331360 | L007 | Attempting to open listener
+2017-03-26 13:34:58.348232 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:34:58.359779 | L00x | Attempting to send message {'ticket': '745', 's...(More Data) 0
+2017-03-26 13:35:29.683664 | L006 | Client Closed
+2017-03-26 13:35:29.686920 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:35:29.691995 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:35:30.798574 | L005 | Client Open
+2017-03-26 13:35:32.012346 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:35:32.667236 | L004 | Socket INIT CPU#0
+2017-03-26 13:35:34.932581 | L003 | Connection Open 0
+2017-03-26 13:35:35.930629 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:35:36.087371 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:35:36.101088 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:36:30.150650 | L006 | Client Closed
+2017-03-26 13:36:30.153547 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:36:30.163605 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:36:31.210340 | L005 | Client Open
+2017-03-26 13:36:32.855933 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:36:33.525807 | L004 | Socket INIT CPU#0
+2017-03-26 13:36:35.635748 | L003 | Connection Open 0
+2017-03-26 13:36:37.377493 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:36:37.535266 | L007 | Attempting to open listener
+2017-03-26 13:36:37.553007 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:36:37.564323 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:38:37.579366 | L006 | Client Closed
+2017-03-26 13:38:37.582315 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:38:37.592873 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:38:39.522319 | L005 | Client Open
+2017-03-26 13:38:40.980198 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:38:41.554581 | L004 | Socket INIT CPU#0
+2017-03-26 13:38:43.741920 | L003 | Connection Open 0
+2017-03-26 13:38:45.080321 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:38:45.264884 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 13:38:45.278247 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 13:39:48.572888 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:39:51.233363 | L006 | Client Closed
+2017-03-26 13:40:46.295699 | L005 | Client Open
+2017-03-26 13:40:47.811026 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:40:48.425876 | L004 | Socket INIT CPU#0
+2017-03-26 13:40:49.569189 | L003 | Connection Open 0
+2017-03-26 13:40:50.356220 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:40:50.689392 | L00x | Attempting to send message {'ticket': '752', 'm...(More Data) 0
+2017-03-26 13:40:50.703315 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 13:45:48.435401 | L006 | Client Closed
+2017-03-26 13:45:48.439051 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:45:48.445822 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:45:51.971683 | L005 | Client Open
+2017-03-26 13:45:54.176484 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:45:55.060151 | L004 | Socket INIT CPU#0
+2017-03-26 13:45:57.261915 | L003 | Connection Open 0
+2017-03-26 13:46:00.005609 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:46:00.174273 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:46:00.202333 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:47:01.503706 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:47:01.542027 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:47:01.560764 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 13:47:03.942009 | L006 | Client Closed
+2017-03-26 13:47:03.944326 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:47:03.946646 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:47:05.188741 | L005 | Client Open
+2017-03-26 13:47:07.882065 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:47:08.572629 | L004 | Socket INIT CPU#0
+2017-03-26 13:47:10.613090 | L003 | Connection Open 0
+2017-03-26 13:47:11.803358 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:47:11.980354 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 13:47:11.993402 | L00x | Attempting to send message {'ticket': '759', 'D...(More Data) 0
+2017-03-26 13:47:22.253683 | L006 | Client Closed
+2017-03-26 13:47:22.255615 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:47:22.257699 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:54:50.200641 | L005 | Client Open
+2017-03-26 13:54:51.405396 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:54:52.065581 | L004 | Socket INIT CPU#0
+2017-03-26 13:55:03.204729 | L003 | Connection Open 0
+2017-03-26 13:55:09.260624 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:55:14.984039 | L006 | Client Closed
+2017-03-26 13:55:14.990949 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:55:15.003768 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:55:16.601169 | L005 | Client Open
+2017-03-26 13:55:19.521484 | L006 | Client Closed
+2017-03-26 13:57:57.103669 | L005 | Client Open
+2017-03-26 13:57:58.608690 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:57:59.496120 | L004 | Socket INIT CPU#0
+2017-03-26 13:58:02.311401 | L003 | Connection Open 0
+2017-03-26 13:58:04.328134 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 13:59:06.115381 | L006 | Client Closed
+2017-03-26 13:59:06.118707 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 13:59:06.123431 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 13:59:06.246370 | L005 | Client Open
+2017-03-26 13:59:07.860064 | L006 | Client Closed
+2017-03-26 13:59:24.522117 | L005 | Client Open
+2017-03-26 13:59:25.839264 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:59:26.451479 | L004 | Socket INIT CPU#0
+2017-03-26 13:59:29.801831 | L006 | Client Closed
+2017-03-26 13:59:36.173205 | L005 | Client Open
+2017-03-26 13:59:40.356869 | L001 | COMPUTER ADDED | 1
+2017-03-26 13:59:48.411926 | L004 | Socket INIT CPU#0
+2017-03-26 13:59:49.947770 | L003 | Connection Open 0
+2017-03-26 13:59:51.060063 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:00:47.326274 | L006 | Client Closed
+2017-03-26 14:00:47.328737 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:00:47.344343 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:00:49.226855 | L005 | Client Open
+2017-03-26 14:00:51.054606 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:00:51.713181 | L004 | Socket INIT CPU#0
+2017-03-26 14:00:56.588018 | L004 | Socket INIT CPU#0
+2017-03-26 14:00:58.030953 | L003 | Connection Open 0
+2017-03-26 14:01:00.667269 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:01:28.763010 | L006 | Client Closed
+2017-03-26 14:01:28.766274 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:01:28.769759 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:01:29.791871 | L005 | Client Open
+2017-03-26 14:01:31.062859 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:01:31.653606 | L004 | Socket INIT CPU#0
+2017-03-26 14:01:36.742963 | L004 | Socket INIT CPU#0
+2017-03-26 14:01:37.731079 | L003 | Connection Open 0
+2017-03-26 14:01:39.454871 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:03:47.088501 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:03:49.627974 | L006 | Client Closed
+2017-03-26 14:03:50.825009 | L005 | Client Open
+2017-03-26 14:03:52.323867 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:03:53.004785 | L004 | Socket INIT CPU#0
+2017-03-26 14:03:55.796507 | L004 | Socket INIT CPU#0
+2017-03-26 14:03:56.563801 | L004 | Socket INIT CPU#0
+2017-03-26 14:03:57.769379 | L006 | Client Closed
+2017-03-26 14:04:00.533929 | L005 | Client Open
+2017-03-26 14:04:06.035540 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:04:06.874892 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:09.130095 | L006 | Client Closed
+2017-03-26 14:04:23.489501 | L005 | Client Open
+2017-03-26 14:04:24.575942 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:04:25.163130 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:29.863146 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:33.262335 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:33.634127 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:33.829010 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:33.955316 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:33.975599 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:35.490772 | L006 | Client Closed
+2017-03-26 14:04:45.913917 | L005 | Client Open
+2017-03-26 14:04:47.204972 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:04:53.538748 | L004 | Socket INIT CPU#0
+2017-03-26 14:04:57.917867 | L003 | Connection Open 0
+2017-03-26 14:05:02.163929 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:05:31.610649 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:05:35.917235 | L006 | Client Closed
+2017-03-26 14:05:39.341229 | L005 | Client Open
+2017-03-26 14:05:42.907478 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:05:43.587255 | L004 | Socket INIT CPU#0
+2017-03-26 14:05:45.944099 | L006 | Client Closed
+2017-03-26 14:05:57.054087 | L005 | Client Open
+2017-03-26 14:05:58.298824 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:05:58.996226 | L004 | Socket INIT CPU#0
+2017-03-26 14:06:00.363289 | L006 | Client Closed
+2017-03-26 14:06:02.069677 | L005 | Client Open
+2017-03-26 14:06:03.332043 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:06:04.005121 | L004 | Socket INIT CPU#0
+2017-03-26 14:06:06.499756 | L006 | Client Closed
+2017-03-26 14:07:24.700140 | L005 | Client Open
+2017-03-26 14:07:26.054295 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:07:26.685311 | L004 | Socket INIT CPU#0
+2017-03-26 14:07:31.252166 | L003 | Connection Open 0
+2017-03-26 14:07:36.161517 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:07:42.649227 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:07:51.896625 | L006 | Client Closed
+2017-03-26 14:08:13.796993 | L005 | Client Open
+2017-03-26 14:08:14.977234 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:08:15.749361 | L004 | Socket INIT CPU#0
+2017-03-26 14:08:16.848428 | L003 | Connection Open 0
+2017-03-26 14:08:18.306233 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:08:18.459619 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:08:18.472640 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:08:27.844932 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:08:46.997472 | L006 | Client Closed
+2017-03-26 14:08:48.604920 | L005 | Client Open
+2017-03-26 14:08:50.896998 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:08:52.098389 | L004 | Socket INIT CPU#0
+2017-03-26 14:08:54.296992 | L003 | Connection Open 0
+2017-03-26 14:08:55.871352 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:08:56.008142 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 14:08:56.019510 | L00x | Attempting to send message {'ticket': '763', 'm...(More Data) 0
+2017-03-26 14:09:29.639243 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:09:31.764041 | L006 | Client Closed
+2017-03-26 14:09:33.293750 | L005 | Client Open
+2017-03-26 14:09:34.571023 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:09:35.425205 | L004 | Socket INIT CPU#0
+2017-03-26 14:09:36.848693 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:09:39.955475 | L003 | Connection Open 0
+2017-03-26 14:09:41.065698 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:09:41.102986 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:09:41.125147 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:11:26.461469 | L006 | Client Closed
+2017-03-26 14:11:26.465801 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:11:26.468232 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:11:27.707304 | L005 | Client Open
+2017-03-26 14:11:28.848496 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:11:29.616937 | L004 | Socket INIT CPU#0
+2017-03-26 14:11:31.986307 | L003 | Connection Open 0
+2017-03-26 14:11:33.210547 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:11:33.411079 | L007 | Attempting to open listener
+2017-03-26 14:11:33.428846 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 14:11:33.444303 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 14:11:33.459209 | L010 | Attempting to Open Listener
+2017-03-26 14:12:04.971634 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:12:08.468754 | L006 | Client Closed
+2017-03-26 14:12:09.764433 | L005 | Client Open
+2017-03-26 14:12:25.156466 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:12:25.903009 | L004 | Socket INIT CPU#0
+2017-03-26 14:12:32.330652 | L003 | Connection Open 0
+2017-03-26 14:12:34.062757 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:12:34.198402 | L007 | Attempting to open listener
+2017-03-26 14:12:34.214309 | L00x | Attempting to send message {'ticket': '768', 'm...(More Data) 0
+2017-03-26 14:12:34.227347 | L00x | Attempting to send message {'DataType': 'img', ...(More Data) 0
+2017-03-26 14:12:34.240667 | L010 | Attempting to Open Listener
+2017-03-26 14:17:01.312305 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:17:02.625916 | L006 | Client Closed
+2017-03-26 14:17:06.671337 | L005 | Client Open
+2017-03-26 14:17:07.988297 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:17:08.906652 | L004 | Socket INIT CPU#0
+2017-03-26 14:17:10.559090 | L003 | Connection Open 0
+2017-03-26 14:17:12.199267 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:17:12.353025 | L007 | Attempting to open listener
+2017-03-26 14:17:12.370010 | L00x | Attempting to send message {'ticket': '770', 'm...(More Data) 0
+2017-03-26 14:17:12.384429 | L00x | Attempting to send message {'ticket': '771', 'm...(More Data) 0
+2017-03-26 14:17:12.398005 | L010 | Attempting to Open Listener
+2017-03-26 14:17:12.575747 | L008 | received from twig 0 771 Found 0 faces!|+=|END 771 Found 0 faces!|+=|END
+2017-03-26 14:17:12.579165 | L012 | Logging Data...
+2017-03-26 14:18:54.520596 | L006 | Client Closed
+2017-03-26 14:18:54.524923 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:18:54.533084 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:18:57.516907 | L005 | Client Open
+2017-03-26 14:19:01.807811 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:19:02.536102 | L004 | Socket INIT CPU#0
+2017-03-26 14:19:07.805705 | L006 | Client Closed
+2017-03-26 14:19:09.193587 | L005 | Client Open
+2017-03-26 14:19:10.348290 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:19:11.543470 | L004 | Socket INIT CPU#0
+2017-03-26 14:19:13.130365 | L003 | Connection Open 0
+2017-03-26 14:19:15.296605 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:19:15.456405 | L007 | Attempting to open listener
+2017-03-26 14:19:15.474219 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:19:15.489901 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:19:26.746294 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:19:26.786815 | L006 | Client Closed
+2017-03-26 14:20:03.306605 | L005 | Client Open
+2017-03-26 14:20:05.031719 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:20:06.207081 | L004 | Socket INIT CPU#0
+2017-03-26 14:20:09.000836 | L003 | Connection Open 0
+2017-03-26 14:20:11.162502 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:20:11.314834 | L007 | Attempting to open listener
+2017-03-26 14:20:11.332476 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:20:11.346121 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:20:46.444962 | L010 | Attempting to Open Listener
+2017-03-26 14:20:46.448779 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:20:46.491858 | L006 | Client Closed
+2017-03-26 14:22:04.011223 | L005 | Client Open
+2017-03-26 14:22:05.477337 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:22:06.013995 | L004 | Socket INIT CPU#0
+2017-03-26 14:22:07.889935 | L003 | Connection Open 0
+2017-03-26 14:22:09.012452 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:22:09.166226 | L007 | Attempting to open listener
+2017-03-26 14:22:09.183343 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:22:09.197679 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:22:25.291194 | L010 | Attempting to Open Listener
+2017-03-26 14:22:25.297789 | L008 | received from twig 0 777 Found 0 faces!|+=|END 777 Found 0 faces!|+=|END
+2017-03-26 14:22:25.303683 | L012 | Logging Data...
+2017-03-26 14:23:04.197258 | L006 | Client Closed
+2017-03-26 14:23:04.200675 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:23:04.203808 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:23:05.649759 | L005 | Client Open
+2017-03-26 14:23:07.384638 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:23:08.012059 | L004 | Socket INIT CPU#0
+2017-03-26 14:23:11.215363 | L004 | Socket INIT CPU#0
+2017-03-26 14:23:12.418422 | L003 | Connection Open 0
+2017-03-26 14:23:14.266489 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:23:14.430952 | L007 | Attempting to open listener
+2017-03-26 14:23:14.448706 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:23:14.461672 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:23:14.481915 | L010 | Attempting to Open Listener
+2017-03-26 14:23:14.650225 | L008 | received from twig 0 779 Found 0 faces!|+=|END 779 Found 0 faces!|+=|END
+2017-03-26 14:23:14.652324 | L012 | Logging Data...
+2017-03-26 14:24:29.289705 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:24:30.542372 | L006 | Client Closed
+2017-03-26 14:24:33.149033 | L005 | Client Open
+2017-03-26 14:24:35.115641 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:24:35.693740 | L004 | Socket INIT CPU#0
+2017-03-26 14:24:39.114348 | L004 | Socket INIT CPU#0
+2017-03-26 14:24:43.401166 | L006 | Client Closed
+2017-03-26 14:24:48.172148 | L005 | Client Open
+2017-03-26 14:24:52.775671 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:24:53.613598 | L004 | Socket INIT CPU#0
+2017-03-26 14:24:55.524266 | L006 | Client Closed
+2017-03-26 14:24:56.793867 | L005 | Client Open
+2017-03-26 14:24:58.039248 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:24:58.849689 | L004 | Socket INIT CPU#0
+2017-03-26 14:25:00.659517 | L006 | Client Closed
+2017-03-26 14:25:05.645069 | L005 | Client Open
+2017-03-26 14:25:07.473121 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:25:08.703971 | L004 | Socket INIT CPU#0
+2017-03-26 14:25:10.549239 | L006 | Client Closed
+2017-03-26 14:26:01.151157 | L005 | Client Open
+2017-03-26 14:26:02.600289 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:26:03.135529 | L004 | Socket INIT CPU#0
+2017-03-26 14:26:08.150756 | L003 | Connection Open 0
+2017-03-26 14:26:10.763451 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:26:10.919819 | L007 | Attempting to open listener
+2017-03-26 14:26:10.936577 | L00x | Attempting to send message {'ticket': '780', 'm...(More Data) 0
+2017-03-26 14:26:10.949618 | L00x | Attempting to send message {'ticket': '781', 'm...(More Data) 0
+2017-03-26 14:26:16.020692 | L010 | Attempting to Open Listener
+2017-03-26 14:26:16.028051 | L008 | received from twig 0 781 Found 0 faces!|+=|END 781 Found 0 faces!|+=|END
+2017-03-26 14:26:16.033617 | L012 | Logging Data...
+2017-03-26 14:28:11.314697 | L006 | Client Closed
+2017-03-26 14:28:11.316190 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:28:11.323869 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:28:12.696582 | L005 | Client Open
+2017-03-26 14:28:14.616318 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:28:16.651015 | L004 | Socket INIT CPU#0
+2017-03-26 14:28:20.882951 | L004 | Socket INIT CPU#0
+2017-03-26 14:28:22.109236 | L003 | Connection Open 0
+2017-03-26 14:28:23.590390 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:28:23.746314 | L007 | Attempting to open listener
+2017-03-26 14:28:23.764226 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 14:28:23.779002 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 14:29:34.399184 | L006 | Client Closed
+2017-03-26 14:29:34.403353 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:29:34.416260 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:29:37.111111 | L005 | Client Open
+2017-03-26 14:29:39.404552 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:29:40.461091 | L004 | Socket INIT CPU#0
+2017-03-26 14:29:42.418641 | L003 | Connection Open 0
+2017-03-26 14:29:44.057880 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:29:44.218154 | L007 | Attempting to open listener
+2017-03-26 14:29:44.234985 | L00x | Attempting to send message {'ticket': '784', 'm...(More Data) 0
+2017-03-26 14:29:44.248152 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 14:29:44.263119 | L010 | Attempting to Open Listener
+2017-03-26 14:29:44.267183 | L008 | received from twig 0  
+2017-03-26 14:30:11.923522 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:30:12.752538 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:30:17.646406 | L006 | Client Closed
+2017-03-26 14:30:17.650996 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:30:18.734581 | L005 | Client Open
+2017-03-26 14:30:24.258117 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:30:25.034378 | L004 | Socket INIT CPU#0
+2017-03-26 14:30:30.109214 | L003 | Connection Open 0
+2017-03-26 14:30:31.999553 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:30:32.137341 | L007 | Attempting to open listener
+2017-03-26 14:30:32.154723 | L00x | Attempting to send message {'ticket': '786', 'm...(More Data) 0
+2017-03-26 14:30:32.171914 | L00x | Attempting to send message {'ticket': '787', 's...(More Data) 0
+2017-03-26 14:30:32.189343 | L010 | Attempting to Open Listener
+2017-03-26 14:30:32.517692 | L008 | received from twig 0 787 Found 0 faces!|+=|END 787 Found 0 faces!|+=|END
+2017-03-26 14:30:32.520754 | L012 | Logging Data...
+2017-03-26 14:34:41.980787 | L006 | Client Closed
+2017-03-26 14:34:41.985019 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:34:41.991284 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:34:43.267616 | L005 | Client Open
+2017-03-26 14:34:44.608882 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:34:45.317326 | L004 | Socket INIT CPU#0
+2017-03-26 14:34:48.651646 | L004 | Socket INIT CPU#0
+2017-03-26 14:34:49.954976 | L003 | Connection Open 0
+2017-03-26 14:34:51.783164 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:35:03.267058 | L006 | Client Closed
+2017-03-26 14:35:03.272297 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:35:03.275320 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:35:06.729904 | L005 | Client Open
+2017-03-26 14:35:07.691142 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:35:08.418872 | L004 | Socket INIT CPU#0
+2017-03-26 14:35:10.957207 | L003 | Connection Open 0
+2017-03-26 14:35:12.010285 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:35:12.172316 | L007 | Attempting to open listener
+2017-03-26 14:35:12.189592 | L00x | Attempting to send message {'ticket': '788', 'm...(More Data) 0
+2017-03-26 14:35:12.203533 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 14:35:12.227124 | L010 | Attempting to Open Listener
+2017-03-26 14:35:12.392609 | L008 | received from twig 0 789 Found 0 faces!|+=|END 789 Found 0 faces!|+=|END
+2017-03-26 14:35:12.395757 | L012 | Logging Data...
+2017-03-26 14:35:26.713321 | L006 | Client Closed
+2017-03-26 14:35:26.717824 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:35:26.725333 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:35:29.196124 | L005 | Client Open
+2017-03-26 14:35:31.020801 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:35:34.260246 | L004 | Socket INIT CPU#0
+2017-03-26 14:35:36.441214 | L003 | Connection Open 0
+2017-03-26 14:35:37.334142 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:35:37.507668 | L007 | Attempting to open listener
+2017-03-26 14:35:37.525043 | L00x | Attempting to send message {'ticket': '790', 'm...(More Data) 0
+2017-03-26 14:35:37.540619 | L00x | Attempting to send message {'shape': (720, 1280...(More Data) 0
+2017-03-26 14:35:57.981460 | L010 | Attempting to Open Listener
+2017-03-26 14:35:57.986131 | L008 | received from twig 0 791 Found 0 faces!|+=|END 791 Found 0 faces!|+=|END
+2017-03-26 14:35:57.989915 | L012 | Logging Data...
+2017-03-26 14:36:02.315944 | L006 | Client Closed
+2017-03-26 14:36:02.319414 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:36:02.326073 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:36:03.372244 | L005 | Client Open
+2017-03-26 14:36:04.710640 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:36:05.497851 | L004 | Socket INIT CPU#0
+2017-03-26 14:36:07.246400 | L003 | Connection Open 0
+2017-03-26 14:36:08.798015 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:36:08.961094 | L007 | Attempting to open listener
+2017-03-26 14:36:08.979967 | L00x | Attempting to send message {'message': '[\'impo...(More Data) 0
+2017-03-26 14:36:08.993821 | L00x | Attempting to send message {'message': b'\x1a\x...(More Data) 0
+2017-03-26 14:36:22.953253 | L010 | Attempting to Open Listener
+2017-03-26 14:36:22.956853 | L008 | received from twig 0 793 Found 0 faces!|+=|END 793 Found 0 faces!|+=|END
+2017-03-26 14:36:22.962953 | L012 | Logging Data...
+2017-03-26 14:36:28.137227 | L006 | Client Closed
+2017-03-26 14:36:28.142137 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-26 14:36:28.160807 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:36:29.219669 | L005 | Client Open
+2017-03-26 14:36:30.732177 | L001 | COMPUTER ADDED | 1
+2017-03-26 14:36:31.402440 | L004 | Socket INIT CPU#0
+2017-03-26 14:36:34.523269 | L004 | Socket INIT CPU#0
+2017-03-26 14:36:35.748311 | L003 | Connection Open 0
+2017-03-26 14:36:37.791180 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-26 14:36:37.951265 | L007 | Attempting to open listener
+2017-03-26 14:36:37.968348 | L00x | Attempting to send message {'method': 'CODE', '...(More Data) 0
+2017-03-26 14:36:37.980631 | L00x | Attempting to send message {'method': 'RUNCODE'...(More Data) 0
+2017-03-26 14:36:48.933715 | L00x | Attempting to send message {'method': 'CLOSE'}...(More Data) 0
+2017-03-26 14:36:48.962724 | L006 | Client Closed

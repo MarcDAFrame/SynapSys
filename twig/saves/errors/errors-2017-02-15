@@ -1,0 +1,19 @@
+2017-02-15 12:50:43.845446 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:50:51.123551 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 12:52:03.919212 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:52:19.400706 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:54:15.545671 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:54:38.703006 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 12:54:46.483553 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:55:06.501391 | E007 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'
+2017-02-15 12:56:15.434857 | E007 | Error while Attempting to close connection ''
+2017-02-15 12:56:19.759666 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 12:56:23.660760 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 13:13:39.776014 | E007 | Error while Attempting to close connection 'twigConnect' object has no attribute 'twigs'
+2017-02-15 13:15:12.888990 | E007 | Error while Attempting to close connection 'twigConnect' object has no attribute 'twigs'
+2017-02-15 13:15:44.961331 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 13:15:46.505011 | E006 | No Connections When Attempting to Start Twig
+2017-02-15 13:16:02.269337 | E001 | NO CONNECTION WHEN ATTEMPTING TO sendMessage(cpuNum, message)
+2017-02-15 13:25:30.468881 | E002 | [Errno 98] Address already in use CPU NUM 0
+2017-02-15 19:45:15.715556 | E002 | Error connecting to network with netifaces 
+2017-02-15 19:47:05.858741 | E002 | Error connecting to network with netifaces 2

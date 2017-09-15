@@ -1,0 +1,227 @@
+2017-03-03 09:32:50.224167 | E004 | Error while Attempting to close connection invalid command name ".140513474117304"
+2017-03-03 09:34:53.904323 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:35:41.701871 | E004 | Error while Attempting to close connection 'twigConnect' object has no attribute 'console'
+2017-03-03 09:36:50.056899 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:36:52.190883 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-03-03 09:36:54.385729 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-03 09:37:09.535593 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:38:52.138371 | E004 | Error while Attempting to close connection invalid command name ".140075633126760"
+2017-03-03 09:39:26.473126 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:40:07.133326 | E004 | Error while logging data index out of range
+2017-03-03 09:40:16.494279 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:40:48.417253 | E004 | Error while Attempting to close connection invalid command name ".139719214281280"
+2017-03-03 09:53:34.107864 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:54:39.885064 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 09:55:54.421791 | E004 | Error while logging data index out of range
+2017-03-03 10:01:36.934596 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 10:01:41.887047 | E004 | Error while logging data index out of range
+2017-03-03 10:06:27.233826 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 10:08:25.970459 | E004 | Error while Attempting to close connection invalid command name ".140244949597376"
+2017-03-03 10:55:52.781707 | E004 | Error while Attempting to close connection invalid command name ".140534374563344"
+2017-03-03 10:59:05.268174 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.281003 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.296252 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.307903 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.314850 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.326231 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.333464 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.342133 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.347699 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.356112 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.364582 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.375334 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.379937 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.386960 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.391632 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.396953 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.404164 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.409853 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.415711 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.421021 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.427455 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.433950 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.439142 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.443385 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.447348 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.453363 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.458233 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.462047 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.466594 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.472486 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.476637 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.481505 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.486472 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.490843 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.494886 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.499160 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.506339 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.512980 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.520167 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.526687 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.532440 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.539838 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.546209 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.554554 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.561014 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.569466 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.581241 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.588808 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.596035 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.603529 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.610184 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.616824 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.624503 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.634258 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.642593 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.649713 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.658408 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.665649 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.673441 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.682619 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.690036 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.695402 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.701565 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.708688 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.714926 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.721817 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.729513 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.737465 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.745716 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.752429 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.760423 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.767314 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.775198 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.781793 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.790173 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.797720 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.805722 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.813198 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.822160 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.828517 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.833723 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.840003 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.845076 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.850238 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.856383 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.862314 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.867827 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.874490 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.879416 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.884237 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.890150 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.895192 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.900435 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.907518 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.912616 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.917663 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.924171 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.930965 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.938017 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.943990 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.949145 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.956022 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.961316 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.968459 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.974962 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.983728 | E004 | Error while logging data index out of range
+2017-03-03 10:59:05.993771 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.000889 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.009720 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.016016 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.023344 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.030788 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.039153 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.047293 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.057844 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.067536 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.123410 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.132098 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.141199 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.147493 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.156516 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.162306 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.167996 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.175975 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.182408 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.190894 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.197410 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.203757 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.212679 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.219032 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.228034 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.235398 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.244136 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.250953 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.259528 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.266018 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.273592 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.280391 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.287918 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.296104 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.302542 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.310385 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.317441 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.326235 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.334716 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.342279 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.349487 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.356878 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.363912 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.370625 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.378408 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.385621 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.393806 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.400410 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.408758 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.415726 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.422006 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.429359 | E004 | Error while logging data index out of range
+2017-03-03 10:59:06.480325 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 11:01:12.344759 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 11:02:39.919766 | E004 | Error while Attempting to close connection invalid command name ".140362409229728"
+2017-03-03 11:03:20.905582 | E004 | Error while logging data index out of range
+2017-03-03 11:07:59.855284 | E004 | Error while Attempting to close connection invalid command name ".140029275434512"
+2017-03-03 11:11:23.262282 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 11:11:28.010510 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 11:11:39.767369 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 11:14:24.300101 | E004 | Error while Attempting to close connection invalid command name ".140588750049800"
+2017-03-03 11:15:20.250716 | E004 | Error while Attempting to close connection invalid command name ".140696885190160"
+2017-03-03 11:15:51.103069 | E004 | Error while logging data unsupported operand type(s) for +: 'int' and 'str'
+2017-03-03 11:21:16.687949 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 11:24:26.799196 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 11:27:00.556541 | E004 | Error while Attempting to close connection invalid command name ".140506208165392"
+2017-03-03 11:28:42.070144 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 11:35:22.278308 | E004 | Error while Attempting to close connection invalid command name ".140201997114728"
+2017-03-03 11:45:14.515855 | E004 | Error while Attempting to close connection invalid command name ".140182096444832"
+2017-03-03 11:59:25.909105 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 11:59:26.295625 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-03-03 11:59:37.781713 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:00:30.616516 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:06:10.894106 | E004 | Error while Attempting to close connection invalid command name ".140007468125600"
+2017-03-03 12:06:10.904562 | E004 | Error while Attempting to close connection invalid command name ".140007468229072"
+2017-03-03 12:06:10.914627 | E004 | Error while Attempting to close connection invalid command name ".140007468230080"
+2017-03-03 12:06:18.519957 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:22:31.335476 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 12:22:31.390046 | E004 | Error while Attempting to close connection invalid command name ".139624656392712"
+2017-03-03 12:22:31.447631 | E004 | Error while Attempting to close connection [Errno 32] Broken pipe
+2017-03-03 12:26:59.043848 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:26:59.497237 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 1
+2017-03-03 12:27:05.607539 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:27:13.809155 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:27:32.485677 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:27:39.250242 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:39:16.074018 | E004 | Error while Attempting to close connection invalid command name ".139822027955616"
+2017-03-03 12:39:16.405772 | E004 | Error while Attempting to close connection invalid command name ".139822027985360"
+2017-03-03 12:39:16.799727 | E004 | Error while Attempting to close connection invalid command name ".139822027986368"
+2017-03-03 12:59:40.985825 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:59:44.787706 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 12:59:58.757894 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 0
+2017-03-03 13:00:18.700135 | E002 | WHILE OPENING SOCKET [Errno 98] Address already in use CPU NUM 2
+2017-03-03 13:00:22.003803 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-03-03 13:00:22.470397 | E004 | Error while Attempting to close connection 'twig' object has no attribute 'conn'
+2017-03-03 14:10:00.371225 | E002 | WHILE OPENING SOCKET main thread is not in main loop CPU NUM 0
+2017-03-03 18:44:39.473303 | E004 | Error while Attempting to close connection invalid command name ".140278909051624"
+2017-03-03 18:45:14.238561 | E004 | Error while Attempting to close connection invalid command name ".140553440789224"
+2017-03-03 18:48:53.856843 | E004 | Error while Attempting to close connection invalid command name ".139799400247872"
+2017-03-03 18:57:50.748032 | E003 | NO CONNECTION WHEN ATTEMPTING TO sendMessage0CLOSE|NOW
+2017-03-03 18:57:59.477143 | E004 | Error while Attempting to close connection 'NoneType' object has no attribute 'close'

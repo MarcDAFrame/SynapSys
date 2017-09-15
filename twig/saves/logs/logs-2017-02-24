@@ -1,0 +1,146 @@
+2017-02-24 08:48:25.108451 | L005 | Client Open
+2017-02-24 08:48:26.600087 | L001 | COMPUTER ADDED | 1
+2017-02-24 08:48:28.188156 | L004 | Socket INIT CPU#0
+2017-02-24 08:48:35.956113 | L003 | Connection Open 0
+2017-02-24 08:48:35.961182 | L005 | Opening Listener
+2017-02-24 08:48:35.964634 | L007 | Attempting to open listener
+2017-02-24 08:48:35.969699 | L010 | Successfully Opened Listener
+2017-02-24 08:48:40.551061 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 08:48:40.552395 | L002 | Stream Started
+2017-02-24 08:49:36.986734 | L006 | Client Closed
+2017-02-24 08:49:37.015557 | L008 | received from twig 0 
+2017-02-24 08:49:37.016493 | L012 | Logging Data...
+2017-02-24 08:51:44.554715 | L005 | Client Open
+2017-02-24 08:51:46.644647 | L001 | COMPUTER ADDED | 1
+2017-02-24 08:51:47.724090 | L004 | Socket INIT CPU#0
+2017-02-24 08:51:57.326354 | L003 | Connection Open 0
+2017-02-24 08:51:57.329265 | L005 | Opening Listener
+2017-02-24 08:51:57.331154 | L007 | Attempting to open listener
+2017-02-24 08:51:57.335276 | L010 | Successfully Opened Listener
+2017-02-24 08:52:00.910599 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 08:52:05.830767 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 08:52:05.832002 | L002 | Stream Started
+2017-02-24 08:52:19.611454 | L006 | Client Closed
+2017-02-24 08:52:19.645341 | L008 | received from twig 0 
+2017-02-24 08:52:19.645972 | L012 | Logging Data...
+2017-02-24 08:52:21.443191 | L005 | Client Open
+2017-02-24 08:52:23.086928 | L001 | COMPUTER ADDED | 1
+2017-02-24 08:52:24.628780 | L004 | Socket INIT CPU#0
+2017-02-24 08:52:27.649447 | L003 | Connection Open 0
+2017-02-24 08:52:27.657603 | L005 | Opening Listener
+2017-02-24 08:52:27.663492 | L007 | Attempting to open listener
+2017-02-24 08:52:27.664810 | L010 | Successfully Opened Listener
+2017-02-24 08:52:29.053367 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 08:52:33.573375 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 08:52:33.575391 | L002 | Stream Started
+2017-02-24 08:52:34.644979 | L008 | received from twig 0 ['t#2', True, False, True, False, True, False, True, False, False]
+2017-02-24 08:52:34.646830 | L012 | Logging Data...
+2017-02-24 08:52:34.648650 | L010 | Successfully Opened Listener
+2017-02-24 09:20:00.807891 | L006 | Client Closed
+2017-02-24 12:40:55.547294 | L005 | Client Open
+2017-02-24 12:40:59.043646 | L006 | Client Closed
+2017-02-24 12:42:28.255528 | L005 | Client Open
+2017-02-24 12:42:38.578456 | L001 | COMPUTER ADDED | 1
+2017-02-24 12:42:39.451249 | L004 | Socket INIT CPU#0
+2017-02-24 13:00:17.367795 | L005 | Client Open
+2017-02-24 13:00:18.830691 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:00:19.572563 | L004 | Socket INIT CPU#0
+2017-02-24 13:00:50.439773 | L006 | Client Closed
+2017-02-24 13:02:15.797381 | L005 | Client Open
+2017-02-24 13:02:17.924729 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:02:18.977794 | L004 | Socket INIT CPU#0
+2017-02-24 13:02:22.369350 | L006 | Client Closed
+2017-02-24 13:02:42.481760 | L005 | Client Open
+2017-02-24 13:02:44.059893 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:02:44.757497 | L004 | Socket INIT CPU#0
+2017-02-24 13:02:48.353617 | L006 | Client Closed
+2017-02-24 13:04:18.851468 | L005 | Client Open
+2017-02-24 13:04:19.957012 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:04:20.507846 | L004 | Socket INIT CPU#0
+2017-02-24 13:04:44.896779 | L003 | Connection Open 0
+2017-02-24 13:04:44.900304 | L005 | Opening Listener
+2017-02-24 13:04:44.903244 | L007 | Attempting to open listener
+2017-02-24 13:04:44.907723 | L010 | Successfully Opened Listener
+2017-02-24 13:04:50.613714 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 13:04:54.774234 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 13:04:54.775738 | L002 | Stream Started
+2017-02-24 13:04:55.837953 | L008 | received from twig 0 ['t#3', True, False, True, False, True, False, True, False, False]
+2017-02-24 13:04:55.839154 | L012 | Logging Data...
+2017-02-24 13:04:55.856836 | L010 | Successfully Opened Listener
+2017-02-24 13:04:59.233474 | L006 | Client Closed
+2017-02-24 13:06:39.452598 | L005 | Client Open
+2017-02-24 13:06:41.624884 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:06:42.490750 | L004 | Socket INIT CPU#0
+2017-02-24 13:07:59.983948 | L001 | COMPUTER ADDED | 2
+2017-02-24 13:08:00.819296 | L004 | Socket INIT CPU#1
+2017-02-24 13:10:26.062713 | L006 | Client Closed
+2017-02-24 13:10:38.233292 | L005 | Client Open
+2017-02-24 13:10:39.669238 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:10:40.723152 | L004 | Socket INIT CPU#0
+2017-02-24 13:10:46.511773 | L006 | Client Closed
+2017-02-24 13:18:28.076764 | L005 | Client Open
+2017-02-24 13:19:12.052925 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:19:13.379190 | L004 | Socket INIT CPU#0
+2017-02-24 13:20:07.571060 | L006 | Client Closed
+2017-02-24 13:21:01.874003 | L005 | Client Open
+2017-02-24 13:21:03.307098 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:21:04.574355 | L004 | Socket INIT CPU#0
+2017-02-24 13:21:19.512870 | L003 | Connection Open 0
+2017-02-24 13:21:19.517952 | L005 | Opening Listener
+2017-02-24 13:21:19.521363 | L007 | Attempting to open listener
+2017-02-24 13:21:19.524751 | L010 | Successfully Opened Listener
+2017-02-24 13:21:30.280403 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 13:21:30.282895 | L002 | Stream Started
+2017-02-24 13:21:31.295149 | L008 | received from twig 0 ['t#4', True, False, True, False, True, False, True, False, False]
+2017-02-24 13:21:31.297241 | L012 | Logging Data...
+2017-02-24 13:21:31.299632 | L010 | Successfully Opened Listener
+2017-02-24 13:30:12.617396 | L001 | COMPUTER ADDED | 2
+2017-02-24 13:30:13.371596 | L004 | Socket INIT CPU#1
+2017-02-24 13:30:50.563723 | L003 | Connection Open 1
+2017-02-24 13:30:50.567663 | L005 | Opening Listener
+2017-02-24 13:30:50.571984 | L007 | Attempting to open listener
+2017-02-24 13:30:50.574326 | L010 | Successfully Opened Listener
+2017-02-24 13:30:55.179690 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-24 13:30:55.181538 | L002 | Stream Started
+2017-02-24 13:30:57.194854 | L008 | received from twig 1 ['t#5', False, False, False, False]
+2017-02-24 13:30:57.197378 | L012 | Logging Data...
+2017-02-24 13:30:57.198772 | L010 | Successfully Opened Listener
+2017-02-24 13:33:22.326538 | L006 | Client Closed
+2017-02-24 13:33:22.334240 | L008 | received from twig 1 
+2017-02-24 13:33:22.334946 | L012 | Logging Data...
+2017-02-24 13:33:25.039689 | L005 | Client Open
+2017-02-24 13:33:26.717659 | L006 | Client Closed
+2017-02-24 13:33:47.036967 | L005 | Client Open
+2017-02-24 13:33:50.856679 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:33:51.294789 | L001 | COMPUTER ADDED | 2
+2017-02-24 13:33:54.853246 | L004 | Socket INIT CPU#0
+2017-02-24 13:33:56.076849 | L004 | Socket INIT CPU#1
+2017-02-24 13:34:41.852650 | L003 | Connection Open 0
+2017-02-24 13:34:41.857428 | L005 | Opening Listener
+2017-02-24 13:34:41.866278 | L007 | Attempting to open listener
+2017-02-24 13:34:41.869714 | L010 | Successfully Opened Listener
+2017-02-24 13:34:44.357464 | L003 | Connection Open 1
+2017-02-24 13:34:44.361395 | L005 | Opening Listener
+2017-02-24 13:34:44.364240 | L007 | Attempting to open listener
+2017-02-24 13:34:44.365584 | L010 | Successfully Opened Listener
+2017-02-24 13:35:33.939789 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-02-24 13:35:33.942422 | L002 | Stream Started
+2017-02-24 13:35:34.987760 | L008 | received from twig 0 ['t#1', True, True, True, True, False, True, False]
+2017-02-24 13:35:35.947912 | L012 | Logging Data...
+2017-02-24 13:35:35.951522 | L010 | Successfully Opened Listener
+2017-02-24 13:35:35.953374 | L008 | received from twig 1 ['t#1', False, False, False, False, False, False]
+2017-02-24 13:35:35.955917 | L012 | Logging Data...
+2017-02-24 13:35:35.957433 | L010 | Successfully Opened Listener
+2017-02-24 13:40:20.872596 | L006 | Client Closed
+2017-02-24 13:40:20.879770 | L008 | received from twig 1 
+2017-02-24 13:40:20.880551 | L012 | Logging Data...
+2017-02-24 13:41:20.196020 | L005 | Client Open
+2017-02-24 13:41:21.850142 | L001 | COMPUTER ADDED | 1
+2017-02-24 13:41:22.705112 | L004 | Socket INIT CPU#0
+2017-02-24 13:41:25.896880 | L003 | Connection Open 0
+2017-02-24 13:41:25.902944 | L005 | Opening Listener
+2017-02-24 13:41:25.905742 | L007 | Attempting to open listener
+2017-02-24 13:41:25.907980 | L010 | Successfully Opened Listener
+2017-02-24 13:41:34.325647 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-02-24 13:41:34.327392 | L002 | Stream Started
+2017-02-24 13:42:06.320938 | L006 | Client Closed

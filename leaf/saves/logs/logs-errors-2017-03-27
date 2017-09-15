@@ -1,0 +1,248 @@
+2017-03-27 09:01:17.322184 | L001 | Leaf Connect INIT
+2017-03-27 09:01:24.855726 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:01:24.856707 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:01:24.858218 | L010 | Attempting to Open Listener
+2017-03-27 09:01:27.742985 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '796', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-27 09:01:27.743677 | L008 | attempting codeSaving
+2017-03-27 09:01:27.811561 | L007 | Attempting to Parse{'method': 'RUNCODE', 'ticket': '797', 'shape': (7...(\x14\x17\x1c\'\x0b)$"\x1b\x1b\x1d\x1e#\x1a '}|END
+2017-03-27 09:01:27.854757 | L009 | Attempting to RUNCODE
+2017-03-27 09:01:28.474825 | L010 | code run response
+2017-03-27 09:03:47.682981 | L006 | Attempting to Close Socket
+2017-03-27 09:03:47.683505 | L007 | Successfully Closed Socket
+2017-03-27 09:03:58.720161 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:03:58.727044 | L006 | Attempting to Close Socket
+2017-03-27 09:03:58.727699 | L007 | Successfully Closed Socket
+2017-03-27 09:05:40.966346 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:05:40.967199 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:05:40.968506 | L010 | Attempting to Open Listener
+2017-03-27 09:05:44.603967 | L007 | Attempting to Parse{'method': 'CODE', 'ticket': '798', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-27 09:05:44.607596 | L008 | attempting codeSaving
+2017-03-27 09:05:44.644413 | L007 | Attempting to Parse{'method': 'RUNCODE', 'ticket': '799', 'shape': (7...)$"\x1b\x1b\x1d\x1e#\x1a ', 'DataType': 'img'}|END
+2017-03-27 09:05:44.677003 | L009 | Attempting to RUNCODE
+2017-03-27 09:05:44.857845 | L010 | code run response
+2017-03-27 09:06:45.017991 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:06:45.019675 | L006 | Attempting to Close Socket
+2017-03-27 09:06:45.021545 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.088228 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.089035 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.264196 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.265379 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.456174 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.456986 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.576184 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.577023 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.696107 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.696947 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.816005 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.816690 | L007 | Successfully Closed Socket
+2017-03-27 09:06:52.952141 | L006 | Attempting to Close Socket
+2017-03-27 09:06:52.953631 | L007 | Successfully Closed Socket
+2017-03-27 09:06:53.048097 | L006 | Attempting to Close Socket
+2017-03-27 09:06:53.048972 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.344144 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.345249 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.448207 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.449168 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.560347 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.561564 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.680111 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.680961 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.808004 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.808581 | L007 | Successfully Closed Socket
+2017-03-27 09:06:55.920119 | L006 | Attempting to Close Socket
+2017-03-27 09:06:55.920904 | L007 | Successfully Closed Socket
+2017-03-27 09:06:56.040228 | L006 | Attempting to Close Socket
+2017-03-27 09:06:56.040915 | L007 | Successfully Closed Socket
+2017-03-27 09:06:56.176282 | L006 | Attempting to Close Socket
+2017-03-27 09:06:56.177208 | L007 | Successfully Closed Socket
+2017-03-27 09:06:57.456360 | L006 | Attempting to Close Socket
+2017-03-27 09:06:57.457371 | L007 | Successfully Closed Socket
+2017-03-27 09:06:57.703892 | L006 | Attempting to Close Socket
+2017-03-27 09:06:57.704383 | L007 | Successfully Closed Socket
+2017-03-27 09:06:57.815995 | L006 | Attempting to Close Socket
+2017-03-27 09:06:57.816479 | L007 | Successfully Closed Socket
+2017-03-27 09:06:57.936125 | L006 | Attempting to Close Socket
+2017-03-27 09:06:57.936804 | L007 | Successfully Closed Socket
+2017-03-27 09:06:58.072144 | L006 | Attempting to Close Socket
+2017-03-27 09:06:58.073338 | L007 | Successfully Closed Socket
+2017-03-27 09:07:07.872945 | L001 | Leaf Connect INIT
+2017-03-27 09:13:15.441146 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:13:15.442989 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:13:15.470257 | L010 | Attempting to Open Listener
+2017-03-27 09:13:16.886750 | L007 | Attempting to Parse{'ticket': '800', 'method': 'CODE', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-27 09:13:16.887500 | L008 | attempting codeSaving
+2017-03-27 09:13:16.940910 | L007 | Attempting to Parse{'DataType': 'img', 'shape': (720, 1280), 'method'...(\x14\x17\x1c\'\x0b)$"\x1b\x1b\x1d\x1e#\x1a '}|END
+2017-03-27 09:13:16.967866 | L009 | Attempting to RUNCODE
+2017-03-27 09:13:17.214366 | L010 | code run response
+2017-03-27 09:13:22.850438 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:13:22.852550 | L006 | Attempting to Close Socket
+2017-03-27 09:13:22.854639 | L007 | Successfully Closed Socket
+2017-03-27 09:13:42.256813 | L006 | Attempting to Close Socket
+2017-03-27 09:13:42.258216 | L007 | Successfully Closed Socket
+2017-03-27 09:13:42.441067 | L006 | Attempting to Close Socket
+2017-03-27 09:13:42.442353 | L007 | Successfully Closed Socket
+2017-03-27 09:14:13.093165 | L001 | Leaf Connect INIT
+2017-03-27 09:14:33.001751 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:14:33.003123 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-27 09:14:33.005863 | L010 | Attempting to Open Listener
+2017-03-27 09:14:34.750102 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '802'}|END
+2017-03-27 09:14:34.753392 | L008 | attempting codeSaving
+2017-03-27 09:14:34.804034 | L007 | Attempting to Parse{'message': b'\x1a\x1a\x1b\x1c\x1c\x1d\x1e\x1e\x1f... 'img', 'shape': (720, 1280), 'ticket': '803'}|END
+2017-03-27 09:14:34.831009 | L009 | Attempting to RUNCODE
+2017-03-27 09:14:35.067260 | L010 | code run response
+2017-03-27 09:15:40.195459 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:15:40.197044 | L006 | Attempting to Close Socket
+2017-03-27 09:15:40.200855 | L007 | Successfully Closed Socket
+2017-03-27 09:15:47.890222 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:15:47.892024 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:15:47.894210 | L010 | Attempting to Open Listener
+2017-03-27 09:15:49.235432 | L007 | Attempting to Parse{'ticket': '804', 'method': 'CODE', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-27 09:15:49.236310 | L008 | attempting codeSaving
+2017-03-27 09:15:49.280166 | L007 | Attempting to Parse{'shape': (720, 1280), 'ticket': '805', 'method': ...(\x14\x17\x1c\'\x0b)$"\x1b\x1b\x1d\x1e#\x1a '}|END
+2017-03-27 09:15:49.307801 | L009 | Attempting to RUNCODE
+2017-03-27 09:15:49.432459 | L010 | code run response
+2017-03-27 09:16:26.324011 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:16:26.327030 | L006 | Attempting to Close Socket
+2017-03-27 09:16:26.331184 | L007 | Successfully Closed Socket
+2017-03-27 09:17:10.074506 | L006 | Attempting to Close Socket
+2017-03-27 09:17:10.076055 | L007 | Successfully Closed Socket
+2017-03-27 09:17:14.850413 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:17:14.852041 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-27 09:17:14.854314 | L010 | Attempting to Open Listener
+2017-03-27 09:17:16.152831 | L007 | Attempting to Parse{'ticket': '806', 'message': '[\'import cv2, sys, ...alue\', dtype=\'uint8\')"]', 'method': 'CODE'}|END
+2017-03-27 09:17:16.153893 | L008 | attempting codeSaving
+2017-03-27 09:17:16.192877 | L007 | Attempting to Parse{'ticket': '807', 'shape': (720, 1280), 'DataType'..."\x1b\x1b\x1d\x1e#\x1a ', 'method': 'RUNCODE'}|END
+2017-03-27 09:17:16.219380 | L009 | Attempting to RUNCODE
+2017-03-27 09:17:16.339540 | L010 | code run response
+2017-03-27 09:17:27.070952 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-27 09:17:28.442275 | L006 | Attempting to Close Socket
+2017-03-27 09:17:28.443439 | L007 | Successfully Closed Socket
+2017-03-27 09:17:28.634214 | L006 | Attempting to Close Socket
+2017-03-27 09:17:28.635189 | L007 | Successfully Closed Socket
+2017-03-27 09:21:13.762914 | L006 | Attempting to Close Socket
+2017-03-27 09:21:13.763483 | L007 | Successfully Closed Socket
+2017-03-27 09:21:13.947140 | L006 | Attempting to Close Socket
+2017-03-27 09:21:13.948330 | L007 | Successfully Closed Socket
+2017-03-27 09:21:16.963903 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:21:16.967623 | L010 | Attempting to Open Listener
+2017-03-27 09:21:20.235299 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:21:20.236917 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:21:20.238569 | L010 | Attempting to Open Listener
+2017-03-27 09:21:22.558392 | L007 | Attempting to Parse{'method': 'CODE', 'message': '[\'import cv2, sys,...Value\', dtype=\'uint8\')"]', 'ticket': '808'}|END
+2017-03-27 09:21:22.559411 | L008 | attempting codeSaving
+2017-03-27 09:21:22.600666 | L007 | Attempting to Parse{'method': 'RUNCODE', 'message': b'\x1a\x1a\x1b\x1...20, 1280), 'DataType': 'img', 'ticket': '809'}|END
+2017-03-27 09:21:22.627252 | L009 | Attempting to RUNCODE
+2017-03-27 09:21:22.749738 | L010 | code run response
+2017-03-27 09:21:46.237571 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:21:46.240625 | L006 | Attempting to Close Socket
+2017-03-27 09:21:46.245782 | L007 | Successfully Closed Socket
+2017-03-27 09:21:47.779443 | L006 | Attempting to Close Socket
+2017-03-27 09:21:47.781292 | L007 | Successfully Closed Socket
+2017-03-27 09:21:47.923334 | L006 | Attempting to Close Socket
+2017-03-27 09:21:47.924385 | L007 | Successfully Closed Socket
+2017-03-27 09:21:48.067473 | L006 | Attempting to Close Socket
+2017-03-27 09:21:48.068700 | L007 | Successfully Closed Socket
+2017-03-27 09:22:00.224334 | L001 | Leaf Connect INIT
+2017-03-27 09:22:08.220289 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:22:08.222670 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-27 09:22:08.225583 | L010 | Attempting to Open Listener
+2017-03-27 09:22:10.245640 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '810'}|END
+2017-03-27 09:22:10.246535 | L008 | attempting codeSaving
+2017-03-27 09:22:10.296279 | L007 | Attempting to Parse{'ticket': '811', 'message': b'\x1a\x1a\x1b\x1c\x1...ODE', 'DataType': 'img', 'shape': (720, 1280)}|END
+2017-03-27 09:22:10.322791 | L009 | Attempting to RUNCODE
+2017-03-27 09:22:10.554110 | L010 | code run response
+2017-03-27 09:22:19.229224 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-27 09:24:42.509704 | L001 | Leaf Connect INIT
+2017-03-27 09:24:52.189381 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:24:52.191115 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:24:52.194061 | L010 | Attempting to Open Listener
+2017-03-27 09:24:53.670172 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '812'}|END
+2017-03-27 09:24:53.673085 | L008 | attempting codeSaving
+2017-03-27 09:24:53.734816 | L007 | Attempting to Parse{'DataType': 'img', 'message': b'\x1a\x1a\x1b\x1c\...NCODE', 'shape': (720, 1280), 'ticket': '813'}|END
+2017-03-27 09:24:53.761542 | L009 | Attempting to RUNCODE
+2017-03-27 09:24:53.984526 | L010 | code run response
+2017-03-27 09:26:01.636495 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-27 09:27:03.590875 | L001 | Leaf Connect INIT
+2017-03-27 09:27:13.622652 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:27:13.624443 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:27:13.627558 | L010 | Attempting to Open Listener
+2017-03-27 09:27:14.896662 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '814'}|END
+2017-03-27 09:27:14.897789 | L008 | attempting codeSaving
+2017-03-27 09:27:14.949765 | L007 | Attempting to Parse{'message': b'\x1a\x1a\x1b\x1c\x1c\x1d\x1e\x1e\x1f...g', 'method': 'RUNCODE', 'shape': (720, 1280)}|END
+2017-03-27 09:27:14.977278 | L009 | Attempting to RUNCODE
+2017-03-27 09:27:15.219111 | L010 | code run response
+2017-03-27 09:27:55.296079 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-27 09:28:00.838709 | L006 | Attempting to Close Socket
+2017-03-27 09:28:00.840970 | L007 | Successfully Closed Socket
+2017-03-27 09:28:01.006713 | L006 | Attempting to Close Socket
+2017-03-27 09:28:01.007945 | L007 | Successfully Closed Socket
+2017-03-27 09:28:01.150750 | L006 | Attempting to Close Socket
+2017-03-27 09:28:01.152221 | L007 | Successfully Closed Socket
+2017-03-27 09:28:03.975241 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:28:03.976213 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:28:03.977955 | L010 | Attempting to Open Listener
+2017-03-27 09:28:06.056722 | L007 | Attempting to Parse{'method': 'CODE', 'message': '[\'import cv2, sys,...Value\', dtype=\'uint8\')"]', 'ticket': '816'}|END
+2017-03-27 09:28:06.058128 | L008 | attempting codeSaving
+2017-03-27 09:28:06.101614 | L007 | Attempting to Parse{'ticket': '817', 'method': 'RUNCODE', 'message': ...1a ', 'DataType': 'img', 'shape': (720, 1280)}|END
+2017-03-27 09:28:06.127895 | L009 | Attempting to RUNCODE
+2017-03-27 09:28:06.254236 | L010 | code run response
+2017-03-27 09:28:50.506659 | L007 | Attempting to ParseCLOSE|NOW|END...CLOSE|NOW|END
+2017-03-27 09:29:00.647676 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:29:00.649657 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-27 09:29:00.651401 | L010 | Attempting to Open Listener
+2017-03-27 09:29:02.719769 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '818'}|END
+2017-03-27 09:29:02.721581 | L008 | attempting codeSaving
+2017-03-27 09:29:02.766526 | L007 | Attempting to Parse{'message': b'\x1a\x1a\x1b\x1c\x1c\x1d\x1e\x1e\x1f..., 1280), 'method': 'RUNCODE', 'ticket': '819'}|END
+2017-03-27 09:29:02.791941 | L009 | Attempting to RUNCODE
+2017-03-27 09:29:02.912081 | L010 | code run response
+2017-03-27 09:29:14.189289 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'method': 'CODE', 'ticket': '820'}|END
+2017-03-27 09:29:14.191230 | L008 | attempting codeSaving
+2017-03-27 09:29:14.239940 | L007 | Attempting to Parse{'message': b'\x1a\x1a\x1b\x1c\x1c\x1d\x1e\x1e\x1f..., 1280), 'method': 'RUNCODE', 'ticket': '821'}|END
+2017-03-27 09:29:14.269150 | L009 | Attempting to RUNCODE
+2017-03-27 09:29:14.389175 | L010 | code run response
+2017-03-27 09:34:29.516487 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:34:29.520086 | L006 | Attempting to Close Socket
+2017-03-27 09:34:29.523335 | L007 | Successfully Closed Socket
+2017-03-27 09:34:30.322114 | L006 | Attempting to Close Socket
+2017-03-27 09:34:30.323760 | L007 | Successfully Closed Socket
+2017-03-27 09:34:54.178100 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:34:54.179377 | L003 | Successfully Connected to 127.0.0.1:5000
+2017-03-27 09:34:54.184117 | L010 | Attempting to Open Listener
+2017-03-27 09:34:57.760656 | L007 | Attempting to Parse{'ticket': '822', 'method': 'CODE', 'message': '[\...py.loadtxt(\'faceValue\', dtype=\'uint8\')"]'}|END
+2017-03-27 09:34:57.762078 | L008 | attempting codeSaving
+2017-03-27 09:34:57.787958 | L007 | Attempting to Parse{'DataType': 'img', 'method': 'RUNCODE', 'message'...#$) &', 'shape': (720, 1280), 'ticket': '823'}|END
+2017-03-27 09:34:57.807759 | L009 | Attempting to RUNCODE
+2017-03-27 09:34:57.949760 | L010 | code run response
+2017-03-27 09:35:25.908543 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:35:25.910903 | L006 | Attempting to Close Socket
+2017-03-27 09:35:25.913100 | L007 | Successfully Closed Socket
+2017-03-27 09:35:26.730592 | L006 | Attempting to Close Socket
+2017-03-27 09:35:26.732536 | L007 | Successfully Closed Socket
+2017-03-27 09:35:33.466042 | L006 | Attempting to Close Socket
+2017-03-27 09:35:33.466816 | L007 | Successfully Closed Socket
+2017-03-27 09:35:33.658318 | L006 | Attempting to Close Socket
+2017-03-27 09:35:33.659320 | L007 | Successfully Closed Socket
+2017-03-27 09:35:33.810484 | L006 | Attempting to Close Socket
+2017-03-27 09:35:33.812605 | L007 | Successfully Closed Socket
+2017-03-27 09:35:33.954495 | L006 | Attempting to Close Socket
+2017-03-27 09:35:33.955865 | L007 | Successfully Closed Socket
+2017-03-27 09:35:34.074607 | L006 | Attempting to Close Socket
+2017-03-27 09:35:34.075976 | L007 | Successfully Closed Socket
+2017-03-27 09:35:38.002583 | L002 | Leaf Attempting to Connect to 127.0.0.1:5000
+2017-03-27 09:35:38.005577 | L010 | Attempting to Open Listener
+2017-03-27 09:35:40.522682 | L002 | Leaf Attempting to Connect to 127.0.0.1:5001
+2017-03-27 09:35:40.524885 | L003 | Successfully Connected to 127.0.0.1:5001
+2017-03-27 09:35:40.527977 | L010 | Attempting to Open Listener
+2017-03-27 09:35:45.064381 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'ticket': '824', 'method': 'CODE'}|END
+2017-03-27 09:35:45.065989 | L008 | attempting codeSaving
+2017-03-27 09:35:45.092135 | L007 | Attempting to Parse{'message': b'SSSSSSSSUUUUUUUUQQQQQQQQUUUUUUUUUUUU...1280), 'DataType': 'img', 'method': 'RUNCODE'}|END
+2017-03-27 09:35:45.108450 | L009 | Attempting to RUNCODE
+2017-03-27 09:35:45.221314 | L010 | code run response
+2017-03-27 09:35:57.422857 | L007 | Attempting to Parse{'message': '[\'import cv2, sys, time\', \'import ...int8\')"]', 'ticket': '826', 'method': 'CODE'}|END
+2017-03-27 09:35:57.423983 | L008 | attempting codeSaving
+2017-03-27 09:35:57.446119 | L007 | Attempting to Parse{'message': b'SSSSSSSSQQRSSTUUUUUUUUUUUVVWYZZ[UUUU...1280), 'DataType': 'img', 'method': 'RUNCODE'}|END
+2017-03-27 09:35:57.463244 | L009 | Attempting to RUNCODE
+2017-03-27 09:35:57.583719 | L010 | code run response
+2017-03-27 09:49:09.163503 | L007 | Attempting to Parse{'method': 'CLOSE'}|END...{'method': 'CLOSE'}|END
+2017-03-27 09:49:09.167201 | L006 | Attempting to Close Socket
+2017-03-27 09:49:09.168943 | L007 | Successfully Closed Socket

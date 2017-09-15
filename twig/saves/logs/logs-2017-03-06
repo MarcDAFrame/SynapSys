@@ -1,0 +1,18 @@
+2017-03-06 14:52:07.232250 | L005 | Client Open
+2017-03-06 14:52:26.450799 | L001 | COMPUTER ADDED | 1
+2017-03-06 14:52:27.114875 | L004 | Socket INIT CPU#0
+2017-03-06 14:52:34.121728 | L003 | Connection Open 0
+2017-03-06 14:52:34.124348 | L005 | Opening Listener
+2017-03-06 14:52:34.126807 | L007 | Attempting to open listener
+2017-03-06 14:52:34.127892 | L010 | Attempting to Open Listener
+2017-03-06 14:52:59.027415 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-06 14:52:59.028026 | L002 | Stream Started
+2017-03-06 14:52:59.029807 | L00x | Attempting to send message CODE|['def a(values)...(More Data) 0
+2017-03-06 14:52:59.071601 | L00x | Attempting to send message RUNCODE|422|['1', '2...(More Data) 0
+2017-03-06 14:52:59.110695 | L008 | received from twig 0 ['422', True, True, True, False, True, False, True, False, False, False, True, False, True, False, F alse, False, False, True, False, False, False]|END
+2017-03-06 14:52:59.112802 | L012 | Logging Data...
+2017-03-06 14:52:59.113543 | L00x | Time Elapsed0.08509564399719238
+2017-03-06 14:52:59.130075 | L010 | Attempting to Open Listener
+2017-03-06 14:55:41.706723 | L006 | Client Closed
+2017-03-06 14:55:41.707567 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0
+2017-03-06 14:55:41.708330 | L00x | Attempting to send message CLOSE|NOW...(More Data) 0

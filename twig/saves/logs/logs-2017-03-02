@@ -1,0 +1,254 @@
+2017-03-02 18:20:05.259884 | L005 | Client Open
+2017-03-02 18:20:07.079889 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:20:07.832041 | L004 | Socket INIT CPU#0
+2017-03-02 18:20:29.354918 | L006 | Client Closed
+2017-03-02 18:21:34.162788 | L005 | Client Open
+2017-03-02 18:21:35.584242 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:21:36.255991 | L004 | Socket INIT CPU#0
+2017-03-02 18:21:42.776870 | L003 | Connection Open 0
+2017-03-02 18:21:42.783581 | L005 | Opening Listener
+2017-03-02 18:21:42.787305 | L007 | Attempting to open listener
+2017-03-02 18:21:52.479530 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:21:52.480868 | L002 | Stream Started
+2017-03-02 18:21:54.016670 | L011 | Message From Connected Twig: b"['76"', True, True, True, True, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, True, False, True, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, True, False, False, False, False, False, True]
+2017-03-02 18:21:54.072957 | L010 | Successfully Opened Listener
+2017-03-02 18:21:54.133134 | L008 | received from twig 0 None
+2017-03-02 18:22:58.757439 | L006 | Client Closed
+2017-03-02 18:23:30.740907 | L005 | Client Open
+2017-03-02 18:23:38.927358 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:23:47.352530 | L004 | Socket INIT CPU#0
+2017-03-02 18:23:53.615798 | L001 | COMPUTER ADDED | 2
+2017-03-02 18:23:54.192330 | L004 | Socket INIT CPU#1
+2017-03-02 18:23:56.370877 | L003 | Connection Open 1
+2017-03-02 18:23:56.379990 | L005 | Opening Listener
+2017-03-02 18:23:56.382734 | L007 | Attempting to open listener
+2017-03-02 18:24:04.224041 | L005 | Attempting to Start Twig with a CPU COUNT of 2
+2017-03-02 18:24:04.225823 | L002 | Stream Started
+2017-03-02 18:24:45.779341 | L008 | received from twig 1 None
+2017-03-02 18:24:48.021519 | L006 | Client Closed
+2017-03-02 18:45:35.671324 | L005 | Client Open
+2017-03-02 18:45:41.419141 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:45:41.954759 | L004 | Socket INIT CPU#0
+2017-03-02 18:45:46.853520 | L003 | Connection Open 0
+2017-03-02 18:45:46.859642 | L005 | Opening Listener
+2017-03-02 18:45:46.868926 | L007 | Attempting to open listener
+2017-03-02 18:45:46.871948 | L010 | Attempting to Open Listener
+2017-03-02 18:45:50.874621 | L00x | Returned from leaf []
+2017-03-02 18:45:50.875785 | L008 | received from twig 0 []
+2017-03-02 18:45:50.876985 | L012 | Logging Data...
+2017-03-02 18:45:50.880014 | L010 | Attempting to Open Listener
+2017-03-02 18:45:54.881209 | L00x | Returned from leaf []
+2017-03-02 18:45:54.881981 | L008 | received from twig 0 []
+2017-03-02 18:45:54.882769 | L012 | Logging Data...
+2017-03-02 18:45:54.884081 | L010 | Attempting to Open Listener
+2017-03-02 18:45:58.884933 | L00x | Returned from leaf []
+2017-03-02 18:45:58.886085 | L008 | received from twig 0 []
+2017-03-02 18:45:58.887604 | L012 | Logging Data...
+2017-03-02 18:45:58.889981 | L010 | Attempting to Open Listener
+2017-03-02 18:46:02.890830 | L00x | Returned from leaf []
+2017-03-02 18:46:02.891838 | L008 | received from twig 0 []
+2017-03-02 18:46:02.892750 | L012 | Logging Data...
+2017-03-02 18:46:02.895282 | L010 | Attempting to Open Listener
+2017-03-02 18:46:06.896209 | L00x | Returned from leaf []
+2017-03-02 18:46:06.897215 | L008 | received from twig 0 []
+2017-03-02 18:46:06.898405 | L012 | Logging Data...
+2017-03-02 18:46:06.899870 | L010 | Attempting to Open Listener
+2017-03-02 18:46:10.901923 | L00x | Returned from leaf []
+2017-03-02 18:46:10.903607 | L008 | received from twig 0 []
+2017-03-02 18:46:10.904533 | L012 | Logging Data...
+2017-03-02 18:46:10.905912 | L010 | Attempting to Open Listener
+2017-03-02 18:46:14.907205 | L00x | Returned from leaf []
+2017-03-02 18:46:14.908893 | L008 | received from twig 0 []
+2017-03-02 18:46:14.910331 | L012 | Logging Data...
+2017-03-02 18:46:14.912369 | L010 | Attempting to Open Listener
+2017-03-02 18:46:18.913143 | L00x | Returned from leaf []
+2017-03-02 18:46:18.914210 | L008 | received from twig 0 []
+2017-03-02 18:46:18.915493 | L012 | Logging Data...
+2017-03-02 18:46:18.917818 | L010 | Attempting to Open Listener
+2017-03-02 18:46:22.919546 | L00x | Returned from leaf []
+2017-03-02 18:46:22.922368 | L008 | received from twig 0 []
+2017-03-02 18:46:22.924310 | L012 | Logging Data...
+2017-03-02 18:46:22.925580 | L010 | Attempting to Open Listener
+2017-03-02 18:46:26.926571 | L00x | Returned from leaf []
+2017-03-02 18:46:26.927457 | L008 | received from twig 0 []
+2017-03-02 18:46:26.928426 | L012 | Logging Data...
+2017-03-02 18:46:26.930696 | L010 | Attempting to Open Listener
+2017-03-02 18:46:30.931807 | L00x | Returned from leaf []
+2017-03-02 18:46:30.933454 | L008 | received from twig 0 []
+2017-03-02 18:46:30.959388 | L012 | Logging Data...
+2017-03-02 18:46:30.981820 | L010 | Attempting to Open Listener
+2017-03-02 18:46:34.983102 | L00x | Returned from leaf []
+2017-03-02 18:46:34.983990 | L008 | received from twig 0 []
+2017-03-02 18:46:34.985211 | L012 | Logging Data...
+2017-03-02 18:46:34.986752 | L010 | Attempting to Open Listener
+2017-03-02 18:46:38.988829 | L00x | Returned from leaf []
+2017-03-02 18:46:38.989702 | L008 | received from twig 0 []
+2017-03-02 18:46:38.990736 | L012 | Logging Data...
+2017-03-02 18:46:38.991791 | L010 | Attempting to Open Listener
+2017-03-02 18:46:42.992681 | L00x | Returned from leaf []
+2017-03-02 18:46:42.995175 | L008 | received from twig 0 []
+2017-03-02 18:46:42.996147 | L012 | Logging Data...
+2017-03-02 18:46:42.997523 | L010 | Attempting to Open Listener
+2017-03-02 18:46:46.999330 | L00x | Returned from leaf []
+2017-03-02 18:46:47.000554 | L008 | received from twig 0 []
+2017-03-02 18:46:47.001763 | L012 | Logging Data...
+2017-03-02 18:46:47.003748 | L010 | Attempting to Open Listener
+2017-03-02 18:46:51.004787 | L00x | Returned from leaf []
+2017-03-02 18:46:51.005802 | L008 | received from twig 0 []
+2017-03-02 18:46:51.006839 | L012 | Logging Data...
+2017-03-02 18:46:51.007945 | L010 | Attempting to Open Listener
+2017-03-02 18:46:55.008708 | L00x | Returned from leaf []
+2017-03-02 18:46:55.009854 | L008 | received from twig 0 []
+2017-03-02 18:46:55.010707 | L012 | Logging Data...
+2017-03-02 18:46:55.013413 | L010 | Attempting to Open Listener
+2017-03-02 18:46:59.014273 | L00x | Returned from leaf []
+2017-03-02 18:46:59.015108 | L008 | received from twig 0 []
+2017-03-02 18:46:59.016069 | L012 | Logging Data...
+2017-03-02 18:46:59.017135 | L010 | Attempting to Open Listener
+2017-03-02 18:47:03.018024 | L00x | Returned from leaf []
+2017-03-02 18:47:03.018912 | L008 | received from twig 0 []
+2017-03-02 18:47:03.019984 | L012 | Logging Data...
+2017-03-02 18:47:03.021271 | L010 | Attempting to Open Listener
+2017-03-02 18:47:07.022353 | L00x | Returned from leaf []
+2017-03-02 18:47:07.024299 | L008 | received from twig 0 []
+2017-03-02 18:47:07.028427 | L012 | Logging Data...
+2017-03-02 18:47:07.031054 | L010 | Attempting to Open Listener
+2017-03-02 18:47:11.033865 | L00x | Returned from leaf []
+2017-03-02 18:47:11.035144 | L008 | received from twig 0 []
+2017-03-02 18:47:11.036421 | L012 | Logging Data...
+2017-03-02 18:47:11.040382 | L010 | Attempting to Open Listener
+2017-03-02 18:47:15.041758 | L00x | Returned from leaf []
+2017-03-02 18:47:15.042769 | L008 | received from twig 0 []
+2017-03-02 18:47:15.043683 | L012 | Logging Data...
+2017-03-02 18:47:15.045098 | L010 | Attempting to Open Listener
+2017-03-02 18:47:19.047445 | L00x | Returned from leaf []
+2017-03-02 18:47:19.048324 | L008 | received from twig 0 []
+2017-03-02 18:47:19.049248 | L012 | Logging Data...
+2017-03-02 18:47:19.051769 | L010 | Attempting to Open Listener
+2017-03-02 18:47:23.052716 | L00x | Returned from leaf []
+2017-03-02 18:47:23.053890 | L008 | received from twig 0 []
+2017-03-02 18:47:23.055050 | L012 | Logging Data...
+2017-03-02 18:47:23.057619 | L010 | Attempting to Open Listener
+2017-03-02 18:47:27.058779 | L00x | Returned from leaf []
+2017-03-02 18:47:27.060202 | L008 | received from twig 0 []
+2017-03-02 18:47:27.062200 | L012 | Logging Data...
+2017-03-02 18:47:27.064114 | L010 | Attempting to Open Listener
+2017-03-02 18:47:31.065054 | L00x | Returned from leaf []
+2017-03-02 18:47:31.066019 | L008 | received from twig 0 []
+2017-03-02 18:47:31.067480 | L012 | Logging Data...
+2017-03-02 18:47:31.069538 | L010 | Attempting to Open Listener
+2017-03-02 18:47:35.071080 | L00x | Returned from leaf []
+2017-03-02 18:47:35.071995 | L008 | received from twig 0 []
+2017-03-02 18:47:35.072827 | L012 | Logging Data...
+2017-03-02 18:47:35.075915 | L010 | Attempting to Open Listener
+2017-03-02 18:47:39.077315 | L00x | Returned from leaf []
+2017-03-02 18:47:39.078630 | L008 | received from twig 0 []
+2017-03-02 18:47:39.079888 | L012 | Logging Data...
+2017-03-02 18:47:39.081458 | L010 | Attempting to Open Listener
+2017-03-02 18:47:39.621635 | L006 | Client Closed
+2017-03-02 18:47:43.082505 | L00x | Returned from leaf []
+2017-03-02 18:47:43.083228 | L008 | received from twig 0 []
+2017-03-02 18:47:43.083875 | L012 | Logging Data...
+2017-03-02 18:48:06.028377 | L005 | Client Open
+2017-03-02 18:48:10.362446 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:48:11.057955 | L004 | Socket INIT CPU#0
+2017-03-02 18:48:17.836623 | L003 | Connection Open 0
+2017-03-02 18:48:17.844442 | L005 | Opening Listener
+2017-03-02 18:48:17.850002 | L007 | Attempting to open listener
+2017-03-02 18:48:17.856867 | L010 | Attempting to Open Listener
+2017-03-02 18:48:26.618503 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:48:26.797779 | L002 | Stream Started
+2017-03-02 18:48:47.044823 | L006 | Client Closed
+2017-03-02 18:48:52.548077 | L005 | Client Open
+2017-03-02 18:48:53.913705 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:48:54.602120 | L004 | Socket INIT CPU#0
+2017-03-02 18:49:04.764897 | L003 | Connection Open 0
+2017-03-02 18:49:04.771353 | L005 | Opening Listener
+2017-03-02 18:49:04.777897 | L007 | Attempting to open listener
+2017-03-02 18:49:04.782585 | L010 | Attempting to Open Listener
+2017-03-02 18:49:12.262089 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:49:22.201304 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:49:22.365418 | L002 | Stream Started
+2017-03-02 18:50:04.427483 | L006 | Client Closed
+2017-03-02 18:50:08.144317 | L005 | Client Open
+2017-03-02 18:50:18.068497 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:50:18.589040 | L004 | Socket INIT CPU#0
+2017-03-02 18:50:29.423189 | L003 | Connection Open 0
+2017-03-02 18:50:29.435996 | L005 | Opening Listener
+2017-03-02 18:50:29.441234 | L007 | Attempting to open listener
+2017-03-02 18:50:29.446883 | L010 | Attempting to Open Listener
+2017-03-02 18:50:41.553494 | L006 | Client Closed
+2017-03-02 18:53:03.881402 | L005 | Client Open
+2017-03-02 18:53:19.600027 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:53:20.712478 | L004 | Socket INIT CPU#0
+2017-03-02 18:53:26.171002 | L003 | Connection Open 0
+2017-03-02 18:53:26.179184 | L005 | Opening Listener
+2017-03-02 18:53:26.182024 | L007 | Attempting to open listener
+2017-03-02 18:53:26.184590 | L010 | Attempting to Open Listener
+2017-03-02 18:53:30.881961 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:53:31.056908 | L002 | Stream Started
+2017-03-02 18:54:30.845383 | L006 | Client Closed
+2017-03-02 18:54:52.171696 | L005 | Client Open
+2017-03-02 18:54:53.537995 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:54:54.105377 | L004 | Socket INIT CPU#0
+2017-03-02 18:54:58.532621 | L003 | Connection Open 0
+2017-03-02 18:54:58.537681 | L005 | Opening Listener
+2017-03-02 18:54:58.548588 | L007 | Attempting to open listener
+2017-03-02 18:54:58.553193 | L010 | Attempting to Open Listener
+2017-03-02 18:55:02.455067 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:55:02.650302 | L002 | Stream Started
+2017-03-02 18:55:11.085681 | L006 | Client Closed
+2017-03-02 18:56:44.221980 | L005 | Client Open
+2017-03-02 18:56:45.843486 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:56:46.564079 | L004 | Socket INIT CPU#0
+2017-03-02 18:56:53.758312 | L003 | Connection Open 0
+2017-03-02 18:56:53.768964 | L005 | Opening Listener
+2017-03-02 18:56:53.774691 | L007 | Attempting to open listener
+2017-03-02 18:56:53.779594 | L010 | Attempting to Open Listener
+2017-03-02 18:57:15.895078 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:57:16.079359 | L002 | Stream Started
+2017-03-02 18:57:58.131569 | L006 | Client Closed
+2017-03-02 18:58:05.467363 | L005 | Client Open
+2017-03-02 18:58:06.844268 | L001 | COMPUTER ADDED | 1
+2017-03-02 18:58:07.460011 | L004 | Socket INIT CPU#0
+2017-03-02 18:58:16.598893 | L003 | Connection Open 0
+2017-03-02 18:58:16.607137 | L005 | Opening Listener
+2017-03-02 18:58:16.611211 | L007 | Attempting to open listener
+2017-03-02 18:58:16.615331 | L010 | Attempting to Open Listener
+2017-03-02 18:58:21.980926 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 18:58:22.165170 | L002 | Stream Started
+2017-03-02 18:58:34.044066 | L006 | Client Closed
+2017-03-02 22:51:42.896521 | L005 | Client Open
+2017-03-02 22:51:44.280579 | L001 | COMPUTER ADDED | 1
+2017-03-02 22:51:44.896546 | L004 | Socket INIT CPU#0
+2017-03-02 22:51:49.627352 | L003 | Connection Open 0
+2017-03-02 22:51:49.632340 | L005 | Opening Listener
+2017-03-02 22:51:49.646510 | L007 | Attempting to open listener
+2017-03-02 22:51:49.680324 | L010 | Attempting to Open Listener
+2017-03-02 22:52:14.209258 | L006 | Client Closed
+2017-03-02 22:52:20.135685 | L005 | Client Open
+2017-03-02 22:52:21.664793 | L001 | COMPUTER ADDED | 1
+2017-03-02 22:52:22.384781 | L004 | Socket INIT CPU#0
+2017-03-02 22:52:28.683517 | L003 | Connection Open 0
+2017-03-02 22:52:28.691616 | L005 | Opening Listener
+2017-03-02 22:52:28.700052 | L007 | Attempting to open listener
+2017-03-02 22:52:28.704861 | L010 | Attempting to Open Listener
+2017-03-02 22:52:39.613800 | L006 | Client Closed
+2017-03-02 23:09:52.761488 | L005 | Client Open
+2017-03-02 23:09:55.221438 | L001 | COMPUTER ADDED | 1
+2017-03-02 23:09:55.893344 | L004 | Socket INIT CPU#0
+2017-03-02 23:10:01.016471 | L003 | Connection Open 0
+2017-03-02 23:10:01.026032 | L005 | Opening Listener
+2017-03-02 23:10:01.031169 | L007 | Attempting to open listener
+2017-03-02 23:10:01.034587 | L010 | Attempting to Open Listener
+2017-03-02 23:10:11.221736 | L005 | Attempting to Start Twig with a CPU COUNT of 1
+2017-03-02 23:10:11.225705 | L002 | Stream Started
+2017-03-02 23:10:27.534324 | L006 | Client Closed
+2017-03-02 23:12:02.742770 | L005 | Client Open
+2017-03-02 23:12:12.894858 | L001 | COMPUTER ADDED | 1
+2017-03-02 23:12:13.439323 | L004 | Socket INIT CPU#0
+2017-03-02 23:12:19.674570 | L003 | Connection Open 0
+2017-03-02 23:12:19.679234 | L005 | Opening Listener
+2017-03-02 23:12:19.688683 | L007 | Attempting to open listener
+2017-03-02 23:12:19.691517 | L010 | Attempting to Open Listener
+2017-03-02 23:12:42.912267 | L006 | Client Closed
